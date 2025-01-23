@@ -1,16 +1,16 @@
 #! Checksum: 
-#! Version: 202407121
+#! Version: 20250123
 #! Title: The Squal's list
-#! Last modified: 12 July 2024 11:49 UTC
+#! Last modified: 23 Janurary 2025 12:20 UTC
 #! Expires: 1 days (update frequency)
-#! Homepage: https://thesqual1.000webhostapp.com/
+#! Homepage: https://github.com/thesqual92/pihole-list/
 #!
 #! *** thesqual.txt ***
 #!
 #! *** thesqual:thesqual.txt ***
 #! Description: Filtres Thesqual
-#! Repo Git: hhttps://thesqual.000webhostapp.com/
-#! Licence : 
+#! Repo Git: https://github.com/thesqual92/pihole-list
+#! Licence : Free
 #
 #!----------------------- Filtres génériques ----------------------!
 01.rednews7.com # Checked 2024-07-12 ##	 !20200101 - default date - 
@@ -185,7 +185,7 @@ clk.rtpdn11.com # Checked 2024-07-12 ##	 !20200101 - default date
 cloystercdn.com # Checked 2024-07-12 ##	 !20200101 - default date
 cm.ctnsnet.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
 cm.idealmedia.io # Checked 2024-07-12 ##	 !20200101 - default date
-cndmgfr # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+#cndmgfr # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
 collect-euw1-atihost.at-o.net # Checked 2024-07-12 ##	Adguard
 collector.appconsent.io # Checked 2024-07-12 ##	 
 commander1.com # Checked 2024-07-12 ##	Adguard
@@ -365,7 +365,7 @@ hotjar.com # Checked 2024-07-12 ##	 !20200101 - default date
 hotsimulator.com # Checked 2024-07-12 ##	 
 ht.youporn.com # Checked 2024-07-12 ##	 !20200101 - default date
 ht-cdn.trafficjunky.net # Checked 2024-07-12 ##	 Export 08-11-2023 
-https://app-measurement.com/sdk-exp # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+#https://app-measurement.com/sdk-exp # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
 hv.viewsurf.com # Checked 2024-07-12 ##	 !20220427 !1594567522 !1651045342 !Webcam !TO BE UPDATED IN TELEPORT " !20220427 !1594567522 !1651045342 !Webcam !TO BE UPDATED IN TELEPORT "
 hv-contents.adpaths.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
 i.ytimg.com # Checked 2024-07-12 ##	 !20200101 - default date
@@ -625,7 +625,7 @@ serverside3967.tagcommander.com # Checked 2024-07-12 ##	 !20211027
 service.piriform.com # Checked 2024-07-12 ##	 !20200101 - default date
 serving-sys.com # Checked 2024-07-12 ##	Adguard
 setup.fe.apple-dns.net # Checked 2024-07-12 ##	 !20211027
-sfmtxor # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+#sfmtxor # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
 shftr.adnxs.net # Checked 2024-07-12 ##	 Export 08-11-2023 
 shrugglefor.com # Checked 2024-07-12 ##	 !20220427 !1642758445 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1642758445 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
 signup.basilplay.com # Checked 2024-07-12 ##	 !20200101 - default date
