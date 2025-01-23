@@ -1,0 +1,814 @@
+#! Checksum: 
+#! Version: 202407121
+#! Title: The Squal's list
+#! Last modified: 12 July 2024 11:49 UTC
+#! Expires: 1 days (update frequency)
+#! Homepage: https://thesqual1.000webhostapp.com/
+#!
+#! *** thesqual.txt ***
+#!
+#! *** thesqual:thesqual.txt ***
+#! Description: Filtres Thesqual
+#! Repo Git: hhttps://thesqual.000webhostapp.com/
+#! Licence : 
+#
+#!----------------------- Filtres génériques ----------------------!
+01.rednews7.com # Checked 2024-07-12 ##	 !20200101 - default date - 
+0byv9mgbn0.com # Checked 2024-07-12 ##	!20200101 - default date
+0eabe743bef7376bdd8a48691ed0592f.clo.footprintdns.com # Checked 2024-07-12 ##	!20211027
+1.rednews7.com # Checked 2024-07-12 ##	 !20220427 ! !20220427 !
+1169634-34.chat.api.drift.com # Checked 2024-07-12 ##	!20211027
+2114.harmarekay.live # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+2mdn.com # Checked 2024-07-12 ##	!20211027
+360yield.com # Checked 2024-07-12 ##	Adguard
+4ur.click # Checked 2024-07-12 ##	!20211027
+7img.net # Checked 2024-07-12 ##	Adguard
+a.e-webtrack.net # Checked 2024-07-12 ##	 !20220427 !1591095290 !1651045342 !Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/blacklist.txt !TO BE UPDATED IN TELEPORT !20220427 !1591095290 !1651045342 !Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/blacklist.txt !TO BE UPDATED IN TELEPORT
+a.mailmunch.co # Checked 2024-07-12 ##	 !20220427 !1636013431 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT !20220427 !1636013431 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT
+a.pwspace.com # Checked 2024-07-12 ##	 !20210723 ! !20210723 !
+a1.awin1.com # Checked 2024-07-12 ##	!20211027
+a15853140465.cdn-pci.optimizely.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+a1838.dscb.akamai.net # Checked 2024-07-12 ##	 !20220427 !1625650442 !1651045343 !AUDIT !TO BE UPDATED IN TELEPORT !20220427 !1625650442 !1651045343 !AUDIT !TO BE UPDATED IN TELEPORT
+a1928.dscd.akamai.net # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+a2d.io # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+a387.b.akamai.net # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+a4.applovin.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+aa.google.com # Checked 2024-07-12 ##	 !20220427 !1636800984 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT !20220427 !1636800984 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT
+aax.amazon-adsystem.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+aax-eu.amazon-adsystem.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+abtasty.com # Checked 2024-07-12 ##	Adguard
+accengage.com # Checked 2024-07-12 ##	Adguard
+act.capital-news.fr # Checked 2024-07-12 ##	Adguard
+ad.360yield.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+ad.doubelclick.net # Checked 2024-07-12 ##	!20200101 - default date
+ad.missena.io # Checked 2024-07-12 ##	Adguard
+adclick.g.doubleclick.net # Checked 2024-07-12 ##	 !20220427 ! !20220427 !
+adlic.rjfun.com # Checked 2024-07-12 ##	Adguard
+adn-cronus-fk-external-326598343.eu-central-1.elb.amazonaws.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+adnxs.com # Checked 2024-07-12 ##	Adguard
+ads.avocet.io # Checked 2024-07-12 ##	!20200101 - default date
+ads.dugwood.com # Checked 2024-07-12 ##	Adguard
+ads.trafficjunky.net # Checked 2024-07-12 ##	!20200101 - default date
+adsassets.waze.com # Checked 2024-07-12 ##	Adguard
+adserver-eu.adtech.advertising.com # Checked 2024-07-12 ##	Adguard
+adservice.google.com # Checked 2024-07-12 ##	!20200101 - default date
+adservice.google.fr # Checked 2024-07-12 ##	!20200101 - default date
+ads-resources.waze.com # Checked 2024-07-12 ##	Adguard
+adultarcade.securequickaccess.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+advertiser.cyberghostvpn.com # Checked 2024-07-12 ##	!20200101 - default date
+aefd.nelreports.net # Checked 2024-07-12 ##	!20200101 - default date
+ahoymybay.club # Checked 2024-07-12 ##	Adguard
+airdrop.bt.co # Checked 2024-07-12 ##	!20200101 - default date
+alcroconawa.com # Checked 2024-07-12 ##	!20200101 - default date
+alpha-news.org # Checked 2024-07-12 ##	 !20220427 !1641633076 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT !20220427 !1641633076 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT
+amazon.ae # Checked 2024-07-12 ##	Adguard
+amazon.com.au # Checked 2024-07-12 ##	Adguard
+amazon.sa # Checked 2024-07-12 ##	Adguard
+amazon-adsystem.com # Checked 2024-07-12 ##	Adguard
+amplitude.com # Checked 2024-07-12 ##	Adguard
+ams3-ib.adnxs.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+ams-mvp.trafficmanager.net # Checked 2024-07-12 ##	!20211027
+analisyshb.moneytag.tech # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+analytics.ff.avast.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+analytics.honeygain.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+analytics.twitter.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+antvoice.com # Checked 2024-07-12 ##	Adguard
+anz.audiencemanager.de # Checked 2024-07-12 ##	 !20220427 !1591095290 !1651045342 !Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/blacklist.txt !TO BE UPDATED IN TELEPORT !20220427 !1591095290 !1651045342 !Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/blacklist.txt !TO BE UPDATED IN TELEPORT
+api.360.audion.fm # Checked 2024-07-12 ##	 Export 08-11-2023 
+api.ad.intl.xiaomi.com # Checked 2024-07-12 ##	!20200101 - default date
+api.amazon.com # Checked 2024-07-12 ##	!20200101 - default date
+api.dohop.com # Checked 2024-07-12 ##	Adguard
+api.instabug.com # Checked 2024-07-12 ##	!20200101 - default date
+api.ketchappgames.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+api.lever.co # Checked 2024-07-12 ##	Adguard
+api.logmatic.io # Checked 2024-07-12 ##	Adguard
+api.prismaconnect.fr # Checked 2024-07-12 ##	 !20220427 !1636638201 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT !20220427 !1636638201 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT
+api.privacy-center.org # Checked 2024-07-12 ##	!20211027
+api.purchasely.io # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+api.rbtdigital.com # Checked 2024-07-12 ##	Adguard
+api.realtimely.io # Checked 2024-07-12 ##	 
+api.swiftybeaver.com # Checked 2024-07-12 ##	Adguard
+api.target2sell.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+api.weibo.com # Checked 2024-07-12 ##	Adguard
+api1.accengage.com # Checked 2024-07-12 ##	!20200101 - default date
+api-eu.bidmachine.io # Checked 2024-07-12 ##	!20200101 - default date
+apiproxy3.accengage.com # Checked 2024-07-12 ##	!20200101 - default date
+app.adjust.com # Checked 2024-07-12 ##	Adguard
+app.qualified.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+app.satismeter.com.herokudns.com # Checked 2024-07-12 ##	Adguard
+app1.vsc.doyoudreamup.com # Checked 2024-07-12 ##	Adguard
+apple-finance.query.yahoo.com # Checked 2024-07-12 ##	Adguard
+application-messagerie.com # Checked 2024-07-12 ##	!20200101 - default date
+app-measurement.com # Checked 2024-07-12 ##	!20200101 - default date
+apps.bittorrent.com # Checked 2024-07-12 ##	!20200101 - default date
+apps3947.newdaytoday31.life # Checked 2024-07-12 ##	 !20220427 ! !20220427 !
+appsflyer.com # Checked 2024-07-12 ##	Adguard
+appsflyer-web-5-2093104013.eu-west-1.elb.amazonaws.com # Checked 2024-07-12 ##	Adguard
+arc.io # Checked 2024-07-12 ##	 !20220427 !1641632716 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT !20220427 !1641632716 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT
+arcus-uswest.amazon.com # Checked 2024-07-12 ##	!20200101 - default date
+asset.email-match.com # Checked 2024-07-12 ##	Adguard
+assets.adobedtm.com # Checked 2024-07-12 ##	Adguard
+assets.msn.com # Checked 2024-07-12 ##	!20200101 - default date
+assets.queue-it.net # Checked 2024-07-12 ##	 !20220427 !1635531951 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT !20220427 !1635531951 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT
+assets-tracking.crazyegg.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+a-ssl.ligatus.com # Checked 2024-07-12 ##	Adguard
+athena.helpshift.com # Checked 2024-07-12 ##	!20200101 - default date
+au.ff.avast.sec.miui.com # Checked 2024-07-12 ##	!20200101 - default date
+audiences.free.fr # Checked 2024-07-12 ##	!20200101 - default date
+autodiscover.proservia.fr # Checked 2024-07-12 ##	 !20220427 !1591095290 !1651045342 !Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/blacklist.txt !TO BE UPDATED IN TELEPORT !20220427 !1591095290 !1651045342 !Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/blacklist.txt !TO BE UPDATED IN TELEPORT
+avads.net # Checked 2024-07-12 ##	Adguard
+avs-alexa-18-eu.amazon.com # Checked 2024-07-12 ##	!20200101 - default date
+avthelkp.net # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+awesomegiftsconfirmation.com # Checked 2024-07-12 ##	 
+b.pub.network # Checked 2024-07-12 ##	 Export 08-11-2023 
+b1-eudc1.zemanta.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+b1t-eudc1.zemanta.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+bam.nr-data.net # Checked 2024-07-12 ##	Adguard
+beacons3.gvt2.com # Checked 2024-07-12 ##	 !20220427 !1636013392 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1636013392 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+beam.hubvisor.io # Checked 2024-07-12 ##	 !20220427 !1645608462 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1645608462 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+bellmedia-ash.gscontxt.net # Checked 2024-07-12 ##	 Export 08-11-2023 
+bestaryua.com # Checked 2024-07-12 ##	 !20200101 - default date
+bestsecureus.com # Checked 2024-07-12 ##	 !20200101 - default date
+betaversion.me # Checked 2024-07-12 ##	 !20200101 - default date
+bid2.videostep.com # Checked 2024-07-12 ##	 
+bidder.fr3.vip.prod.criteo.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+bmad.xyz # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+book-gratuit.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+book-room.site # Checked 2024-07-12 ##	 !20200101 - default date
+books-analytics-events.apple.com # Checked 2024-07-12 ##	 !20200101 - default date
+books-analytics-events.news.apple-dns.net # Checked 2024-07-12 ##	 !20200101 - default date
+bootstrap.api.drift.com # Checked 2024-07-12 ##	 !20211027
+brandsafe.adlooxtracking.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+browser-quotes.com # Checked 2024-07-12 ##	 !20200101 - default date
+btinstall-artifacts.bittorrent.com # Checked 2024-07-12 ##	 !20211027
+bukiwpush2.info # Checked 2024-07-12 ##	Adguard
+buy.itunes-apple.com.akadns.net # Checked 2024-07-12 ##	 !20200101 - default date
+c.contentsquare.net # Checked 2024-07-12 ##	 !20200101 - default date
+c.digioffr.com # Checked 2024-07-12 ##	 !20200101 - default date
+c.media-dl.co # Checked 2024-07-12 ##	 !20200101 - default date
+c21lg-d.media.net # Checked 2024-07-12 ##	 !20220427 !1636801123 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1636801123 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+c2shb.ssp.yahoo.com # Checked 2024-07-12 ##	 !20200101 - default date
+c5.patreon.com # Checked 2024-07-12 ##	 !20200101 - default date
+carapax.net # Checked 2024-07-12 ##	 !20200101 - default date
+carrefourfr.queue-it.net # Checked 2024-07-12 ##	 !20220427 !1635531838 !1651045343 !added to TP8 -2022-04-27 !TO BE UPDATED IN TELEPORT " !20220427 !1635531838 !1651045343 !added to TP8 -2022-04-27 !TO BE UPDATED IN TELEPORT "
+carrefourlink.page.link # Checked 2024-07-12 ##	Adguard
+cd-down.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+cdn.adgtw.orangeads.fr # Checked 2024-07-12 ##	 Export 08-11-2023 
+cdn.adjesty.com # Checked 2024-07-12 ##	Adguard
+cdn.exitbee.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+cdn.js7k.com # Checked 2024-07-12 ##	 !20211027
+cdn.jwplayer.com # Checked 2024-07-12 ##	 !20200101 - default date
+cdn.krxd.net # Checked 2024-07-12 ##	Adguard
+cdn.liftoff.io # Checked 2024-07-12 ##	 !20200101 - default date
+cdn.pcomperf.com # Checked 2024-07-12 ##	Adguard
+cdn.polyfill.io # Checked 2024-07-12 ##	 !20211027
+cdn.samsungcloudsolution.com # Checked 2024-07-12 ##	 !20220427 !1644687692 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1644687692 !1651045343
+cdn.syndication.twimg.com # Checked 2024-07-12 ##	Adguard
+cdn3.doubleverify.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+cdnstatics.com # Checked 2024-07-12 ##	Adguard
+cds.e9q5t8x5.hwcdn.net # Checked 2024-07-12 ##	 
+ced-ns.sascdn.com # Checked 2024-07-12 ##	 !20200101 - default date
+cf.iadsdk.apple.com # Checked 2024-07-12 ##	Adguard
+cf.shopee.fr # Checked 2024-07-12 ##	 !20220427 !1639852906 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1639852906 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+chat-e2ee-mini.c10r.facebook.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+chat-pa.clients6.google.com # Checked 2024-07-12 ##	 !20211027
+chaturbate.com # Checked 2024-07-12 ##	 
+checkingversionwn2.click # Checked 2024-07-12 ##	 !20211027
+choices.consentframework.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+cl5.apple.com # Checked 2024-07-12 ##	 !20220427 !1643644233 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1643644233 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+clevertap-prod.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+client.wns.windows.com # Checked 2024-07-12 ##	 !20200101 - default date
+clients4.google.com # Checked 2024-07-12 ##	 !20211027
+clientservices.googleapis.com # Checked 2024-07-12 ##	 !20220427 !1636013396 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1636013396 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+clinixplayer.com # Checked 2024-07-12 ##	 !20200101 - default date
+clk.rtpdn11.com # Checked 2024-07-12 ##	 !20200101 - default date
+cloystercdn.com # Checked 2024-07-12 ##	 !20200101 - default date
+cm.ctnsnet.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+cm.idealmedia.io # Checked 2024-07-12 ##	 !20200101 - default date
+cndmgfr # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+collect-euw1-atihost.at-o.net # Checked 2024-07-12 ##	Adguard
+collector.appconsent.io # Checked 2024-07-12 ##	 
+commander1.com # Checked 2024-07-12 ##	Adguard
+config.edge.skype.com # Checked 2024-07-12 ##	 !20211027
+config.nos-avg.cz # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+config.stream-access.net # Checked 2024-07-12 ##	 Export 08-11-2023 
+configv2.unityads.unity3d.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+consensu.org # Checked 2024-07-12 ##	Adguard
+content.bt.co # Checked 2024-07-12 ##	 !20211027
+content.mql5.com # Checked 2024-07-12 ##	Adguard
+contentsquare.net # Checked 2024-07-12 ##	Adguard
+contile.services.mozilla.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+conversions.appsflyer.com # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+cookie-matching.mediarithmics.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+cookie-sync.api.soundcast.fm # Checked 2024-07-12 ##	 !20211027
+coppersurfer.tk # Checked 2024-07-12 ##	 !20220427 !1597046115 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1597046115 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+core.dxpapi.com # Checked 2024-07-12 ##	 !20200101 - default date
+costaction.com # Checked 2024-07-12 ##	 !20200101 - default date
+counter.yadro.ru # Checked 2024-07-12 ##	 !20200101 - default date
+cp.dbbp1.pro # Checked 2024-07-12 ##	 !20200101 - default date
+crashlytics.com # Checked 2024-07-12 ##	Adguard
+crazyapks.com # Checked 2024-07-12 ##	 
+creatives.sascdn.com # Checked 2024-07-12 ##	 !20200101 - default date
+crl.comodoca.com # Checked 2024-07-12 ##	 !20200101 - default date
+crmtt.livejasmin.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+csjqzfomzetfr.home # Checked 2024-07-12 ##	 !20211027
+csm.fr.eu.criteo.net # Checked 2024-07-12 ##	Adguard
+ctrlaltdel99.com # Checked 2024-07-12 ##	 !20200101 - default date
+customerevents.netflix.com # Checked 2024-07-12 ##	 !20200101 - default date
+d141ruwixrvnlf.cloudfront.net # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+d2sg20ra6t5wq4.cloudfront.net # Checked 2024-07-12 ##	 !20220427 !1614446219 !1651045343 !fake site in TP8 Blacklist !TO BE UPDATED IN TELEPORT " !20220427 !1614446219 !1651045343 !fake site in TP8 Blacklist !TO BE UPDATED IN TELEPORT "
+d3bvv5kh5dndu.cloudfront.net # Checked 2024-07-12 ##	 !20220427 !1641631621 !1651045343 !fake microsoft !TO BE UPDATED IN TELEPORT " !20220427 !1641631621 !1651045343 !fake microsoft !TO BE UPDATED IN TELEPORT "
+d3q33rbmdkxzj.cloudfront.net # Checked 2024-07-12 ##	 !20200101 - default date
+da11e6c4f63ae3aac8af67075b7b1290.safeframe.googlesyndication.com # Checked 2024-07-12 ##	 !20211027
+data.alexa.com # Checked 2024-07-12 ##	 !20200101 - default date
+data.mistat.india.xiaomi.com # Checked 2024-07-12 ##	 !20200101 - default date
+data.mistat.intl.xiaomi.com # Checked 2024-07-12 ##	 !20200101 - default date
+data.mistat.rus.xiaomi.com # Checked 2024-07-12 ##	 !20200101 - default date
+data.mistat.xiaomi.com # Checked 2024-07-12 ##	 !20200101 - default date
+data.photorank.me # Checked 2024-07-12 ##	 !20200101 - default date
+data.pubplus.com # Checked 2024-07-12 ##	Adguard
+data.qiota.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+data31.adlooxtracking.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+data37.adlooxtracking.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+de.bongacams.com # Checked 2024-07-12 ##	 !20220427 !1641633069 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1641633069 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+denis.stalker.upeer.me # Checked 2024-07-12 ##	 !20200101 - default date
+desktop-assistant-sub.osp.opera.software # Checked 2024-07-12 ##	 !20200101 - default date
+dev.visualwebsiteoptimizer.com # Checked 2024-07-12 ##	Adguard
+device-metrics-us.amazon.com # Checked 2024-07-12 ##	 !20200101 - default date
+device-metrics-us-2.amazon.com # Checked 2024-07-12 ##	 !20200101 - default date
+df.infra.shopee.sg # Checked 2024-07-12 ##	 !20220427 !1639852902 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1639852902 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+dispatcher.mng-ads.com # Checked 2024-07-12 ##	 !20211027
+displayvertising.com # Checked 2024-07-12 ##	 !20220427 !1641633007 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1641633007 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+ditu.google.cn # Checked 2024-07-12 ##	 !20211027
+dmp.adotmob.com # Checked 2024-07-12 ##	Adguard
+dns.google # Checked 2024-07-12 ##	 !20220427 !1636800724 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1636800724 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+dns.opendns.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+dns.quad9.net # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+dns.umbrella.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+doh.dns.apple.com # Checked 2024-07-12 ##	 !20220427 !1643644216 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1643644216 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+download.cyberghostvpn.com # Checked 2024-07-12 ##	 !20200101 - default date
+download-readynow.com # Checked 2024-07-12 ##	 !20220427 !1641632890 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1641632890 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+dpm.demdex.net # Checked 2024-07-12 ##	Adguard
+drnnv.takemehere.net # Checked 2024-07-12 ##	 !20200101 - default date
+dry-bastion-1897.fathomless-lake-7710.herokuspace.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+dsufjua.home # Checked 2024-07-12 ##	 !20211027
+dzc-metrics.mzstatic.com # Checked 2024-07-12 ##	 !20200101 - default date
+e.viously.com # Checked 2024-07-12 ##	 
+e11942.api1.akamaiedge.net # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+e1329.g.akamaiedge.net # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+e14868.dsce9.akamaiedge.net # Checked 2024-07-12 ##	 !20211027
+e17437.dscb.akamaiedge.net # Checked 2024-07-12 ##	 !20200101 - default date
+e25689.dscb.akamaiedge.net # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+e2c4.gcp.gvt2.com # Checked 2024-07-12 ##	 !20220427 !1636638324 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1636638324 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+e2clock.gcp.gvt2.com # Checked 2024-07-12 ##	 !20211027
+e3925.dscx.akamaiedge.net # Checked 2024-07-12 ##	 !20200101 - default date
+e4478.a.akamaiedge.net # Checked 2024-07-12 ##	 !20200101 - default date
+e69896.dscapi6.akamaiedge.net # Checked 2024-07-12 ##	 !20211027
+eacea.online # Checked 2024-07-12 ##	 !20200101 - default date
+easytomessage.com # Checked 2024-07-12 ##	Adguard
+eatcells.com # Checked 2024-07-12 ##	 !20200101 - default date
+ebooks4me.online # Checked 2024-07-12 ##	 !20200101 - default date
+ecommerce.iap.unity3d.com # Checked 2024-07-12 ##	Adguard
+eddie4.nl # Checked 2024-07-12 ##	 !20200101 - default date
+edge.api.brightcove.com # Checked 2024-07-12 ##	 !20220427 !1636801006 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1636801006 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+ejp.rlcdn.com # Checked 2024-07-12 ##	Adguard
+eldayolqufvfiwu # Checked 2024-07-12 ##	 
+email-reflex.com # Checked 2024-07-12 ##	Adguard
+encrypted-tbn0.gstatic.com # Checked 2024-07-12 ##	 !20200101 - default date
+engine.bliink.io # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+engine.phn.doublepimp.com # Checked 2024-07-12 ##	 !20200101 - default date
+epdg.epc.mnc010.mcc208.pub.3gppnetwork.org # Checked 2024-07-12 ##	 !20211027
+estat.com # Checked 2024-07-12 ##	Adguard
+etahub.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+eth1.lava.build # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+eu.fastcmp.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+eur-bid-hubvisor.adsrvr.org # Checked 2024-07-12 ##	 !20211027
+evtubescms.phncdn.com.lds.rncdn7.com # Checked 2024-07-12 ##	 
+ew3.io # Checked 2024-07-12 ##	Adguard
+exclamationresound.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+extraspecial.shop # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+eyczofofaevslu.home # Checked 2024-07-12 ##	 !20211027
+f.gm.mob.com # Checked 2024-07-12 ##	 
+factory.reworldmedia.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+family-simulator.io # Checked 2024-07-12 ##	 
+familysimulatorgame.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+fast.nexx360.io # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+fe0.google.com # Checked 2024-07-12 ##	 !20211027
+firebaseinappmessaging.googleapis.com # Checked 2024-07-12 ##	Adguard
+firebaselogging.googleapis.com # Checked 2024-07-12 ##	Adguard
+firebaselogging-pa.googleapis.com # Checked 2024-07-12 ##	 !20200101 - default date
+firebaseremoteconfig.googleapis.com # Checked 2024-07-12 ##	Adguard
+firebase-settings.crashlytics.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+firefox.settings.services.mozilla.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+firestore.googleapis.com # Checked 2024-07-12 ##	Adguard
+flirt.spicylovers.net # Checked 2024-07-12 ##	 !20200101 - default date
+fls-eu.amazon.com # Checked 2024-07-12 ##	Adguard
+fls-eu.amazon.fr # Checked 2024-07-12 ##	 !20200101 - default date
+flurry.com # Checked 2024-07-12 ##	Adguard
+fonts.googleapis.com # Checked 2024-07-12 ##	Adguard
+forms.mailmunch.co # Checked 2024-07-12 ##	 !20211027
+fr.app.chat.global.xiaomi.net # Checked 2024-07-12 ##	 !20200101 - default date
+fr.stripchat.com # Checked 2024-07-12 ##	 
+fr.surveymonkey.com # Checked 2024-07-12 ##	Adguard
+fr.usenet.nl # Checked 2024-07-12 ##	 !20210822 ! " !20210822 ! "
+fr.web.img2.acsta.net # Checked 2024-07-12 ##	Adguard
+free.mymapsexpress.com # Checked 2024-07-12 ##	 !20211027
+freegeoip.net # Checked 2024-07-12 ##	Adguard
+freelocalmatures.com # Checked 2024-07-12 ##	 
+freexxxjoin.com # Checked 2024-07-12 ##	 
+fullstory.com # Checked 2024-07-12 ##	 !20200101 - default date
+funpros.net # Checked 2024-07-12 ##	Adguard
+g.live.com # Checked 2024-07-12 ##	Adguard
+gas.geev.fr # Checked 2024-07-12 ##	 !20200101 - default date
+gate.hockeyapp.net # Checked 2024-07-12 ##	Adguard
+gdmf.apple.com # Checked 2024-07-12 ##	Adguard
+gdpr-tcfv2.sp-prod.net # Checked 2024-07-12 ##	 !20220427 !1636638219 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1636638219 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+gentside-fr.gentside.com # Checked 2024-07-12 ##	Adguard
+geoip.tnt-ea.com # Checked 2024-07-12 ##	Adguard
+get.dailynotifications.com # Checked 2024-07-12 ##	 !20211027
+get.fileconvertersearches.com # Checked 2024-07-12 ##	 !20200101 - default date
+get.freestreamsearch.com # Checked 2024-07-12 ##	 !20200101 - default date
+getfilm.online # Checked 2024-07-12 ##	 !20200101 - default date
+getnord.net # Checked 2024-07-12 ##	 !20200101 - default date
+ggpht.com # Checked 2024-07-12 ##	Adguard
+gibpine.quest # Checked 2024-07-12 ##	 Export 08-11-2023 
+ginger.ad # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+global.appnext.com # Checked 2024-07-12 ##	Adguard
+global.market.xiaomi.com # Checked 2024-07-12 ##	 !20200101 - default date
+go.xlviiirdr.com # Checked 2024-07-12 ##	 
+go7news.biz # Checked 2024-07-12 ##	 !20200101 - default date
+google.cn # Checked 2024-07-12 ##	 !20200101 - default date
+googleads.g.doubleclick.net # Checked 2024-07-12 ##	 !20200427 ! " !20200427 ! "
+googleadservices.com # Checked 2024-07-12 ##	Adguard
+google-analytics.com # Checked 2024-07-12 ##	 !20211027
+googlehosted.l.googleusercontent.com # Checked 2024-07-12 ##	 !20200101 - default date
+gosca.ea.com # Checked 2024-07-12 ##	Adguard
+got-a-message.com # Checked 2024-07-12 ##	 !20211027
+gotpcgame.com # Checked 2024-07-12 ##	 !20200101 - default date
+graph.facebook.com # Checked 2024-07-12 ##	 !20200101 - default date
+graph.instagram.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+graph.m-freeway.com # Checked 2024-07-12 ##	Adguard
+gsdk-cfg-v3-0.vectaury.io # Checked 2024-07-12 ##	 !20200101 - default date
+gum.criteo.com # Checked 2024-07-12 ##	 !20200101 - default date
+guzzoni.apple.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+guzzoni-apple-com.v.aaplimg.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+h.ocsp-certum.com # Checked 2024-07-12 ##	 !20200101 - default date
+hajoopteg.com # Checked 2024-07-12 ##	 !20211027
+halomjqccrsxu.home # Checked 2024-07-12 ##	 !20200101 - default date
+hangouts.google.com # Checked 2024-07-12 ##	 !20220427 !1636013402 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1636013402 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+hawk.bricks-co.com # Checked 2024-07-12 ##	 
+healthierpatriot.com # Checked 2024-07-12 ##	 !20211027
+hfrckxjdxmiej.home # Checked 2024-07-12 ##	 !20200101 - default date
+hooify.com # Checked 2024-07-12 ##	 !20211027
+horiticaldist.fun # Checked 2024-07-12 ##	 !20220427 !1637133983 !1651045343 !pub tpb !TO BE UPDATED IN TELEPORT " !20220427 !1637133983 !1651045343 !pub tpb !TO BE UPDATED IN TELEPORT "
+hotjar.com # Checked 2024-07-12 ##	 !20200101 - default date
+hotsimulator.com # Checked 2024-07-12 ##	 
+ht.youporn.com # Checked 2024-07-12 ##	 !20200101 - default date
+ht-cdn.trafficjunky.net # Checked 2024-07-12 ##	 Export 08-11-2023 
+https://app-measurement.com/sdk-exp # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+hv.viewsurf.com # Checked 2024-07-12 ##	 !20220427 !1594567522 !1651045342 !Webcam !TO BE UPDATED IN TELEPORT " !20220427 !1594567522 !1651045342 !Webcam !TO BE UPDATED IN TELEPORT "
+hv-contents.adpaths.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+i.ytimg.com # Checked 2024-07-12 ##	 !20200101 - default date
+i1.wp.com # Checked 2024-07-12 ##	Adguard
+i-1006.b-0.ad.bench.utorrent.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+i-29.b-45449.ut.bench.utorrent.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+i-38.b-45449.ut.bench.utorrent.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+i-43.b-45449.ut.bench.utorrent.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+i-5600.b-294.helper.bench.utorrent.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+i-64.b-46846.ut.bench.utorrent.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+i-666.b-0.ad.bench.utorrent.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+iadsdk.apple.com # Checked 2024-07-12 ##	Adguard
+ib.adnxs.com # Checked 2024-07-12 ##	 !20200101 - default date
+ib.anycast.adnxs.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+ice.360yield.com # Checked 2024-07-12 ##	 !20200101 - default date
+idrs.adtelligent.com # Checked 2024-07-12 ##	 
+image6.pubmatic.com # Checked 2024-07-12 ##	 !20200101 - default date
+images.outbrainimg.com # Checked 2024-07-12 ##	 !20200101 - default date
+imgur.com # Checked 2024-07-12 ##	 !20200101 - default date
+in.appcenter.ms # Checked 2024-07-12 ##	Adguard
+inappcheck.itunes.apple.com.edgekey.net # Checked 2024-07-12 ##	 !20200101 - default date
+infobizfortune.com # Checked 2024-07-12 ##	 !20211027
+init.supersonicads.com # Checked 2024-07-12 ##	Adguard
+install.convertmysearch.com # Checked 2024-07-12 ##	 !20200101 - default date
+intake.pbstck.com # Checked 2024-07-12 ##	 !20200101 - default date
+interst12.com # Checked 2024-07-12 ##	 !20200101 - default date
+iosads4-9.adcolony.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+ip-api.com # Checked 2024-07-12 ##	Adguard
+ipe.capital-news.fr # Checked 2024-07-12 ##	Adguard
+ir.ebaystatic.com # Checked 2024-07-12 ##	Adguard
+is4-ssl.mzstatic.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+itx4.smartadserver.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+ivitrack.com # Checked 2024-07-12 ##	Adguard
+jhxorgi.home # Checked 2024-07-12 ##	 !20200101 - default date
+jmfkfftgnwova.home # Checked 2024-07-12 ##	 !20211027
+jpush.cn # Checked 2024-07-12 ##	Adguard
+js.cookieless-data.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+js.hs-banner.com # Checked 2024-07-12 ##	 !20211027
+js-agent.newrelic.com # Checked 2024-07-12 ##	Adguard
+jsontdsexit2.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+jumboprodigious.com # Checked 2024-07-12 ##	 !20220427 !1641632571 !1651045343 !eztv !TO BE UPDATED IN TELEPORT " !20220427 !1641632571 !1651045343 !eztv !TO BE UPDATED IN TELEPORT "
+jzpgrohqgvlgt.home # Checked 2024-07-12 ##	 !20211027
+kairosfire.com # Checked 2024-07-12 ##	Adguard
+kanshy.best # Checked 2024-07-12 ##	 !20211027
+kapublicapiprod.azurewebsites.net # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+keyvalueservice.fe.apple-dns.net # Checked 2024-07-12 ##	 !20200101 - default date
+keyvalueservice-g.fe.apple-dns.net # Checked 2024-07-12 ##	 !20200101 - default date
+kinstruments-measurements.s3-external-1.amazonaws.com # Checked 2024-07-12 ##	 !20200101 - default date
+kube-rr.sirdata.fr # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+l.gm.mob.com # Checked 2024-07-12 ##	 
+laplacemedia.b-cdn.net # Checked 2024-07-12 ##	 !20200101 - default date
+launches.appsflyer.com # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+lblutrw18aqx.s4.adsco.re # Checked 2024-07-12 ##	 !20220427 !1641633020 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1641633020 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+lbqiota.tbsfrance.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+ledger.bt.co # Checked 2024-07-12 ##	 !20200101 - default date
+lgin.msa.trafficmanager.net # Checked 2024-07-12 ##	 !!20220427 !!20220427
+lh5.googleusercontent.com # Checked 2024-07-12 ##	 !20200101 - default date
+license.piriform.com # Checked 2024-07-12 ##	 !20210723 ! " !20210723 ! "
+lit-wildwood-9179.fathomless-lake-7710.herokuspace.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+live.shopee.tw # Checked 2024-07-12 ##	 !20220427 !1639852734 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1639852734 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+livehdcams.com # Checked 2024-07-12 ##	 !20200101 - default date
+liveramp.com # Checked 2024-07-12 ##	Adguard
+loadeu.exelator.com # Checked 2024-07-12 ##	 !20211027
+log.outbrainimg.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+logs.supersonic.com # Checked 2024-07-12 ##	Adguard
+logs128.xiti.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+logs1409.xiti.com # Checked 2024-07-12 ##	 !20200101 - default date
+logs1410.xiti.com # Checked 2024-07-12 ##	 !20220427 !1637821923 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1637821923 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+lookpic.com # Checked 2024-07-12 ##	 !20220427 !1641632899 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1641632899 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+lpgengine.net # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+m.chaturbate.com # Checked 2024-07-12 ##	 
+m.csqtrk.net # Checked 2024-07-12 ##	Adguard
+m.qualifytring.com # Checked 2024-07-12 ##	 !20200101 - default date
+maintws.withings.net # Checked 2024-07-12 ##	Adguard
+marketgameland.com # Checked 2024-07-12 ##	 !20211027
+mars.tnt-ea.com # Checked 2024-07-12 ##	Adguard
+mask.apple-dns.net # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+masturmate.com # Checked 2024-07-12 ##	 
+mate.zone # Checked 2024-07-12 ##	 !20200101 - default date
+matures.com # Checked 2024-07-12 ##	 
+mb-signup.shevy.net # Checked 2024-07-12 ##	 !20211027
+mc.yandex.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+mc.yandex.ru # Checked 2024-07-12 ##	 !20200101 - default date
+me.apple-dns.net # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+measurements-api.wonderpush.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+media.adaware.com # Checked 2024-07-12 ##	 !20200101 - default date
+media.batch.com # Checked 2024-07-12 ##	 !20200101 - default date
+mediarithmics.com # Checked 2024-07-12 ##	Adguard
+mem.gfx.ms # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+member.allscreen.media # Checked 2024-07-12 ##	 !20211027
+member.naiadsystems.com # Checked 2024-07-12 ##	 !20211027
+mesure.streaming.estat.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+metrics.apple.com # Checked 2024-07-12 ##	 !20211027
+metrics.icloud.com # Checked 2024-07-12 ##	 !20200101 - default date
+metrics.sdkbox.com # Checked 2024-07-12 ##	Adguard
+mh.abja.xyz # Checked 2024-07-12 ##	 !20200101 - default date
+mhwifuzlweceo.home # Checked 2024-07-12 ##	 !20200101 - default date
+milenica.info # Checked 2024-07-12 ##	Adguard
+minneapolis.craigslist.org # Checked 2024-07-12 ##	 !20220427 !1639748338 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1639748338 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+miocittadino.it # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+mixpanel.com # Checked 2024-07-12 ##	Adguard
+moatads.com # Checked 2024-07-12 ##	Adguard
+mob1ledev1ces.com # Checked 2024-07-12 ##	 !20211027
+mobile.mng-ads.com # Checked 2024-07-12 ##	Adguard
+mobile-145.api.privacy-center.org # Checked 2024-07-12 ##	Adguard
+mobileconfig.sascdn.com # Checked 2024-07-12 ##	 !20200101 - default date
+mobilemessaging.engagement.dimelo.com # Checked 2024-07-12 ##	Adguard
+mobile-production.content-square.net # Checked 2024-07-12 ##	 !20200101 - default date
+mp-feedback.cyberghostvpn.com # Checked 2024-07-12 ##	 !20200101 - default date
+mqtt.c10r.facebook.com # Checked 2024-07-12 ##	 !20220427 !1620983120 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1620983120 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+ms.applovin.com # Checked 2024-07-12 ##	 !20200101 - default date
+ms-bidder-bid.prod.cloud.ogury.io # Checked 2024-07-12 ##	 Export 08-11-2023 
+msgr-latest.c10r.facebook.com # Checked 2024-07-12 ##	 !20200101 - default date
+msh.amazon.co.uk # Checked 2024-07-12 ##	 !20211027
+msh.amazon.com.uk # Checked 2024-07-12 ##	 !20200101 - default date
+mwtw.presage.io # Checked 2024-07-12 ##	 Export 08-11-2023 
+my.rtmark.net # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+nbcnews.com.ssl.sc.omtrdc.net # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+netatmofeedback.azurewebsites.net # Checked 2024-07-12 ##	Adguard
+network-eu.bazaarvoice.com # Checked 2024-07-12 ##	 !20220427 !1640685163 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1640685163 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+network-eu-stg.bazaarvoice.com # Checked 2024-07-12 ##	 !20220427 !1640684050 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1640684050 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+notify.adleadevent.com # Checked 2024-07-12 ##	Adguard
+ntf.capital-mail.fr # Checked 2024-07-12 ##	Adguard
+nthrezctmsfjlm.numericable.fr # Checked 2024-07-12 ##	Adguard
+nutritionoffer02.com # Checked 2024-07-12 ##	 !20200101 - default date
+nydc1.outbrain.org # Checked 2024-07-12 ##	 Export 08-11-2023 
+ocsp.comodoca.com # Checked 2024-07-12 ##	Adguard
+ocsp.izenpe.com # Checked 2024-07-12 ##	Adguard
+ocsp.sca1b.amazontrust.com # Checked 2024-07-12 ##	Adguard
+odinvzc.azureedge.net # Checked 2024-07-12 ##	 !20200101 - default date
+odnwfnno.home # Checked 2024-07-12 ##	 !20211027
+ogs.google.com # Checked 2024-07-12 ##	 !20211027
+omwucqpyma.home # Checked 2024-07-12 ##	 !20211027
+onesignal.com # Checked 2024-07-12 ##	Adguard
+onstunkyr.com # Checked 2024-07-12 ##	 !20211027
+openadstream-eu1.247realmedia.com # Checked 2024-07-12 ##	Adguard
+ota.lokalise.co # Checked 2024-07-12 ##	 !20200101 - default date
+outbrain.map.fastly.net # Checked 2024-07-12 ##	 Export 08-11-2023 
+outcome-ssp.supersonicads.com # Checked 2024-07-12 ##	Adguard
+p.kolplay.com # Checked 2024-07-12 ##	Adguard
+p.npcad.com # Checked 2024-07-12 ##	 !20220427 !1642598383 !1651045343 !TO BE UPDATED IN TELEPORT " !20220427 !1642598383 !1651045343 !TO BE UPDATED IN TELEPORT "
+p1.parsely.com # Checked 2024-07-12 ##	 !20211027
+p131675.clksite.com # Checked 2024-07-12 ##	 !20200101 - default date
+p20-buy.itunes.apple.com # Checked 2024-07-12 ##	 !20220427 !1591120539 !1651045342 !Apple - pub ? !TO BE UPDATED IN TELEPORT " !20220427 !1591120539 !1651045342 !Apple - pub ? !TO BE UPDATED IN TELEPORT "
+p49-keyvalueservice.icloud.com # Checked 2024-07-12 ##	 !20200101 - default date
+p71-buy.itunes.apple.com # Checked 2024-07-12 ##	 !20200101 - default date
+pagead.l.doubleclick.net # Checked 2024-07-12 ##	 !20200427 ! " !20200427 ! "
+pagestates-tracking.crazyegg.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+paid.outbrain.com # Checked 2024-07-12 ##	 !20200101 - default date
+parowleronter.pro # Checked 2024-07-12 ##	 !20200101 - default date
+partenaire.bemove.fr # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+pascal.workgroup # Checked 2024-07-12 ##	Adguard
+passback.free.fr # Checked 2024-07-12 ##	Adguard
+pb5oqguywycj.com # Checked 2024-07-12 ##	 !20200101 - default date
+pbs.nextmillmedia.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+pbs.nexx360.io # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+pbstck.com # Checked 2024-07-12 ##	 !20200101 - default date
+peaceful-sands-6439.hidden-inlet-1980.herokuspace.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+people-pa.googleapis.com # Checked 2024-07-12 ##	 !20200101 - default date
+perso-api-tracking.front.vpgrp.net # Checked 2024-07-12 ##	Adguard
+pharmacy.amazon.com # Checked 2024-07-12 ##	Adguard
+pharmacy.integ.amazon.com # Checked 2024-07-12 ##	Adguard
+phoceis.com # Checked 2024-07-12 ##	Adguard
+photorankstatics-a.akamaihd.net # Checked 2024-07-12 ##	 !20200101 - default date
+photos-ugc.l.googleusercontent.com # Checked 2024-07-12 ##	 !20200101 - default date
+pi.pardot.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+play.googleapis.com # Checked 2024-07-12 ##	 !20200101 - default date
+playable.dspunion.com # Checked 2024-07-12 ##	 !20200101 - default date
+playable-stats.mindworks-creative.com # Checked 2024-07-12 ##	 !20211027
+players.brightcove.net # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+pnmtwhtpshhh.home # Checked 2024-07-12 ##	 !20211027
+pok.mintegral.net # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+polpaymentr.cf # Checked 2024-07-12 ##	 !20211027
+porngamesverse.com # Checked 2024-07-12 ##	 
+premiumwinningslist.com # Checked 2024-07-12 ##	Adguard
+prg.smartadserver.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+prismaconnect.fr # Checked 2024-07-12 ##	Adguard
+prismamediadigital.com # Checked 2024-07-12 ##	Adguard
+prisma-tr.prismamedia.com # Checked 2024-07-12 ##	Adguard
+privacy-center.org # Checked 2024-07-12 ##	Adguard
+privatestats.whatsapp.net # Checked 2024-07-12 ##	 !20200101 - default date
+prod.balrog.prod.cloudops.mozgcp.net # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+prod-m-node-3113.ssp.yahoo.com # Checked 2024-07-12 ##	 !20200101 - default date
+profile.gc.apple.com # Checked 2024-07-12 ##	Adguard
+pro-rating.carboatservices.fr # Checked 2024-07-12 ##	Adguard
+proxybkp.si.francetelecom.fr # Checked 2024-07-12 ##	 !20211027
+proxyjs.brdtnet.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+proxyrsc2-mso.si.francetelecom.fr # Checked 2024-07-12 ##	 !20200101 - default date
+public-prod-dspcookiematching.dmxleo.com # Checked 2024-07-12 ##	 !20200101 - default date
+push.aarth.net # Checked 2024-07-12 ##	 !20200101 - default date
+pv.viewsurf.com # Checked 2024-07-12 ##	 !20220427 !1594567590 !1651045342 !TO BE UPDATED IN TELEPORT " !20220427 !1594567590 !1651045342 !TO BE UPDATED IN TELEPORT "
+pwspace.com # Checked 2024-07-12 ##	 !20200101 - default date
+pzwhfpzdnf.home # Checked 2024-07-12 ##	 !20210723 ! " !20210723 ! "
+qlwgkw.com # Checked 2024-07-12 ##	Adguard
+quantcast.mgr.consensu.org # Checked 2024-07-12 ##	Adguard
+r1---sn-25glen7e.googlevideo.com # Checked 2024-07-12 ##	 !20220427 !1595855159 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1595855159 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+r2.sn-25ge7nsd.googlevideo.com # Checked 2024-07-12 ##	 !20211027
+r3.o.lencr.org # Checked 2024-07-12 ##	 !20211027
+r4.sn-25glene6.googlevideo.com # Checked 2024-07-12 ##	 !20220427 !1595854882 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1595854882 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+r4---sn-25ge7nsd.googlevideo.com # Checked 2024-07-12 ##	 !20220427 !1595854321 !1651045342 !Pub - dans Youtube Music !TO BE UPDATED IN TELEPORT " !20220427 !1595854321 !1651045342 !Pub - dans Youtube Music !TO BE UPDATED IN TELEPORT "
+r4---sn-25glen7y.c.2mdn.net # Checked 2024-07-12 ##	 !20200101 - default date
+r4---sn-25glenes.googlevideo.com # Checked 2024-07-12 ##	 !20220427 !1595855215 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1595855215 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+r4---sn-25glenez.c.2mdn.net # Checked 2024-07-12 ##	 !20200101 - default date
+r4---sn-5hneknee.c.2mdn.net # Checked 2024-07-12 ##	 !20200101 - default date
+radio-activity.itunes.apple.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+rat.nl.eu.criteo.com # Checked 2024-07-12 ##	Adguard
+rearrollitters.info # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+redtubelive.com # Checked 2024-07-12 ##	 !20211027
+region1.analytics.google.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+region1.app-measurement.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+region1.google-analytics.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+register.rainbow-art.net # Checked 2024-07-12 ##	 Export 08-11-2023 
+resolver.msg.global.xiaomi.net # Checked 2024-07-12 ##	 !20211027
+retracker.netbynet.ru # Checked 2024-07-12 ##	 !20220427 !1597046111 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1597046111 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+r-eu.tsyndicate.com # Checked 2024-07-12 ##	 !20200101 - default date
+rindicalapa.fun # Checked 2024-07-12 ##	 !20200101 - default date
+river-mobile.data.ea.com # Checked 2024-07-12 ##	Adguard
+rotumal.com # Checked 2024-07-12 ##	 !20211027
+router.utorrent.com # Checked 2024-07-12 ##	 !20200101 - default date
+rr4.sn-25glene7.googlevideo.com # Checked 2024-07-12 ##	 !20200101 - default date
+rr5.sn-25ge7nse.googlevideo.com # Checked 2024-07-12 ##	 !20200101 - default date
+rt.applvn.com # Checked 2024-07-12 ##	Adguard
+r-target.com # Checked 2024-07-12 ##	Adguard
+rtarget-lb-1296128806.eu-west-1.elb.amazonaws.com # Checked 2024-07-12 ##	Adguard
+rum.netvigie.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+s.mzstatic.com # Checked 2024-07-12 ##	 !20220427 !1591171019 !1651045342 !TO BE UPDATED IN TELEPORT " !20220427 !1591171019 !1651045342 !TO BE UPDATED IN TELEPORT "
+s.youtube.com # Checked 2024-07-12 ##	 !20211027
+s0.2mdn.net # Checked 2024-07-12 ##	 !20211027
+s2.symcb.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+s2s.singular.net # Checked 2024-07-12 ##	Adguard
+s7.addthis.com # Checked 2024-07-12 ##	 !20200101 - default date
+sa.api.intl.miui.com # Checked 2024-07-12 ##	 !20211027
+safebrowsing.google.com # Checked 2024-07-12 ##	 !20220427 !1643644199 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1643644199 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+safebrowsing.googleapis.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+safebrowsing-proxy.g.aaplimg.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+sb.scorecardresearch.com # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+sc.affilizz.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+sc.lfeeder.com # Checked 2024-07-12 ##	 !20200101 - default date
+scontent.cdninstagram.com # Checked 2024-07-12 ##	Adguard
+screenshotfactory.com # Checked 2024-07-12 ##	 !20200101 - default date
+script.crazyegg.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+sc-static.net # Checked 2024-07-12 ##	Adguard
+sdhnvbtgomuv.home # Checked 2024-07-12 ##	 !20200101 - default date
+sdk.kairosfire.com # Checked 2024-07-12 ##	 !20200101 - default date
+sdk.out.usbla.net # Checked 2024-07-12 ##	Adguard
+sdk.privacy-center.org # Checked 2024-07-12 ##	 !20211027
+secure.gravatar.com # Checked 2024-07-12 ##	Adguard
+secure.stat.canal-plus.net # Checked 2024-07-12 ##	Adguard
+secure.uk.vente-privee.com # Checked 2024-07-12 ##	Adguard
+secure1.eurosback.com # Checked 2024-07-12 ##	 !20200101 - default date
+securemetrics.apple.com # Checked 2024-07-12 ##	 !20200101 - default date
+securepubads.g.doubleclick.net # Checked 2024-07-12 ##	 !20200427 ! " !20200427 ! "
+sendgrid.net # Checked 2024-07-12 ##	Adguard
+sentry.io # Checked 2024-07-12 ##	Adguard
+serv-api.target2sell.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+serverside3967.tagcommander.com # Checked 2024-07-12 ##	 !20211027
+service.piriform.com # Checked 2024-07-12 ##	 !20200101 - default date
+serving-sys.com # Checked 2024-07-12 ##	Adguard
+setup.fe.apple-dns.net # Checked 2024-07-12 ##	 !20211027
+sfmtxor # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+shftr.adnxs.net # Checked 2024-07-12 ##	 Export 08-11-2023 
+shrugglefor.com # Checked 2024-07-12 ##	 !20220427 !1642758445 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1642758445 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+signup.basilplay.com # Checked 2024-07-12 ##	 !20200101 - default date
+singlespot.com # Checked 2024-07-12 ##	Adguard
+sns.eu-west-1.amazonaws.com # Checked 2024-07-12 ##	Adguard
+social-row.waze.com # Checked 2024-07-12 ##	Adguard
+ssb-euw1.smartadserver.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+sstats.oui.sncf # Checked 2024-07-12 ##	Adguard
+star.c10r.facebook.com # Checked 2024-07-12 ##	 !20200101 - default date
+static.ap.bittorrent.com # Checked 2024-07-12 ##	 !20200101 - default date
+static.btloader.com # Checked 2024-07-12 ##	 !20220427 !1650609731 !1651045343 !pub 2022 !TO BE UPDATED IN TELEPORT " !20220427 !1650609731 !1651045343 !pub 2022 !TO BE UPDATED IN TELEPORT "
+static.chartbeat.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+static.fnac-static.com # Checked 2024-07-12 ##	 !20211027
+static.passeportsante.net # Checked 2024-07-12 ##	 !20200101 - default date
+static.quantcast.mgr.consensu.org # Checked 2024-07-12 ##	Adguard
+static-cms.carrefour.fr # Checked 2024-07-12 ##	 !20220427 !1635531973 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1635531973 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+static-doubleclick-net.l.google.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+staticxx.facebook.com # Checked 2024-07-12 ##	Adguard
+stats.gc.fe.apple-dns.net # Checked 2024-07-12 ##	 !20211027
+stats.gc-apple.com.akadns.net # Checked 2024-07-12 ##	Adguard
+stats.pusher.com # Checked 2024-07-12 ##	Adguard
+stk.protechts.net # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+stocks-analytics-events.apple.com # Checked 2024-07-12 ##	 !20200101 - default date
+stocks-analytics-events.news.apple-dns.net # Checked 2024-07-12 ##	 !20200101 - default date
+stream.hubvisor.io # Checked 2024-07-12 ##	Adguard
+stream-access.net # Checked 2024-07-12 ##	 Export 08-11-2023 
+stream-sports.co # Checked 2024-07-12 ##	 !20200101 - default date
+stream-unlimited.com # Checked 2024-07-12 ##	 !20200101 - default date
+sync.alphonso.tv # Checked 2024-07-12 ##	 !20200101 - default date
+sync.hgrtb.com # Checked 2024-07-12 ##	 !20220427 !1636638300 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1636638300 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+syndication.optimizesrv.com # Checked 2024-07-12 ##	 !20200101 - default date
+syndication.realsrv.com # Checked 2024-07-12 ##	 !20220427 !1641633102 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1641633102 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+syndication.twitter.com # Checked 2024-07-12 ##	Adguard
+syn-dir.sn.eamobile.com # Checked 2024-07-12 ##	Adguard
+synergy.eamobile.com # Checked 2024-07-12 ##	Adguard
+t.360.audion.fm # Checked 2024-07-12 ##	 Export 08-11-2023 
+t.fastcmp.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+tag.analytics-helper.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+tag.aticdn.net # Checked 2024-07-12 ##	Adguard
+tag.bliink.io # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+tagcommander.com # Checked 2024-07-12 ##	Adguard
+tb.turbocap.net # Checked 2024-07-12 ##	 !20200101 - default date
+the-best-prizes.life # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+thevpntrustzone.xyz # Checked 2024-07-12 ##	 !20200101 - default date
+thewinners-x.xyz # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+tiiltsti.home # Checked 2024-07-12 ##	 !20200101 - default date
+tik-ttok.net # Checked 2024-07-12 ##	 !20220427 !1641633017 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1641633017 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+torrindex.net # Checked 2024-07-12 ##	 !20200101 - default date
+tp8.free.fr # Checked 2024-07-12 ##	 !20220427 !1635342139 !1651045343 !adguard perso file !TO BE UPDATED IN TELEPORT " !20220427 !1635342139 !1651045343 !adguard perso file !TO BE UPDATED IN TELEPORT "
+tpc.googlesyndication.com # Checked 2024-07-12 ##	 !20211027
+tps20221.doubleverify.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+tps20222.doubleverify.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+tps20226.doubleverify.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+tr.cloud-media.fr # Checked 2024-07-12 ##	 imported in TP8 2022-10-13 imported in TP8 2022-10-13
+track.analytics-data.io # Checked 2024-07-12 ##	 
+track.effiliation.com # Checked 2024-07-12 ##	 !20200101 - default date
+tracker.coppersurfer.tk # Checked 2024-07-12 ##	 !!20220427 !!20220427
+tracker.data-vp.com # Checked 2024-07-12 ##	Adguard
+tracker.iamhansen.xyz # Checked 2024-07-12 ##	 !20220427 !1597045994 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1597045994 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+tracker.internetwarriors.net # Checked 2024-07-12 ##	 !!20220427 !!20220427
+tracker.leechers-paradise.org # Checked 2024-07-12 ##	 !20220427 !1597046000 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1597046000 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+tracker.moeking.me # Checked 2024-07-12 ##	 !20220427 !1597046024 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1597046024 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+tracker.nmp1.com # Checked 2024-07-12 ##	Adguard
+tracker.novg.net # Checked 2024-07-12 ##	 !20220427 !1597045943 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1597045943 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+tracker.opentrackr.org # Checked 2024-07-12 ##	 !!20220427 !!20220427
+tracker.p2pconnect.net # Checked 2024-07-12 ##	 !20211027
+tracker.tiny-vps.com # Checked 2024-07-12 ##	 !20220427 !1597046089 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1597046089 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+tracker.torrent.eu.org # Checked 2024-07-12 ##	 !20220427 !1597045950 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1597045950 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+tracking.aatkit.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+tracking.eu.miui.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+tracking.g2crowd.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+tracking.india.miui.com # Checked 2024-07-12 ##	 !20200101 - default date
+tracking.intl.miui.com # Checked 2024-07-12 ##	 !20210822 ! " !20210822 ! "
+tracking.miui.com # Checked 2024-07-12 ##	 !20200101 - default date
+tracking.oui.sncf # Checked 2024-07-12 ##	Adguard
+tracking.prmtracking3.com # Checked 2024-07-12 ##	 !20220427 !1641632754 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1641632754 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+tracking.purchasely.io # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+tracking.rus.miui.com # Checked 2024-07-12 ##	 !20200101 - default date
+tracking-api-4lasu2nlcq-ew.a.run.app # Checked 2024-07-12 ##	 Export 08-11-2023 
+trc.audiencemanager.de # Checked 2024-07-12 ##	 !!20220427 !!20220427
+trc.taboola.com # Checked 2024-07-12 ##	 !20200101 - default date
+trk.ipaddress.com # Checked 2024-07-12 ##	 !20200101 - default date
+trpqdce.home # Checked 2024-07-12 ##	 !20200101 - default date
+ttf.trmobc.com # Checked 2024-07-12 ##	 !20200101 - default date
+u-ams03.e-planning.net # Checked 2024-07-12 ##	 
+u-blox.com # Checked 2024-07-12 ##	 
+ui2.awin.com # Checked 2024-07-12 ##	 !20211027
+uop.umeng.com # Checked 2024-07-12 ##	Adguard
+update.bittorrent.com # Checked 2024-07-12 ##	 !20200101 - default date
+update.utorrent.com # Checked 2024-07-12 ##	 !20211027
+update.utorrent.li # Checked 2024-07-12 ##	 !20200101 - default date
+upgulpinon.com # Checked 2024-07-12 ##	 !20200101 - default date
+use.fontawesome.com # Checked 2024-07-12 ##	 !20220427 !1645120472 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1645120472 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+user.jpush.cn # Checked 2024-07-12 ##	Adguard
+user.sn.eamobile.com # Checked 2024-07-12 ##	Adguard
+utclient.utorrent.com # Checked 2024-07-12 ##	 !20211027
+utztoktefnrxt.home # Checked 2024-07-12 ##	 !20200101 - default date
+v.clarity.ms # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+v7.stats.avast.com # Checked 2024-07-12 ##	 !20200101 - default date
+vdcojnh.home # Checked 2024-07-12 ##	 !20211027
+vgwelmwu.home # Checked 2024-07-12 ##	 !20200101 - default date
+vid.pubmatic.com # Checked 2024-07-12 ##	 !20211027
+video.trontv.com # Checked 2024-07-12 ##	 !20211027
+video-cdt1-1.xx.fbcdn.net # Checked 2024-07-12 ##	 !20200101 - default date
+visit.polar-track.com # Checked 2024-07-12 ##	 !20200101 - default date
+visitor.fiftyt.com # Checked 2024-07-12 ##	 !20200101 - default date
+vivom.pro # Checked 2024-07-12 ##	 !20200101 - default date
+vkatuzbzubycbva.home # Checked 2024-07-12 ##	 !20211027
+voici.assistpub.com # Checked 2024-07-12 ##	 !20220427 !1636800638 !1651045343 !pub !TO BE UPDATED IN TELEPORT " !20220427 !1636800638 !1651045343 !pub !TO BE UPDATED IN TELEPORT "
+votrecolis-fr.online # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+vpnoffers.net # Checked 2024-07-12 ##	 !20200101 - default date
+vpnoffers.org # Checked 2024-07-12 ##	 !20211027
+wamfactory.solution.weborama.fr # Checked 2024-07-12 ##	 !20200101 - default date
+wearewinnerseveryday.co # Checked 2024-07-12 ##	 !20200101 - default date
+wearewinnerseveryday.com # Checked 2024-07-12 ##	 !20200101 - default date
+weather-analytics-events.apple.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+web.ssp.yahoo.com # Checked 2024-07-12 ##	 !20200101 - default date
+weborama.fr # Checked 2024-07-12 ##	Adguard
+websocket.labox # Checked 2024-07-12 ##	Adguard
+welcome.yield.app # Checked 2024-07-12 ##	 !20200101 - default date
+widgets.trustedshops.com # Checked 2024-07-12 ##	Adguard
+wjkecqcznyigxiz.home # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+wl.hpyrdr.com # Checked 2024-07-12 ##	 
+wpad.home # Checked 2024-07-12 ##	 !20211027
+ws.batch.com # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+ws.meteofrance.com # Checked 2024-07-12 ##	 !20200101 - default date
+ws.qualified.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+wscustomercare.nctvservices.fr # Checked 2024-07-12 ##	Adguard
+ww25.unblocked.is1 # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+www.adskeeper.co.uk # Checked 2024-07-12 ##	 !20200101 - default date
+www.adtilt.com # Checked 2024-07-12 ##	 !20211027
+www.adtng.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+www.adwstats.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+www.afternic.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.amazon.sa # Checked 2024-07-12 ##	 !20200101 - default date
+www.audiotoaudio.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+www.baidu.com # Checked 2024-07-12 ##	Adguard
+www.beetle-clicks.biz # Checked 2024-07-12 ##	 !20200101 - default date
+www.betterex.xyz # Checked 2024-07-12 ##	 !20220427 !1641632751 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1641632751 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+www.bidderads.xyz # Checked 2024-07-12 ##	 !20220427 !1641632748 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1641632748 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+www.bidswitch.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.bridgewell.com.tw # Checked 2024-07-12 ##	 !20220427 !1639852823 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1639852823 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+www.cloudbet.com # Checked 2024-07-12 ##	 !20220427 !1646208550 !1651045343 !TO BE UPDATED IN TELEPORT " !20220427 !1646208550 !1651045343 !TO BE UPDATED IN TELEPORT "
+www.facebook.com # Checked 2024-07-12 ##	 !20220427 !1610731063 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1610731063 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+www.fitint.ro # Checked 2024-07-12 ##	 !20210822 ! " !20210822 ! "
+www.flashb.id # Checked 2024-07-12 ##	 
+www.fly-unicorn.com # Checked 2024-07-12 ##	 !20220427 !1632128929 !1651045343 !faux torrent !TO BE UPDATED IN TELEPORT " !20220427 !1632128929 !1651045343 !faux torrent !TO BE UPDATED IN TELEPORT "
+www.get-express-vpn.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.google.com.br # Checked 2024-07-12 ##	 !20220427 !1639748978 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1639748978 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+www.google.it # Checked 2024-07-12 ##	Adguard
+www.googleadservices.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.google-analytics.com # Checked 2024-07-12 ##	 2023-03-22 2023-03-22
+www.googleapis.com # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+www.googleoptimize.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.googletagservices.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.gstatic.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.hentaiheroes.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.jeux-gratuits.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.kameleoon.com # Checked 2024-07-12 ##	 !20220427 !1595176457 !1651045342 !NEW3 in TP8 Blacklist !TO BE UPDATED IN TELEPORT " !20220427 !1595176457 !1651045342 !NEW3 in TP8 Blacklist !TO BE UPDATED IN TELEPORT "
+www.laplacemedia.click # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+www.lightboxcdn.com # Checked 2024-07-12 ##	2024-07-12 Pihole blacklist
+www.livehdcams.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.mate.zone # Checked 2024-07-12 ##	 !20200101 - default date
+www.nutaku.net # Checked 2024-07-12 ##	 !20211027
+www.patreon.com # Checked 2024-07-12 ##	 !20211027
+www.phywe.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.scupio.com # Checked 2024-07-12 ##	 !20220427 !1639852821 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1639852821 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+www.sfi4.com # Checked 2024-07-12 ##	 !20200101 - default date
+www.telechargement-ebook.com # Checked 2024-07-12 ##	 !20220427 !1636803587 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1636803587 !1651045343 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+www.torrendownload.info # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+www.tripleclicks.com # Checked 2024-07-12 ##	 !!20220427 !!20220427
+www.vreaubagaj.ro # Checked 2024-07-12 ##	 !20200101 - default date
+www.wshifen.com # Checked 2024-07-12 ##	Adguard
+www-alv.google-analytics.com # Checked 2024-07-12 ##	 Export 08-11-2023 
+x1.c.lencr.org # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+xiti.com # Checked 2024-07-12 ##	Adguard
+xml.gadsbee.com # Checked 2024-07-12 ##	 !20200101 - default date
+xml.realtime-bid.com # Checked 2024-07-12 ##	 !20200101 - default date
+xmpp.messaging.advgo.net # Checked 2024-07-12 ##	 !20200101 - default date
+yadro.ru # Checked 2024-07-12 ##	 !20200101 - default date
+yandex.ru # Checked 2024-07-12 ##	 !20211027
+yt4.ggpht.com # Checked 2024-07-12 ##	 !20200101 - default date
+ytbicjqrwmbhmo.home # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+z2q1s7jvfw.s.ad6media.fr # Checked 2024-07-12 ##	 !20200101 - default date
+zdxmxxqtflsg.home # Checked 2024-07-12 ##	 !20220427 ! " !20220427 ! "
+zem.outbrainimg.com # Checked 2024-07-12 ##	 Export 08-11-2023 
