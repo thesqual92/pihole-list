@@ -1,582 +1,580 @@
-0.pool.ntp.org	# from Whitelist 24/01/2025
-1.debian.pool.ntp.org	# from Whitelist 24/01/2025
-16.ds.lsapp.eu	# from Whitelist 24/01/2025
-19-courier.push.apple.com	# from Whitelist 24/01/2025
-4.bp.blogspot.com	# from Whitelist 24/01/2025
-510002994.collect.igodigital.com	# from Whitelist 24/01/2025
-72428f8766.optimicdn.com	# from Whitelist 24/01/2025
-a.mtstatic.com	# from Whitelist 24/01/2025
-a.tiles.mapbox.com	# from Whitelist 24/01/2025
-a0.awsstatic.com	# from Whitelist 24/01/2025
-a0.muscache.com	# from Whitelist 24/01/2025
-a2047.dscb.akamai.net	# from Whitelist 24/01/2025
-aamt.nbcnews.com	# from Whitelist 24/01/2025
-aax-eu.amazon.fr	# from Whitelist 24/01/2025
-accdn.lpsnmedia.net	# from Whitelist 24/01/2025
-account.live.com	# from Whitelist 24/01/2025
-accounts.google.com	# from Whitelist 24/01/2025
-acctcdn.msauth.net	# from Whitelist 24/01/2025
-acctcdn.msftauth.net	# from Whitelist 24/01/2025
-acctcdnmsftuswe2.azureedge.net	# from Whitelist 24/01/2025
-action.metaffiliation.com	# from Whitelist 24/01/2025
-adn2.velocityweather.com	# from Whitelist 24/01/2025
-ads.google.com	# from Whitelist 24/01/2025
-afar.brightspotcdn.com	# from Whitelist 24/01/2025
-amp-api.apps.apple.com	# from Whitelist 24/01/2025
-amp-api.music.apple.com	# from Whitelist 24/01/2025
-android.clients.google.com	# from Whitelist 24/01/2025
-api.airbnb.com	# from Whitelist 24/01/2025
-api.amazon.com	# from Whitelist 24/01/2025
-api.axept.io	# from Whitelist 24/01/2025
-api.boulanger.com	# from Whitelist 24/01/2025
-api.consentframework.com	# from Whitelist 24/01/2025
-api.flightradar24.com	# from Whitelist 24/01/2025
-api.fpjs.io	# from Whitelist 24/01/2025
-api.ipify.org	# from Whitelist 24/01/2025
-api.join.skype.com	# from Whitelist 24/01/2025
-api.kingfisher.com	# from Whitelist 24/01/2025
-api.privacy-center.org	# from Whitelist 24/01/2025
-api.repocket.com	# from Whitelist 24/01/2025
-api.socloz.com	# from Whitelist 24/01/2025
-api.ssai.ftven.fr	# from Whitelist 24/01/2025
-api.twitter.com	# from Whitelist 24/01/2025
-api-2-0-0.twitter.com	# from Whitelist 24/01/2025
-api6.my-ip.io	# from Whitelist 24/01/2025
-api-js.datadome.co	# from Whitelist 24/01/2025
-apis.airtransat.com	# from Whitelist 24/01/2025
-api-sdk.datadome.co	# from Whitelist 24/01/2025
-apiv1.zenguard.biz	# from Whitelist 24/01/2025
-app.eu1.usercentrics.eu	# from Whitelist 24/01/2025
-app.netatmo.net	# from Whitelist 24/01/2025
-app.secure.particuliers.societegenerale.mobi	# from Whitelist 24/01/2025
-app.secureprivacy.ai	# from Whitelist 24/01/2025
-app.usercentrics.eu	# from Whitelist 24/01/2025
-apps.mzstatic.com	# from Whitelist 24/01/2025
-apps-mzstatic-cdn.itunes-apple.com.akadns.net	# from Whitelist 24/01/2025
-armorlux-armorlux-com-storage.omn.proximis.com	# from Whitelist 24/01/2025
-asset2.marksandspencer.com	# from Whitelist 24/01/2025
-assets.adobedtm.com	# from Whitelist 24/01/2025
-assets.airtrfx.com	# from Whitelist 24/01/2025
-assets.alicdn.com	# from Whitelist 24/01/2025
-assets.asosservices.com	# from Whitelist 24/01/2025
-assets.bose.com	# from Whitelist 24/01/2025
-assets.bouyguestelecom.fr	# from Whitelist 24/01/2025
-assets.centrepresseaveyron.fr	# from Whitelist 24/01/2025
-assets.fressnapf.com	# from Whitelist 24/01/2025
-assets.jwwb.nl	# from Whitelist 24/01/2025
-assets.lindependant.fr	# from Whitelist 24/01/2025
-assets.midilibre.fr	# from Whitelist 24/01/2025
-assets.motive.co	# from Whitelist 24/01/2025
-assets.msn.com	# from Whitelist 24/01/2025
-assets.poool.fr	# from Whitelist 24/01/2025
-assets.rugbyrama.fr	# from Whitelist 24/01/2025
-assets.sk-static.com	# from Whitelist 24/01/2025
-assets.travix.com	# from Whitelist 24/01/2025
-assets.website-files.com	# from Whitelist 24/01/2025
-assetscdn-wchat.freshchat.com	# from Whitelist 24/01/2025
-assets-prod.sumo.prod.webservices.mozgcp.net	# from Whitelist 24/01/2025
-assistance.sosh.fr	# from Whitelist 24/01/2025
-au.download.windowsupdate.com	# from Whitelist 24/01/2025
-aus5.mozilla.org	# from Whitelist 24/01/2025
-azurecomcdn.azureedge.net	# from Whitelist 24/01/2025
-beacons4.gvt2.com	# from Whitelist 24/01/2025
-betterstack.com	# from Whitelist 24/01/2025
-b-graph.facebook.com	# from Whitelist 24/01/2025
-bibo.api.swiftkey.com	# from Whitelist 24/01/2025
-boot.pbstck.com	# from Whitelist 24/01/2025
-broadcast.viewsurf.com	# from Whitelist 24/01/2025
-browser.pipe.aria.microsoft.com	# from Whitelist 24/01/2025
-buy.itunes.apple.com	# from Whitelist 24/01/2025
-buy.itunes-apple.com.akadns.net	# from Whitelist 24/01/2025
-c.bing.com	# from Whitelist 24/01/2025
-c.media-amazon.com	# from Whitelist 24/01/2025
-c.oracleinfinity.io	# from Whitelist 24/01/2025
-c.woopic.com	# from Whitelist 24/01/2025
-c0.lestechnophiles.com	# from Whitelist 24/01/2025
-calendar.google.com	# from Whitelist before 24/01/2025
-ccl-prod.cache.ap.digikfplc.com	# from Whitelist 24/01/2025
-cdn.consentframework.com	# from Whitelist 24/01/2025
-cdn.cookielaw.org	# from Whitelist 24/01/2025
-cdn.cquotient.com	# from Whitelist 24/01/2025
-cdn.cuisineaz.com	# from Whitelist 24/01/2025
-cdn.decibelinsight.net	# from Whitelist 24/01/2025
-cdn.hubvisor.io	# from Whitelist 24/01/2025
-cdn.jwplayer.com	# from Whitelist 24/01/2025
-cdn.mouseflow.com	# from Whitelist 24/01/2025
-cdn.optimizely.com	# from Whitelist 24/01/2025
-cdn.passeportsante.net	# from Whitelist 24/01/2025
-cdn.polyfill.io	# from Whitelist 24/01/2025
-cdn.sarenza.net	# from Whitelist 24/01/2025
-cdn.segment.com	# from Whitelist 24/01/2025
-cdn.speedcurve.com	# from Whitelist 24/01/2025
-cdn.syndication.twimg.com	# from Whitelist 24/01/2025
-cdn.tagcommander.com	# from Whitelist 24/01/2025
-cdn.woopic.com	# from Whitelist 24/01/2025
-cdn2.smoot.apple.com	# from Whitelist 24/01/2025
-cdn-dynmedia-1.microsoft.com	# from Whitelist 24/01/2025
-cdn-s-www.lejsl.com	# from Whitelist 24/01/2025
-cf.bstatic.com	# from Whitelist 24/01/2025
-cfcdn.apowersoft.info	# from Whitelist 24/01/2025
-cfl.dropboxstatic.com	# from Whitelist 24/01/2025
-chat-e2ee-mini.facebook.com	# from Whitelist 24/01/2025
-choices.consentframework.com	# from Whitelist 24/01/2025
-ci.asosservices.com	# from Whitelist 24/01/2025
-ci.rdtcdn.com	# from Whitelist 24/01/2025
-ci-ph.rdtcdn.com	# from Whitelist 24/01/2025
-client.axept.io	# from Whitelist 24/01/2025
-client.packetstream.io	# from Whitelist 24/01/2025
-client.wns.windows.com	# from Whitelist 24/01/2025
-client-api.itunes.apple.com	# from Whitelist 24/01/2025
-clients.l.google.com	# from Whitelist before 24/01/2025
-clients1.google.com	# from Whitelist before 24/01/2025
-clients4.google.com	# from Whitelist 24/01/2025
-clients6.google.com	# from Whitelist 24/01/2025
-cloudflare-dns.com	# from Whitelist 24/01/2025
-cloud-observer.ip-label.net	# from Whitelist 24/01/2025
-cmp.osano.com	# from Whitelist 24/01/2025
-cms.cloudinary.vpsvc.com	# from Whitelist 24/01/2025
-codepush.appcenter.ms	# from Whitelist 24/01/2025
-collector.appconsent.io	# from Whitelist 24/01/2025
-connect.facebook.net	# from Whitelist 24/01/2025
-connectivitycheck.gstatic.com	# from Whitelist before 24/01/2025
-consent.capital.fr	# from Whitelist 24/01/2025
-consent.programme-tv.net	# from Whitelist 24/01/2025
-consent.trustarc.com	# from Whitelist 24/01/2025
-consent-api.service.consent.usercentrics.eu	# from Whitelist 24/01/2025
-consent-pref.trustarc.com	# from Whitelist 24/01/2025
-content.asos-media.com	# from Whitelist 24/01/2025
-contents.mediadecathlon.com	# from Whitelist 24/01/2025
-crl.comodoca.com	# from Whitelist 24/01/2025
-cs.ns1p.net	# from Whitelist 24/01/2025
-cs624.adn.phicdn.net	# from Whitelist 24/01/2025
-ct.captcha-delivery.com	# from Whitelist 24/01/2025
-ctldl.windowsupdate.com	# from Whitelist 24/01/2025
-czimgproxy.odiso.net	# from Whitelist 24/01/2025
-czproxy.odiso.net	# from Whitelist 24/01/2025
-data.mistat.intl.xiaomi.com	# from Whitelist 24/01/2025
-datacore-write.securitytrfx.com	# from Whitelist 24/01/2025
-dd.prod.captcha-delivery.com	# from Whitelist 24/01/2025
-device-api.asnapieu.com	# from Whitelist before 24/01/2025
-device-api.urbanairship.com	# from Whitelist before 24/01/2025
-di.rdtcdn.com	# from Whitelist 24/01/2025
-di1-ph.ypncdn.com	# from Whitelist 24/01/2025
-di-ph.rdtcdn.com	# from Whitelist 24/01/2025
-discussions.apple.com	# from Whitelist 24/01/2025
-dl.delivery.mp.microsoft.com	# from Whitelist 24/01/2025
-dnl.eurosport.com	# from Whitelist 24/01/2025
-doc-14-4s-apps-viewer.googleusercontent.com	# from Whitelist 24/01/2025
-download.cyberghostvpn.com	# from Whitelist 24/01/2025
-download.microsoft.com	# from Whitelist 24/01/2025
-download.visualstudio.microsoft.com	# from Whitelist 24/01/2025
-dpm.demdex.net	# from Whitelist 24/01/2025
-ds-oob-fo-media-router1.prod.media.g01.yahoodns.net	# from Whitelist 24/01/2025
-dynamic.criteo.com	# from Whitelist 24/01/2025
-dynupdate.noip.com	# from Whitelist 24/01/2025
-e.viously.com	# from Whitelist 24/01/2025
-e0.flightcdn.com	# from Whitelist 24/01/2025
-e17437.dscb.akamaiedge.net	# from Whitelist before 24/01/2025
-e2486.g.akamaiedge.net	# from Whitelist before 24/01/2025
-e3925.dscx.akamaiedge.net	# from Whitelist 24/01/2025
-e4478.a.akamaiedge.net	# from Whitelist before 24/01/2025
-e6858.dsce9.akamaiedge.net	# from Whitelist before 24/01/2025
-ea.placedestendances.com	# from Whitelist 24/01/2025
-edge.gycpi.b.yahoodns.net	# from Whitelist 24/01/2025
-edge-mqtt.facebook.com	# from Whitelist 24/01/2025
-ei.rdtcdn.com	# from Whitelist 24/01/2025
-ei.rdtcdn.com.sds.rncdn7.com	# from Whitelist 24/01/2025
-ei.ypncdn.com	# from Whitelist 24/01/2025
-ei.ypncdn.com.sds.rncdn7.com	# from Whitelist 24/01/2025
-ei-ph.rdtcdn.com	# from Whitelist 24/01/2025
-ei-ph.rdtcdn.com.sds.rncdn7.com	# from Whitelist 24/01/2025
-em-fonts-prod.airtrfx.com	# from Whitelist 24/01/2025
-em-frontend-assets.airtrfx.com	# from Whitelist 24/01/2025
-encrypted-tbn0.gstatic.com	# from Whitelist 24/01/2025
-endpoints.leaflets.schwarz	# from Whitelist 24/01/2025
-epdg.epc.mnc010.mcc208.pub.3gppnetwork.org	# from Whitelist 24/01/2025
-epl.paypal-communication.com	# from Whitelist 24/01/2025
-esm.glass.adidas.com	# from Whitelist 24/01/2025
-eu.static.mega.co.nz	# from Whitelist 24/01/2025
-eu3-prod-direct.eurosport.fr	# from Whitelist 24/01/2025
-eum-blue-saas.instana.io	# from Whitelist 24/01/2025
-ev-ph.rdtcdn.com	# from Whitelist 24/01/2025
-external-frt3-1.xx.fbcdn.net	# from Whitelist 24/01/2025
-feed.flightradar24.com	# from Whitelist 24/01/2025
-fi1.ypncdn.com	# from Whitelist 24/01/2025
-fi1-ph.ypncdn.com	# from Whitelist 24/01/2025
-fi1-ph.ypncdn.com.sds.rncdn7.com	# from Whitelist 24/01/2025
-filters.adtidy.org	# from Whitelist before 24/01/2025
-firebaseinstallations.googleapis.com	# from Whitelist 24/01/2025
-firebaselogging-pa.googleapis.com	# from Whitelist 24/01/2025
-firebaseremoteconfig.googleapis.com	# from Whitelist before 24/01/2025
-firebase-settings.crashlytics.com	# from Whitelist 24/01/2025
-firestore.googleapis.com	# from Whitelist 24/01/2025
-flashscore.onelink.me	# from Whitelist 24/01/2025
-fmipmobile.fe.apple-dns.net	# from Whitelist before 24/01/2025
-fonts.googleapis.com	# from Whitelist 24/01/2025
-fr.news.yahoo.com	# from Whitelist 24/01/2025
-fr.peugeot-saveurs.com	# from Whitelist 24/01/2025
-fr.style.yahoo.com	# from Whitelist 24/01/2025
-fr.yahoo.com	# from Whitelist 24/01/2025
-freepik.cdnpk.net	# from Whitelist 24/01/2025
-front-azure.netatmo.net	# from Whitelist 24/01/2025
-front-nginx-01-ext.eurekoo.com	# from Whitelist 24/01/2025
-fs.ypncdn.com	# from Whitelist 24/01/2025
-fs.ypncdn.com.sds.rncdn7.com	# from Whitelist 24/01/2025
-fv-cdn-prod-endpoint.azureedge.net	# from Whitelist 24/01/2025
-g.live.com	# from Whitelist 24/01/2025
-gate.first-id.fr	# from Whitelist 24/01/2025
-gateway.facebook.com	# from Whitelist before 24/01/2025
-gateway.fe.apple-dns.net	# from Whitelist before 24/01/2025
-gateway.fe2.apple-dns.net	# from Whitelist 24/01/2025
-gateway.icloud.com	# from Whitelist before 24/01/2025
-gdmf.apple.com	# from Whitelist 24/01/2025
-geo.captcha-delivery.com	# from Whitelist 24/01/2025
-geo.query.yahoo.com	# from Whitelist 24/01/2025
-geo.yahoo.com	# from Whitelist 24/01/2025
-geolocation.onetrust.com	# from Whitelist 24/01/2025
-github.com	# from Whitelist before 24/01/2025
-global.flashscore.ninja	# from Whitelist 24/01/2025
-global.localizecdn.com	# from Whitelist 24/01/2025
-global.oktacdn.com	# from Whitelist 24/01/2025
-go1.monetizemyapp.net	# from Whitelist 24/01/2025
-googleapis.l.google.com	# from Whitelist 24/01/2025
-googlehosted.l.googleusercontent.com	# from Whitelist 24/01/2025
-gp.cdn.woopic.com	# from Whitelist 24/01/2025
-graph.facebook.com	# from Whitelist before 24/01/2025
-grpc-prod.orange.sixt.com	# from Whitelist 24/01/2025
-gstaticadssl.l.google.com	# from Whitelist before 24/01/2025
-halc.iadvize.com	# from Whitelist 24/01/2025
-help.nflxext.com	# from Whitelist 24/01/2025
-henrri.net	# from Whitelist 24/01/2025
-ht.youporn.com	# from Whitelist 24/01/2025
-http-test1.brdtnet.com	# from Whitelist 24/01/2025
-humanoid.fr	# from Whitelist 24/01/2025
-hw-cdn2.adtng.com	# from Whitelist 24/01/2025
-hw-cdn2.adtng.com.lds.rncdn7.com	# from Whitelist 24/01/2025
-i.1pic.co	# from Whitelist 24/01/2025
-i.etsystatic.com	# from Whitelist 24/01/2025
-i.ytimg.com	# from Whitelist 24/01/2025
-i01.appmifile.com	# from Whitelist 24/01/2025
-icsp.ingka.ikea.com	# from Whitelist 24/01/2025
-id.google.com	# from Whitelist before 24/01/2025
-id.google.fr	# from Whitelist before 24/01/2025
-iid.googleapis.com	# from Whitelist before 24/01/2025
-image.benq.com	# from Whitelist 24/01/2025
-image.jeuxvideo.com	# from Whitelist 24/01/2025
-images.asos-media.com	# from Whitelist 24/01/2025
-images.ladepeche.fr	# from Whitelist 24/01/2025
-images.midilibre.fr	# from Whitelist 24/01/2025
-images.philips.com	# from Whitelist 24/01/2025
-images2.bovpg.net	# from Whitelist 24/01/2025
-images-na.ssl-images-amazon.com	# from Whitelist 24/01/2025
-img.20mn.fr	# from Whitelist 24/01/2025
-img.cuisineaz.com	# from Whitelist 24/01/2025
-img-api.mac4ever.com	# from Whitelist 24/01/2025
-imgresizer.eurosport.com	# from Whitelist 24/01/2025
-imgs.cdn-btsg.com	# from Whitelist 24/01/2025
-imgs.signifyd.com	# from Whitelist 24/01/2025
-imgur.com	# from Whitelist before 24/01/2025
-in.appcenter.ms	# from Whitelist 24/01/2025
-inappcheck.itunes.apple.com	# from Whitelist before 24/01/2025
-inapps.appsflyer.com	# from Whitelist 24/01/2025
-init.itunes.apple.com	# from Whitelist 24/01/2025
-init-cdn.itunes-apple.com.akadns.net	# from Whitelist 24/01/2025
-insider.windows.com	# from Whitelist 24/01/2025
-interfaces.zapier.com	# from Whitelist 24/01/2025
-ip-api.com	# from Whitelist 24/01/2025
-ir.ebaystatic.com	# from Whitelist 24/01/2025
-ir2.beap.gemini.yahoo.com	# from Whitelist 24/01/2025
-is1-ssl.mzstatic.com	# from Whitelist before 24/01/2025
-is4-ssl.mzstatic.com	# from Whitelist before 24/01/2025
-itunes.apple.com	# from Whitelist 24/01/2025
-jobs.ashbyhq.com	# from Whitelist 24/01/2025
-js.chargebee.com	# from Whitelist 24/01/2025
-js.datadome.co	# from Whitelist 24/01/2025
-js.hs-scripts.com	# from Whitelist 24/01/2025
-js-agent.newrelic.com	# from Whitelist 24/01/2025
-jssdkcdns.mparticle.com	# from Whitelist 24/01/2025
-jzxk.mjt.lu	# from Whitelist 24/01/2025
-katans.com	# from Whitelist 24/01/2025
-keyvalueservice.fe.apple-dns.net	# from Whitelist 24/01/2025
-l.lepoint.fr	# from Whitelist 24/01/2025
-l.mediapart.fr	# from Whitelist 24/01/2025
-learn.microsoft.com	# from Whitelist 24/01/2025
-lf16-tiktok-common.ttwstatic.com	# from Whitelist 24/01/2025
-lh3.googleusercontent.com	# from Whitelist 24/01/2025
-lh4.googleusercontent.com	# from Whitelist 24/01/2025
-lh5.googleusercontent.com	# from Whitelist 24/01/2025
-lh6.googleusercontent.com	# from Whitelist 24/01/2025
-lidl.leaflets.schwarz	# from Whitelist 24/01/2025
-lo0.v.liveperson.net	# from Whitelist 24/01/2025
-logc412.xiti.com	# from Whitelist 24/01/2025
-login.live.com	# from Whitelist 24/01/2025
-login.microsoftonline.com	# from Whitelist 24/01/2025
-login.yahoo.com	# from Whitelist 24/01/2025
-logincdn.msftauth.net	# from Whitelist 24/01/2025
-logx.optimizely.com	# from Whitelist 24/01/2025
-lpcdn.lpsnmedia.net	# from Whitelist 24/01/2025
-lptag.liveperson.net	# from Whitelist 24/01/2025
-m.boulanger.com	# from Whitelist 24/01/2025
-mab.chartbeat.com	# from Whitelist 24/01/2025
-mail.yahoo.com	# from Whitelist 24/01/2025
-maintws.withings.net	# from Whitelist 24/01/2025
-maps.google.com	# from Whitelist before 24/01/2025
-mapservice.weatherpro.meteogroup.de	# from Whitelist 24/01/2025
-mask.icloud.com	# from Whitelist 24/01/2025
-mask-h2.icloud.com	# from Whitelist 24/01/2025
-matomo.cuisineaz.com	# from Whitelist 24/01/2025
-media.adeo.com	# from Whitelist 24/01/2025
-media.castorama.fr	# from Whitelist 24/01/2025
-media.castorama.fr.fasterized.com	# from Whitelist 24/01/2025
-media.e.leclerc	# from Whitelist 24/01/2025
-media.education.gouv.fr	# from Whitelist before 24/01/2025
-media.os.fressnapf.com	# from Whitelist 24/01/2025
-media.ouest-france.fr	# from Whitelist 24/01/2025
-media.tiffany.com	# from Whitelist 24/01/2025
-media.veepee.com	# from Whitelist 24/01/2025
-media.zooplus.com	# from Whitelist 24/01/2025
-media-cdn.placedestendances.com	# from Whitelist 24/01/2025
-media-cntw.nperf.com	# from Whitelist 24/01/2025
-media-cntw.nperf.com.cdnga.net	# from Whitelist 24/01/2025
-media-mcetv.ouest-france.fr	# from Whitelist 24/01/2025
-mesu-cdn.origin-apple.com.akadns.net	# from Whitelist 24/01/2025
-metrics.asos.com	# from Whitelist 24/01/2025
-mi.umguk.co.uk	# from Whitelist 24/01/2025
-mlat1.rb24.com	# from Whitelist 24/01/2025
-mobile.asosservices.com	# from Whitelist 24/01/2025
-mobile.pipe.aria.microsoft.com	# from Whitelist 24/01/2025
-mobile-api.adguard.com	# from Whitelist before 24/01/2025
-mobilecrush.king.com	# from Whitelist 24/01/2025
-mobile-production.content-square.net	# from Whitelist before 24/01/2025
-mosaic01.ztat.net	# from Whitelist 24/01/2025
-mosaic02.ztat.net	# from Whitelist 24/01/2025
-mqtt.c10r.facebook.com	# from Whitelist 24/01/2025
-msedge.api.cdp.microsoft.com	# from Whitelist 24/01/2025
-msedge.b.tlu.dl.delivery.mp.microsoft.com	# from Whitelist 24/01/2025
-msh.amazon.co.uk	# from Whitelist 24/01/2025
-music.apple.com	# from Whitelist 24/01/2025
-music.youtube.com	# from Whitelist 24/01/2025
-my.asos.com	# from Whitelist 24/01/2025
-nbcu.demdex.net	# from Whitelist 24/01/2025
-nebula-cdn.kampyle.com	# from Whitelist 24/01/2025
-news.google.com	# from Whitelist before 24/01/2025
-nexus.officeapps.live.com	# from Whitelist 24/01/2025
-nexusrules.officeapps.live.com	# from Whitelist 24/01/2025
-node.windy.com	# from Whitelist 24/01/2025
-o4503943025459200.ingest.sentry.io	# from Whitelist 24/01/2025
-obspki.proservia-obs.lan	# from Whitelist 24/01/2025
-ocsp.digicert.com	# from Whitelist before 24/01/2025
-ocsp.sectigo.com	# from Whitelist before 24/01/2025
-ogs.google.com	# from Whitelist 24/01/2025
-ogs.google.fr	# from Whitelist before 24/01/2025
-onedrive.live.com	# from Whitelist 24/01/2025
-onegetcdn.azureedge.net	# from Whitelist 24/01/2025
-openair-california.airtrfx.com	# from Whitelist 24/01/2025
-ota.lokalise.co	# from Whitelist 24/01/2025
-otf.msn.com	# from Whitelist 24/01/2025
-outlook.office365.com	# from Whitelist before 24/01/2025
-p.midasplayer.com	# from Whitelist 24/01/2025
-p.ncpcad.com	# from Whitelist 24/01/2025
-p.typekit.net	# from Whitelist 24/01/2025
-p13nlog-1106815646.us-east-1.elb.amazonaws.com	# from Whitelist 24/01/2025
-p20-buy.itunes.apple.com	# from Whitelist 24/01/2025
-p49-caldav.icloud.com	# from Whitelist before 24/01/2025
-p49-fmfmobile.icloud.com	# from Whitelist before 24/01/2025
-p49-fmipmobile.icloud.com	# from Whitelist before 24/01/2025
-particuliers.sg.fr	# from Whitelist 24/01/2025
-pasta.esfile.duapps.com	# from Whitelist 24/01/2025
-pbs.twimg.com	# from Whitelist 24/01/2025
-pd.itunes.apple.com	# from Whitelist before 24/01/2025
-peer.repocket.co	# from Whitelist 24/01/2025
-peer.repocket.com	# from Whitelist 24/01/2025
-people-pa.googleapis.com	# from Whitelist 24/01/2025
-perr.l-err.biz	# from Whitelist 24/01/2025
-photos-ugc.l.googleusercontent.com	# from Whitelist 24/01/2025
-pki-goog.l.google.com	# from Whitelist before 24/01/2025
-platform-api.sharethis.com	# from Whitelist 24/01/2025
-play.google.com	# from Whitelist before 24/01/2025
-play.googleapis.com	# from Whitelist 24/01/2025
-poole-soi-https.prod.cachehttp.gslb.fti.net	# from Whitelist 24/01/2025
-prod.rudderstack.withings.net	# from Whitelist 24/01/2025
-prod-care-community-cdn.sprinklr.com	# from Whitelist 24/01/2025
-production.transcript.decathlon.io	# from Whitelist 24/01/2025
-proxyjs.brdtnet.com	# from Whitelist 24/01/2025
-proxymedia.prod.cachehttp.gslb.fti.net	# from Whitelist 24/01/2025
-proxymedia.woopic.com	# from Whitelist 24/01/2025
-ptbtime1.ptb.de	# from Whitelist 24/01/2025
-ptbtime3.ptb.de	# from Whitelist 24/01/2025
-pubproxy.odiso.net	# from Whitelist 24/01/2025
-r1---sn-4g5e6nsy.googlevideo.com	# from Whitelist 24/01/2025
-r2---sn-25glene7.googlevideo.com	# from Whitelist 24/01/2025
-r2---sn-4g5e6nsk.googlevideo.com	# from Whitelist 24/01/2025
-r3.o.lencr.org	# from Whitelist 24/01/2025
-r3---sn-4g5e6nzz.googlevideo.com	# from Whitelist 24/01/2025
-r5.sn-25glene7.googlevideo.com	# from Whitelist 24/01/2025
-r5---sn-25ge7ns7.googlevideo.com	# from Whitelist 24/01/2025
-r5---sn-25glene7.googlevideo.com	# from Whitelist 24/01/2025
-r5---sn-4g5e6nss.googlevideo.com	# from Whitelist 24/01/2025
-redir.ownpage.fr	# from Whitelist before 24/01/2025
-remote-data.asnapieu.com	# from Whitelist 24/01/2025
-remote-data.urbanairship.com	# from Whitelist 24/01/2025
-repocket.com	# from Whitelist 24/01/2025
-res.insta360.com	# from Whitelist 24/01/2025
-resources.asosservices.com	# from Whitelist 24/01/2025
-retromat.org	# from Whitelist 24/01/2025
-rpcache-aa.meteofrance.com	# from Whitelist 24/01/2025
-rpi.rb24.com	# from Whitelist 24/01/2025
-s.mzstatic.com	# from Whitelist 24/01/2025
-s.yimg.com	# from Whitelist 24/01/2025
-s.youtube.com	# from Whitelist 24/01/2025
-s1.travix.com	# from Whitelist 24/01/2025
-s2.go-mpulse.net	# from Whitelist 24/01/2025
-s3.global-e.com	# from Whitelist 24/01/2025
-scontent.cdninstagram.com	# from Whitelist 24/01/2025
-scontent.xx.fbcdn.net	# from Whitelist 24/01/2025
-scontent-frt3-1.xx.fbcdn.net	# from Whitelist 24/01/2025
-sdk.mrf.io	# from Whitelist 24/01/2025
-sdk.privacy-center.org	# from Whitelist 24/01/2025
-sdk.woosmap.com	# from Whitelist 24/01/2025
-secure1.eurosback.com	# from Whitelist 24/01/2025
-sentry-io.djiops.com	# from Whitelist 24/01/2025
-settings-win.data.microsoft.com	# from Whitelist 24/01/2025
-setup.fe.apple-dns.net	# from Whitelist 24/01/2025
-setup.icloud.com	# from Whitelist before 24/01/2025
-sf16-website-login.neutral.ttwstatic.com	# from Whitelist 24/01/2025
-sfr.sc.omtrdc.net	# from Whitelist before 24/01/2025
-shared.sothebys.com	# from Whitelist 24/01/2025
-shared.sothebys.psdops.com	# from Whitelist 24/01/2025
-shop-adtm-assets.shpp.ext.zooplus.io	# from Whitelist 24/01/2025
-signup.live.com	# from Whitelist 24/01/2025
-sm.dell.com	# from Whitelist 24/01/2025
-smallseotools.com	# from Whitelist 24/01/2025
-smetrics.darty.com	# from Whitelist 24/01/2025
-sosh.cdn.woopic.com	# from Whitelist 24/01/2025
-sothebys-com.brightspotcdn.com	# from Whitelist 24/01/2025
-sp.itunes.apple.com	# from Whitelist before 24/01/2025
-spiral.20mn.io	# from Whitelist 24/01/2025
-sprcdn-assets.sprinklr.com	# from Whitelist 24/01/2025
-sr.studiostack.com	# from Whitelist 24/01/2025
-ssl.gstatic.com	# from Whitelist 24/01/2025
-sso.eu.edenred.io	# from Whitelist before 24/01/2025
-star.c10r.facebook.com	# from Whitelist 24/01/2025
-static.20mn.fr	# from Whitelist 24/01/2025
-static.afcdn.com	# from Whitelist 24/01/2025
-static.airtransat.com	# from Whitelist 24/01/2025
-static.aujardin.info	# from Whitelist 24/01/2025
-static.axept.io	# from Whitelist 24/01/2025
-static.bose.com	# from Whitelist 24/01/2025
-static.canva.com	# from Whitelist 24/01/2025
-static.captcha-delivery.com	# from Whitelist 24/01/2025
-static.cdn-website.com	# from Whitelist 24/01/2025
-static.cloudflareinsights.com	# from Whitelist 24/01/2025
-static.djicdn.com	# from Whitelist 24/01/2025
-static.flashscore.com	# from Whitelist 24/01/2025
-static.fnac-static.com	# from Whitelist 24/01/2025
-static.fotor.com	# from Whitelist 24/01/2025
-static.fram.fr	# from Whitelist 24/01/2025
-static.gitbook.com	# from Whitelist 24/01/2025
-static.hotjar.com	# from Whitelist 24/01/2025
-static.intercomassets.com	# from Whitelist 24/01/2025
-static.jvc.gg	# from Whitelist 24/01/2025
-static.m6tech.net	# from Whitelist 24/01/2025
-static.ocecdn.oraclecloud.com	# from Whitelist 24/01/2025
-static.tacdn.com	# from Whitelist 24/01/2025
-static.target2sell.com	# from Whitelist 24/01/2025
-static.tp-link.com	# from Whitelist 24/01/2025
-static.vente-privee.com	# from Whitelist 24/01/2025
-static.xx.fbcdn.net	# from Whitelist before 24/01/2025
-static1.purepeople.com	# from Whitelist 24/01/2025
-static1.purepeople.com.cdn.cloudflare.net	# from Whitelist 24/01/2025
-static-cdn.arte.tv	# from Whitelist 24/01/2025
-statics.wibilong.com	# from Whitelist 24/01/2025
-stk.protechts.net	# from Whitelist 24/01/2025
-stormsend1.djicdn.com	# from Whitelist 24/01/2025
-strapi-sub.tranxactor.com	# from Whitelist 24/01/2025
-support.hp.com	# from Whitelist 24/01/2025
-support.microsoft.com	# from Whitelist 24/01/2025
-swan.prod.merch.vpsvc.com	# from Whitelist 24/01/2025
-t.plnspttrs.net	# from Whitelist 24/01/2025
-tag.aticdn.net	# from Whitelist 24/01/2025
-tags.tiqcdn.com	# from Whitelist 24/01/2025
-taschen.makaira.io	# from Whitelist 24/01/2025
-taschen.makaira.media	# from Whitelist 24/01/2025
-tdn.r42tag.com	# from Whitelist 24/01/2025
-thesqual.000webhostapp.com	# from Whitelist 24/01/2025
-time.windows.com	# from Whitelist 24/01/2025
-time-ios.apple.com	# from Whitelist before 24/01/2025
-tk.frenchbee.com	# from Whitelist 24/01/2025
-tk-frenchbee-com.wizaly.com	# from Whitelist 24/01/2025
-tlu.dl.delivery.mp.microsoft.com	# from Whitelist 24/01/2025
-tp8.free.fr	# from Whitelist 24/01/2025
-tracker.torrent.eu.org	# from Whitelist 24/01/2025
-translations.glass.3stripes.net	# from Whitelist 24/01/2025
-twitter.com	# from Whitelist 24/01/2025
-uconnect.tealiumiq.com	# from Whitelist 24/01/2025
-udc.yahoo.com	# from Whitelist 24/01/2025
-udc-ats.media.g03.yahoodns.net	# from Whitelist 24/01/2025
-unagi-na.amazon.com	# from Whitelist 24/01/2025
-updates-http.cdn-apple.com	# from Whitelist 24/01/2025
-url7374.thingbits.net	# from Whitelist 24/01/2025
-use.fontawesome.com	# from Whitelist 24/01/2025
-use1.fptls.com	# from Whitelist 24/01/2025
-vector.hereapi.com	# from Whitelist 24/01/2025
-verification.repocket.com	# from Whitelist 24/01/2025
-video-cdg2-1.xx.fbcdn.net	# from Whitelist before 24/01/2025
-vip0x0a5.ssl.rncdn5.com	# from Whitelist 24/01/2025
-vols.frenchbee.com	# from Whitelist 24/01/2025
-vp-eu.scene7.com	# from Whitelist before 24/01/2025
-watson.telemetry.microsoft.com	# from Whitelist 24/01/2025
-wchat.freshchat.com	# from Whitelist 24/01/2025
-web.facebook.com	# from Whitelist before 24/01/2025
-webapi.burgerking.fr	# from Whitelist 24/01/2025
-web-assets.waze.com	# from Whitelist 24/01/2025
-widgets.pinterest.com	# from Whitelist before 24/01/2025
-ws.batch.com	# from Whitelist 24/01/2025
-ws.withings.net	# from Whitelist 24/01/2025
-www.20minutes.fr	# from Whitelist 24/01/2025
-www.ad.fr	# from Whitelist 24/01/2025
-www.airbnb.com	# from Whitelist 24/01/2025
-www.airbnb.fr	# from Whitelist 24/01/2025
-www.altays-progiciels.com	# from Whitelist 24/01/2025
-www.amazon.fr	# from Whitelist before 24/01/2025
-www.apple.com	# from Whitelist before 24/01/2025
-www.asos.com	# from Whitelist 24/01/2025
-www.bilibili.com	# from Whitelist 24/01/2025
-www.bing.com	# from Whitelist 24/01/2025
-www.boulanger.com	# from Whitelist 24/01/2025
-www.burgerking.fr	# from Whitelist 24/01/2025
-www.cuisineaz.com	# from Whitelist 24/01/2025
-www.ebay.fr	# from Whitelist 24/01/2025
-www.electrodepot.fr	# from Whitelist 24/01/2025
-www.eurosport.fr	# from Whitelist 24/01/2025
-www.facebook.com	# from Whitelist 24/01/2025
-www.fdj.fr	# from Whitelist 24/01/2025
-www.fram.fr	# from Whitelist 24/01/2025
-www.giorgio-restaurant-nantes.fr	# from Whitelist 24/01/2025
-www.google.com	# from Whitelist before 24/01/2025
-www.google.fr	# from Whitelist before 24/01/2025
-www.googleadservices.com	# from Whitelist 24/01/2025
-www.googleapis.com	# from Whitelist 24/01/2025
-www.googletagmanager.com	# from Whitelist 24/01/2025
-www.gstatic.com	# from Whitelist before 24/01/2025
-www.icloud.com	# from Whitelist before 24/01/2025
-www.lamontagne.fr	# from Whitelist 24/01/2025
-www.mac4ever.com	# from Whitelist 24/01/2025
-www.maxizoo.fr	# from Whitelist 24/01/2025
-www.mczbf.com	# from Whitelist 24/01/2025
-www.mmtro.com	# from Whitelist before 24/01/2025
-www.octobre-editions.com	# from Whitelist 24/01/2025
-www.pappers.fr	# from Whitelist 24/01/2025
-www.passeportsante.net	# from Whitelist 24/01/2025
-www.placedestendances.com	# from Whitelist 24/01/2025
-www.promovacances.com	# from Whitelist 24/01/2025
-www.service-public.fr	# from Whitelist 24/01/2025
-www.sncf-connect.com	# from Whitelist 24/01/2025
-www.yahoo.com	# from Whitelist 24/01/2025
-www.youtube.com	# from Whitelist 24/01/2025
-www3.l.google.com	# from Whitelist before 24/01/2025
-x1.c.lencr.org	# from Whitelist 24/01/2025
-xp.apple.com	# from Whitelist 24/01/2025
-youtubei.googleapis.com	# from Whitelist 24/01/2025
-youtube-ui.l.google.com	# from Whitelist 24/01/2025
-zephyr-ui.eurosport.com	# from Whitelist 24/01/2025
+0.pool.ntp.org | Added from Query Log - whitelist 24/01/2025
+1.debian.pool.ntp.org | Added from Query Log - whitelist 24/01/2025
+16.ds.lsapp.eu | Added from Query Log - whitelist 24/01/2025
+19-courier.push.apple.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+4.bp.blogspot.com | Added from Query Log - whitelist 24/01/2025
+510002994.collect.igodigital.com | Added from Query Log - whitelist 24/01/2025
+72428f8766.optimicdn.com | Added from Query Log - whitelist 24/01/2025
+a.mtstatic.com | Added from Query Log - whitelist 24/01/2025
+a.tiles.mapbox.com | from adguard
+a0.awsstatic.com | Added to access aws certified cloud practitionner
+a0.muscache.com | Added from Query Log - whitelist 24/01/2025
+a2047.dscb.akamai.net | from adguard whitelist
+aamt.nbcnews.com | Added from Query Log - whitelist 24/01/2025
+aax-eu.amazon.fr | Added from Query Log - whitelist 24/01/2025
+accdn.lpsnmedia.net | Added from Query Log - whitelist 24/01/2025
+account.live.com | Added from Query Log - whitelist 24/01/2025
+accounts.google.com | from adguard whitelist
+acctcdn.msauth.net | Added from Query Log - whitelist 24/01/2025
+acctcdn.msftauth.net | Added from Query Log - whitelist 24/01/2025
+acctcdnmsftuswe2.azureedge.net | Added from Query Log - whitelist 24/01/2025
+action.metaffiliation.com | 
+adn2.velocityweather.com | Added from Query Log - whitelist 24/01/2025
+afar.brightspotcdn.com | Added from Query Log - whitelist 24/01/2025
+amp-api.apps.apple.com | Added from Query Log - whitelist 24/01/2025
+amp-api.music.apple.com | Apple Music
+android.clients.google.com | https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
+api.airbnb.com | Added from Query Log - whitelist 24/01/2025
+api.amazon.com | Added from Query Log - whitelist 24/01/2025
+api.axept.io | Added from Query Log - whitelist 24/01/2025
+api.boulanger.com | Added from Query Log - whitelist 24/01/2025
+api.consentframework.com | Added from Query Log - whitelist 24/01/2025
+api.flightradar24.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+api.fpjs.io | Added from Query Log - whitelist 24/01/2025
+api.ipify.org | Added from Query Log - whitelist 24/01/2025
+api.join.skype.com | Added from Query Log - whitelist 24/01/2025
+api.kingfisher.com | Added from Query Log - whitelist 24/01/2025
+api.privacy-center.org | Added from Query Log - whitelist 24/01/2025
+api.repocket.com | Added from Query Log - whitelist 24/01/2025
+api.socloz.com | Added from Query Log - whitelist 24/01/2025
+api.ssai.ftven.fr | Added from Query Log - whitelist 24/01/2025
+api.twitter.com | from adguard whitelist
+api-2-0-0.twitter.com | from adguard whitelist
+api6.my-ip.io | Added from Query Log - whitelist 24/01/2025
+api-js.datadome.co | Added from Query Log - whitelist 24/01/2025
+apis.airtransat.com | Added from Query Log - whitelist 24/01/2025
+api-sdk.datadome.co | Added from Query Log - whitelist 24/01/2025
+apiv1.zenguard.biz | from adguard whitelist
+app.eu1.usercentrics.eu | Added from Query Log - whitelist 24/01/2025
+app.netatmo.net | Added from Query Log - whitelist 24/01/2025
+app.secure.particuliers.societegenerale.mobi | Added from Query Log - whitelist 24/01/2025
+app.secureprivacy.ai | Added from Query Log - whitelist 24/01/2025
+app.usercentrics.eu | Added from Query Log - whitelist 24/01/2025
+apps.mzstatic.com | 
+apps-mzstatic-cdn.itunes-apple.com.akadns.net | Added from Query Log - whitelist 24/01/2025
+armorlux-armorlux-com-storage.omn.proximis.com | Added from Query Log - whitelist 24/01/2025
+asset2.marksandspencer.com | Added from Query Log - whitelist 24/01/2025
+assets.adobedtm.com | Added from Query Log - whitelist 24/01/2025
+assets.airtrfx.com | Added from Query Log - whitelist 24/01/2025
+assets.alicdn.com | Added from Query Log - whitelist 24/01/2025
+assets.asosservices.com | Added from Query Log - whitelist 24/01/2025
+assets.bose.com | Added from Query Log - whitelist 24/01/2025
+assets.bouyguestelecom.fr | Added from Query Log - whitelist 24/01/2025
+assets.centrepresseaveyron.fr | Added from Query Log - whitelist 24/01/2025
+assets.fressnapf.com | Added from Query Log - whitelist 24/01/2025
+assets.jwwb.nl | Added from Query Log - whitelist 24/01/2025
+assets.lindependant.fr | Added from Query Log - whitelist 24/01/2025
+assets.midilibre.fr | Added from Query Log - whitelist 24/01/2025
+assets.motive.co | Added from Query Log - whitelist 24/01/2025
+assets.msn.com | Added from Query Log - whitelist 24/01/2025
+assets.poool.fr | Added from Query Log - whitelist 24/01/2025
+assets.rugbyrama.fr | Added from Query Log - whitelist 24/01/2025
+assets.sk-static.com | Added from Query Log - whitelist 24/01/2025
+assets.travix.com | Added from Query Log - whitelist 24/01/2025
+assets.website-files.com | needed for spider.com
+assetscdn-wchat.freshchat.com | Added from Query Log - whitelist 24/01/2025
+assets-prod.sumo.prod.webservices.mozgcp.net | Added from Query Log - whitelist 24/01/2025
+assistance.sosh.fr | 
+au.download.windowsupdate.com | Added from Query Log - whitelist 24/01/2025
+aus5.mozilla.org | Firefox version check
+azurecomcdn.azureedge.net | Added from Query Log - whitelist 24/01/2025
+beacons4.gvt2.com | Added from Query Log - whitelist 24/01/2025
+betterstack.com | Added from Query Log - whitelist 24/01/2025
+b-graph.facebook.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+bibo.api.swiftkey.com | Added from Query Log - whitelist 24/01/2025
+boot.pbstck.com | Added from Query Log - whitelist 24/01/2025
+broadcast.viewsurf.com | Added from Query Log - whitelist 24/01/2025
+browser.pipe.aria.microsoft.com | Added from Query Log - whitelist 24/01/2025
+buy.itunes.apple.com | Added from Query Log - whitelist 24/01/2025
+buy.itunes-apple.com.akadns.net | Added from Query Log - whitelist 24/01/2025
+c.bing.com | Added from Query Log - whitelist 24/01/2025
+c.media-amazon.com | Added from Query Log - whitelist 24/01/2025
+c.oracleinfinity.io | Added from Query Log - whitelist 24/01/2025
+c.woopic.com | Added from Query Log - whitelist 24/01/2025
+c0.lestechnophiles.com | Added from Query Log - whitelist 24/01/2025
+calendar.google.com | from adguard
+ccl-prod.cache.ap.digikfplc.com | Added from Query Log - whitelist 24/01/2025
+cdn.consentframework.com | Added from Query Log - whitelist 24/01/2025
+cdn.cookielaw.org | Added from Query Log - whitelist 24/01/2025
+cdn.cquotient.com | Added from Query Log - whitelist 24/01/2025
+cdn.cuisineaz.com | Added from Query Log - whitelist 24/01/2025
+cdn.decibelinsight.net | Added from Query Log - whitelist 24/01/2025
+cdn.hubvisor.io | Added from Query Log - whitelist 24/01/2025
+cdn.jwplayer.com | Added from Query Log - whitelist 24/01/2025
+cdn.mouseflow.com | CyberGhost
+cdn.optimizely.com | Added from Query Log - whitelist 24/01/2025
+cdn.passeportsante.net | Added from Query Log - whitelist 24/01/2025
+cdn.polyfill.io | Added from Query Log - whitelist 24/01/2025
+cdn.sarenza.net | Added from Query Log - whitelist 24/01/2025
+cdn.segment.com | Added from Query Log - whitelist 24/01/2025
+cdn.speedcurve.com | Added from Query Log - whitelist 24/01/2025
+cdn.syndication.twimg.com | Added from Query Log - whitelist 24/01/2025
+cdn.tagcommander.com | Added from Query Log - whitelist 24/01/2025
+cdn.woopic.com | Added from Query Log - whitelist 24/01/2025
+cdn2.smoot.apple.com | Added from Query Log - whitelist 24/01/2025
+cdn-dynmedia-1.microsoft.com | Added from Query Log - whitelist 24/01/2025
+cdn-s-www.lejsl.com | Added from Query Log - whitelist 24/01/2025
+cf.bstatic.com | Added from Query Log - whitelist 24/01/2025
+cfcdn.apowersoft.info | Added from Query Log - whitelist 24/01/2025
+cfl.dropboxstatic.com | To download dropbox files from URL
+chat-e2ee-mini.facebook.com | Added from Query Log - whitelist 24/01/2025
+choices.consentframework.com | Added from Query Log - whitelist 24/01/2025
+ci.asosservices.com | Added from Query Log - whitelist 24/01/2025
+ci.rdtcdn.com | Added from Query Log - whitelist 24/01/2025
+ci-ph.rdtcdn.com | Added from Query Log - whitelist 24/01/2025
+client.axept.io | Added from Query Log - whitelist 24/01/2025
+client.packetstream.io | 
+client.wns.windows.com | Added from Query Log - whitelist 24/01/2025
+client-api.itunes.apple.com | Added from Query Log - whitelist 24/01/2025
+clients.l.google.com | from adguard whitelist
+clients1.google.com | from adguard whitelist
+clients4.google.com | Added from Query Log - whitelist 24/01/2025
+clients6.google.com | Added for acces to Google Agenda (FW)
+cloudflare-dns.com | Added from Query Log - whitelist 24/01/2025
+cloud-observer.ip-label.net | Added from Query Log - whitelist 24/01/2025
+cmp.osano.com | Added from Query Log - whitelist 24/01/2025
+cms.cloudinary.vpsvc.com | Added from Query Log - whitelist 24/01/2025
+codepush.appcenter.ms | Added from Query Log - whitelist 24/01/2025
+collector.appconsent.io | Added from Query Log - whitelist 24/01/2025
+connect.facebook.net | Added from Query Log - whitelist 24/01/2025
+connectivitycheck.gstatic.com | from adguard whitelist
+consent.capital.fr | Added from Query Log - whitelist 24/01/2025
+consent.programme-tv.net | Added from Query Log - whitelist 24/01/2025
+consent.trustarc.com | Added from Query Log - whitelist 24/01/2025
+consent-api.service.consent.usercentrics.eu | Added from Query Log - whitelist 24/01/2025
+consent-pref.trustarc.com | Added from Query Log - whitelist 24/01/2025
+content.asos-media.com | Added from Query Log - whitelist 24/01/2025
+contents.mediadecathlon.com | Added from Query Log - whitelist 24/01/2025
+crl.comodoca.com | Added from Query Log - whitelist 24/01/2025
+cs.ns1p.net | Added from Query Log - whitelist 24/01/2025
+cs624.adn.phicdn.net | Added from Query Log - whitelist 24/01/2025
+ct.captcha-delivery.com | Added from Query Log - whitelist 24/01/2025
+ctldl.windowsupdate.com | Added from Query Log - whitelist 24/01/2025
+czimgproxy.odiso.net | Added from Query Log - whitelist 24/01/2025
+czproxy.odiso.net | Added from Query Log - whitelist 24/01/2025
+data.mistat.intl.xiaomi.com | Added from Audit Log
+datacore-write.securitytrfx.com | Added from Query Log - whitelist 24/01/2025
+dd.prod.captcha-delivery.com | Added from Query Log - whitelist 24/01/2025
+device-api.asnapieu.com | from adguard whitelist
+device-api.urbanairship.com | from adguard whitelist
+di.rdtcdn.com | Added from Query Log - whitelist 24/01/2025
+di1-ph.ypncdn.com | Added from Query Log - whitelist 24/01/2025
+di-ph.rdtcdn.com | Added from Query Log - whitelist 24/01/2025
+discussions.apple.com | Added from Query Log - whitelist 24/01/2025
+dl.delivery.mp.microsoft.com | Added from Query Log - whitelist 24/01/2025
+dnl.eurosport.com | Added from Query Log - whitelist 24/01/2025
+doc-14-4s-apps-viewer.googleusercontent.com | Added from Query Log - whitelist 24/01/2025
+download.cyberghostvpn.com | Added from Query Log - whitelist 24/01/2025
+download.microsoft.com | Added from Query Log - whitelist 24/01/2025
+download.visualstudio.microsoft.com | Added from Query Log - whitelist 24/01/2025
+dpm.demdex.net | Added from Query Log - whitelist 24/01/2025
+ds-oob-fo-media-router1.prod.media.g01.yahoodns.net | Added from Query Log - whitelist 24/01/2025
+dynamic.criteo.com | Added from Query Log - whitelist 24/01/2025
+dynupdate.noip.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+e.viously.com | Added from Query Log - whitelist 24/01/2025
+e0.flightcdn.com | Added from Query Log - whitelist 24/01/2025
+e17437.dscb.akamaiedge.net | from adguard whitelist
+e2486.g.akamaiedge.net | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+e3925.dscx.akamaiedge.net | Apple Music
+e4478.a.akamaiedge.net | from adguard whitelist
+e6858.dsce9.akamaiedge.net | from adguard whitelist
+ea.placedestendances.com | Added from Query Log - whitelist 24/01/2025
+edge.gycpi.b.yahoodns.net | Added from Query Log - whitelist 24/01/2025
+edge-mqtt.facebook.com | Added from Query Log - whitelist 24/01/2025
+ei.rdtcdn.com | Added from Query Log - whitelist 24/01/2025
+ei.rdtcdn.com.sds.rncdn7.com | Added from Query Log - whitelist 24/01/2025
+ei.ypncdn.com | Added from Query Log - whitelist 24/01/2025
+ei.ypncdn.com.sds.rncdn7.com | Added from Query Log - whitelist 24/01/2025
+ei-ph.rdtcdn.com | Added from Query Log - whitelist 24/01/2025
+ei-ph.rdtcdn.com.sds.rncdn7.com | Added from Query Log - whitelist 24/01/2025
+em-fonts-prod.airtrfx.com | Added from Query Log - whitelist 24/01/2025
+em-frontend-assets.airtrfx.com | Added from Query Log - whitelist 24/01/2025
+encrypted-tbn0.gstatic.com | Added from Query Log - whitelist 24/01/2025
+endpoints.leaflets.schwarz | Added from Query Log - whitelist 24/01/2025
+epdg.epc.mnc010.mcc208.pub.3gppnetwork.org | Added from Query Log - whitelist 24/01/2025
+epl.paypal-communication.com | Added from Query Log - whitelist 24/01/2025
+esm.glass.adidas.com | Added from Query Log - whitelist 24/01/2025
+eu.static.mega.co.nz | Added from Query Log - whitelist 24/01/2025
+eu3-prod-direct.eurosport.fr | Added from Query Log - whitelist 24/01/2025
+eum-blue-saas.instana.io | Added from Query Log - whitelist 24/01/2025
+ev-ph.rdtcdn.com | Added from Query Log - whitelist 24/01/2025
+external-frt3-1.xx.fbcdn.net | Added from Query Log - whitelist 24/01/2025
+feed.flightradar24.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+fi1.ypncdn.com | Added from Query Log - whitelist 24/01/2025
+fi1-ph.ypncdn.com | Added from Query Log - whitelist 24/01/2025
+fi1-ph.ypncdn.com.sds.rncdn7.com | Added from Query Log - whitelist 24/01/2025
+filters.adtidy.org | from adguard whitelist
+firebaseinstallations.googleapis.com | Needed for Carefour mobile app
+firebaselogging-pa.googleapis.com | Added from Query Log - whitelist 24/01/2025
+firebaseremoteconfig.googleapis.com | Added from Query Log - whitelist 24/01/2025
+firebase-settings.crashlytics.com | Added from Query Log - whitelist 24/01/2025
+firestore.googleapis.com | Added from Query Log - whitelist 24/01/2025
+flashscore.onelink.me | Added from Query Log - whitelist 24/01/2025
+fmipmobile.fe.apple-dns.net | from adguard whitelist
+fonts.googleapis.com | Added from Query Log - whitelist 24/01/2025
+fr.news.yahoo.com | Added from Query Log - whitelist 24/01/2025
+fr.peugeot-saveurs.com | Added from Query Log - whitelist 24/01/2025
+fr.style.yahoo.com | Added from Query Log - whitelist 24/01/2025
+fr.yahoo.com | Added from Query Log - whitelist 24/01/2025
+freepik.cdnpk.net | Added from Query Log - whitelist 24/01/2025
+front-azure.netatmo.net | Added from Query Log - whitelist 24/01/2025
+front-nginx-01-ext.eurekoo.com | Added from Query Log - whitelist 24/01/2025
+fs.ypncdn.com | Added from Query Log - whitelist 24/01/2025
+fs.ypncdn.com.sds.rncdn7.com | Added from Query Log - whitelist 24/01/2025
+fv-cdn-prod-endpoint.azureedge.net | Added from Query Log - whitelist 24/01/2025
+g.live.com | Added from Query Log - whitelist 24/01/2025
+gate.first-id.fr | Added from Query Log - whitelist 24/01/2025
+gateway.facebook.com | Added from Query Log - whitelist 24/01/2025
+gateway.fe.apple-dns.net | Added from Query Log - whitelist 24/01/2025
+gateway.fe2.apple-dns.net | Needed for iPhone backup
+gateway.icloud.com | from adguard whitelist
+gdmf.apple.com | iOS update ?
+geo.captcha-delivery.com | Added from Query Log - whitelist 24/01/2025
+geo.query.yahoo.com | Added from Query Log - whitelist 24/01/2025
+geo.yahoo.com | Added from Query Log - whitelist 24/01/2025
+geolocation.onetrust.com | Added from Query Log - whitelist 24/01/2025
+github.com | from adguard whitelist
+global.flashscore.ninja | Added from Query Log - whitelist 24/01/2025
+global.localizecdn.com | Added from Query Log - whitelist 24/01/2025
+global.oktacdn.com | Added from Query Log - whitelist 24/01/2025
+go1.monetizemyapp.net | proxyrack
+googleapis.l.google.com | Gmail
+googlehosted.l.googleusercontent.com | Images in google next
+gp.cdn.woopic.com | Added from Query Log - whitelist 24/01/2025
+graph.facebook.com | Added from Query Log - whitelist 24/01/2025
+grpc-prod.orange.sixt.com | Recherche location agence sixt
+gstaticadssl.l.google.com | from adguard whitelist
+halc.iadvize.com | Added from Query Log - whitelist 24/01/2025
+help.nflxext.com | Added from Query Log - whitelist 24/01/2025
+henrri.net | compta
+ht.youporn.com | Added from Query Log - whitelist 24/01/2025
+http-test1.brdtnet.com | Added from Query Log - whitelist 24/01/2025
+humanoid.fr | Added from Query Log - whitelist 24/01/2025
+hw-cdn2.adtng.com | Added from Query Log - whitelist 24/01/2025
+hw-cdn2.adtng.com.lds.rncdn7.com | Added from Query Log - whitelist 24/01/2025
+i.1pic.co | Added from Query Log - whitelist 24/01/2025
+i.etsystatic.com | Added from Query Log - whitelist 24/01/2025
+i.ytimg.com | Added from Query Log - whitelist 24/01/2025
+i01.appmifile.com | Added from Query Log - whitelist 24/01/2025
+icsp.ingka.ikea.com | Added from Query Log - whitelist 24/01/2025
+id.google.com | from adguard whitelist
+id.google.fr | Added from Query Log - whitelist 24/01/2025
+iid.googleapis.com | from adguard whitelist
+image.benq.com | Added from Query Log - whitelist 24/01/2025
+image.jeuxvideo.com | Added from Query Log - whitelist 24/01/2025
+images.asos-media.com | Added from Query Log - whitelist 24/01/2025
+images.ladepeche.fr | Added from Query Log - whitelist 24/01/2025
+images.midilibre.fr | Added from Query Log - whitelist 24/01/2025
+images.philips.com | Added from Query Log - whitelist 24/01/2025
+images2.bovpg.net | Image pour Vente Privée
+images-na.ssl-images-amazon.com | Added from Query Log - whitelist 24/01/2025
+img.20mn.fr | Added from Query Log - whitelist 24/01/2025
+img.cuisineaz.com | Added from Query Log - whitelist 24/01/2025
+img-api.mac4ever.com | Added from Query Log - whitelist 24/01/2025
+imgresizer.eurosport.com | Added from Query Log - whitelist 24/01/2025
+imgs.cdn-btsg.com | Added from Query Log - whitelist 24/01/2025
+imgs.signifyd.com | Added from Query Log - whitelist 24/01/2025
+imgur.com | from adguard whitelist
+in.appcenter.ms | Added from Query Log - whitelist 24/01/2025
+inappcheck.itunes.apple.com | from adguard whitelist
+inapps.appsflyer.com | Added from Query Log - whitelist 24/01/2025
+init.itunes.apple.com | 
+init-cdn.itunes-apple.com.akadns.net | Added from Query Log - whitelist 24/01/2025
+insider.windows.com | Added from Query Log - whitelist 24/01/2025
+interfaces.zapier.com | Added from Query Log - whitelist 24/01/2025
+ip-api.com | repocket
+ir.ebaystatic.com | Added from Query Log - whitelist 24/01/2025
+ir2.beap.gemini.yahoo.com | Added from Query Log - whitelist 24/01/2025
+is1-ssl.mzstatic.com | 
+is4-ssl.mzstatic.com | from adguard whitelist
+itunes.apple.com | Added from Query Log - whitelist 24/01/2025
+jobs.ashbyhq.com | Added from Query Log - whitelist 24/01/2025
+js.chargebee.com | Added from Query Log - whitelist 24/01/2025
+js.datadome.co | Added from Query Log - whitelist 24/01/2025
+js.hs-scripts.com | Added from Query Log - whitelist 24/01/2025
+js-agent.newrelic.com | Added from Query Log - whitelist 24/01/2025
+jssdkcdns.mparticle.com | Added from Query Log - whitelist 24/01/2025
+jzxk.mjt.lu | 
+katans.com | Gtasks for Chrome
+keyvalueservice.fe.apple-dns.net | Added from Query Log - whitelist 24/01/2025
+l.lepoint.fr | Added from Query Log - whitelist 24/01/2025
+l.mediapart.fr | Added from Query Log - whitelist 24/01/2025
+learn.microsoft.com | Added from Query Log - whitelist 24/01/2025
+lf16-tiktok-common.ttwstatic.com | Added from Query Log - whitelist 24/01/2025
+lh3.googleusercontent.com | Added from Query Log - whitelist 24/01/2025
+lh4.googleusercontent.com | Added from Query Log - whitelist 24/01/2025
+lh5.googleusercontent.com | Added from Query Log - whitelist 24/01/2025
+lh6.googleusercontent.com | Added from Query Log - whitelist 24/01/2025
+lidl.leaflets.schwarz | Added from Query Log - whitelist 24/01/2025
+lo0.v.liveperson.net | Added from Query Log - whitelist 24/01/2025
+logc412.xiti.com | Added from Query Log - whitelist 24/01/2025
+login.live.com | Added from Query Log - whitelist 24/01/2025
+login.microsoftonline.com | Added from Query Log - whitelist 24/01/2025
+login.yahoo.com | Added from Query Log - whitelist 24/01/2025
+logincdn.msftauth.net | Added from Query Log - whitelist 24/01/2025
+logx.optimizely.com | Added from Query Log - whitelist 24/01/2025
+lpcdn.lpsnmedia.net | Added from Query Log - whitelist 24/01/2025
+lptag.liveperson.net | Added from Query Log - whitelist 24/01/2025
+m.boulanger.com | Added from Query Log - whitelist 24/01/2025
+mab.chartbeat.com | Added from Query Log - whitelist 24/01/2025
+mail.yahoo.com | Added from Query Log - whitelist 24/01/2025
+maintws.withings.net | Added from Query Log - whitelist 24/01/2025
+maps.google.com | from adguard whitelist
+mapservice.weatherpro.meteogroup.de | Added from Query Log - whitelist 24/01/2025
+mask.icloud.com | mask email
+mask-h2.icloud.com | mask email
+matomo.cuisineaz.com | Added from Query Log - whitelist 24/01/2025
+media.adeo.com | Added from Query Log - whitelist 24/01/2025
+media.castorama.fr | Added from Query Log - whitelist 24/01/2025
+media.castorama.fr.fasterized.com | Added from Query Log - whitelist 24/01/2025
+media.e.leclerc | Added from Query Log - whitelist 24/01/2025
+media.education.gouv.fr | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+media.os.fressnapf.com | Added from Query Log - whitelist 24/01/2025
+media.ouest-france.fr | Added from Query Log - whitelist 24/01/2025
+media.tiffany.com | Added from Query Log - whitelist 24/01/2025
+media.veepee.com | Added from Query Log - whitelist 24/01/2025
+media.zooplus.com | Added from Query Log - whitelist 24/01/2025
+media-cdn.placedestendances.com | Added from Query Log - whitelist 24/01/2025
+media-cntw.nperf.com | Added from Query Log - whitelist 24/01/2025
+media-cntw.nperf.com.cdnga.net | Added from Query Log - whitelist 24/01/2025
+media-mcetv.ouest-france.fr | Added from Query Log - whitelist 24/01/2025
+mesu-cdn.origin-apple.com.akadns.net | Added from Query Log - whitelist 24/01/2025
+metrics.asos.com | Added from Query Log - whitelist 24/01/2025
+mi.umguk.co.uk | Added from Query Log - whitelist 24/01/2025
+mlat1.rb24.com | Radarbox
+mobile.asosservices.com | Added from Query Log - whitelist 24/01/2025
+mobile.pipe.aria.microsoft.com | Added from Query Log - whitelist 24/01/2025
+mobile-api.adguard.com | from adguard whitelist
+mobilecrush.king.com | Added from Query Log - whitelist 24/01/2025
+mobile-production.content-square.net | from adguard whitelist
+mosaic01.ztat.net | Added from Query Log - whitelist 24/01/2025
+mosaic02.ztat.net | Added from Query Log - whitelist 24/01/2025
+mqtt.c10r.facebook.com | Added from Query Log - whitelist 24/01/2025
+msedge.api.cdp.microsoft.com | Added from Query Log - whitelist 24/01/2025
+msedge.b.tlu.dl.delivery.mp.microsoft.com | Added from Query Log - whitelist 24/01/2025
+msh.amazon.co.uk | Added from Query Log - whitelist 24/01/2025
+music.apple.com | Apple Music
+music.youtube.com | Added from Query Log - whitelist 24/01/2025
+my.asos.com | Added from Query Log - whitelist 24/01/2025
+nbcu.demdex.net | Added from Query Log - whitelist 24/01/2025
+nebula-cdn.kampyle.com | Added from Query Log - whitelist 24/01/2025
+news.google.com | from adguard whitelist
+nexus.officeapps.live.com | Added from Query Log - whitelist 24/01/2025
+nexusrules.officeapps.live.com | Added from Query Log - whitelist 24/01/2025
+node.windy.com | Added from Query Log - whitelist 24/01/2025
+o4503943025459200.ingest.sentry.io | Added from Query Log - whitelist 24/01/2025
+obspki.proservia-obs.lan | WSUS Proservia OBS
+ocsp.digicert.com | from adguard whitelist
+ocsp.sectigo.com | from adguard whitelist
+ogs.google.com | Google toolbar for apps
+ogs.google.fr | from adguard whitelist
+onedrive.live.com | Added from Query Log - whitelist 24/01/2025
+onegetcdn.azureedge.net | Added from Query Log - whitelist 24/01/2025
+openair-california.airtrfx.com | Added from Query Log - whitelist 24/01/2025
+ota.lokalise.co | Added from Query Log - whitelist 24/01/2025
+otf.msn.com | Added from Query Log - whitelist 24/01/2025
+outlook.office365.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+p.midasplayer.com | Added from Query Log - whitelist 24/01/2025
+p.ncpcad.com | Packetstream.IO
+p.typekit.net | Added from Query Log - whitelist 24/01/2025
+p13nlog-1106815646.us-east-1.elb.amazonaws.com | Added from Query Log - whitelist 24/01/2025
+p20-buy.itunes.apple.com | needed to install iphone AppStore application
+p49-caldav.icloud.com | from adguard whitelist
+p49-fmfmobile.icloud.com | from adguard whitelist
+p49-fmipmobile.icloud.com | from adguard whitelist
+particuliers.sg.fr | 
+pasta.esfile.duapps.com | Added from Query Log - whitelist 24/01/2025
+pbs.twimg.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+pd.itunes.apple.com | from adguard whitelist
+peer.repocket.co | REPOCKET
+peer.repocket.com | Added from Query Log - whitelist 24/01/2025
+people-pa.googleapis.com | Added from Query Log - whitelist 24/01/2025
+perr.l-err.biz | Added from Query Log - whitelist 24/01/2025
+photos-ugc.l.googleusercontent.com | Added from Query Log - whitelist 24/01/2025
+pki-goog.l.google.com | from adguard whitelist
+platform-api.sharethis.com | Added from Query Log - whitelist 24/01/2025
+play.google.com | from adguard whitelist
+play.googleapis.com | Added from Audit Log
+poole-soi-https.prod.cachehttp.gslb.fti.net | Added from Query Log - whitelist 24/01/2025
+prod.rudderstack.withings.net | Added from Query Log - whitelist 24/01/2025
+prod-care-community-cdn.sprinklr.com | Added from Query Log - whitelist 24/01/2025
+production.transcript.decathlon.io | Added from Query Log - whitelist 24/01/2025
+proxyjs.brdtnet.com | Added from Query Log - whitelist 24/01/2025
+proxymedia.prod.cachehttp.gslb.fti.net | Added from Query Log - whitelist 24/01/2025
+proxymedia.woopic.com | Added from Query Log - whitelist 24/01/2025
+ptbtime1.ptb.de | NTP Devolo
+ptbtime3.ptb.de | NTP Devolo
+pubproxy.odiso.net | Added from Query Log - whitelist 24/01/2025
+r1---sn-4g5e6nsy.googlevideo.com | Added from Query Log - whitelist 24/01/2025
+r2---sn-25glene7.googlevideo.com | Added from Query Log - whitelist 24/01/2025
+r2---sn-4g5e6nsk.googlevideo.com | Added from Query Log - whitelist 24/01/2025
+r3.o.lencr.org | Added from Query Log - whitelist 24/01/2025
+r3---sn-4g5e6nzz.googlevideo.com | Added from Query Log - whitelist 24/01/2025
+r5.sn-25glene7.googlevideo.com | Added from Query Log - whitelist 24/01/2025
+r5---sn-25ge7ns7.googlevideo.com | Added from Query Log - whitelist 24/01/2025
+r5---sn-25glene7.googlevideo.com | Added from Query Log - whitelist 24/01/2025
+r5---sn-4g5e6nss.googlevideo.com | Added from Query Log - whitelist 24/01/2025
+redir.ownpage.fr | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+remote-data.asnapieu.com | Added from Query Log - whitelist 24/01/2025
+remote-data.urbanairship.com | Added from Query Log - whitelist 24/01/2025
+repocket.com | Added from Query Log - whitelist 24/01/2025
+res.insta360.com | Added from Query Log - whitelist 24/01/2025
+resources.asosservices.com | Added from Query Log - whitelist 24/01/2025
+retromat.org | Added from Query Log - whitelist 24/01/2025
+rpcache-aa.meteofrance.com | Added from Query Log - whitelist 24/01/2025
+rpi.rb24.com | Radarbox
+s.mzstatic.com | Apple Music (https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212)
+s.yimg.com | Added from Query Log - whitelist 24/01/2025
+s.youtube.com | Added from Query Log - whitelist 24/01/2025
+s1.travix.com | Added from Query Log - whitelist 24/01/2025
+s2.go-mpulse.net | Added from Query Log - whitelist 24/01/2025
+s3.global-e.com | 
+scontent.cdninstagram.com | Added from Query Log - whitelist 24/01/2025
+scontent.xx.fbcdn.net | Added from Query Log - whitelist 24/01/2025
+scontent-frt3-1.xx.fbcdn.net | Added from Query Log - whitelist 24/01/2025
+sdk.mrf.io | Added from Query Log - whitelist 24/01/2025
+sdk.privacy-center.org | Added from Query Log - whitelist 24/01/2025
+sdk.woosmap.com | Added from Query Log - whitelist 24/01/2025
+secure1.eurosback.com | Added from Query Log - whitelist 24/01/2025
+sentry-io.djiops.com | Added from Query Log - whitelist 24/01/2025
+settings-win.data.microsoft.com | Added from Query Log - whitelist 24/01/2025
+setup.fe.apple-dns.net | Added from Query Log - whitelist 24/01/2025
+setup.icloud.com | Added from Query Log - whitelist 24/01/2025
+sf16-website-login.neutral.ttwstatic.com | Added from Query Log - whitelist 24/01/2025
+sfr.sc.omtrdc.net | from adguard whitelist
+shared.sothebys.com | Added from Query Log - whitelist 24/01/2025
+shared.sothebys.psdops.com | Added from Query Log - whitelist 24/01/2025
+shop-adtm-assets.shpp.ext.zooplus.io | Added from Query Log - whitelist 24/01/2025
+signup.live.com | Added from Query Log - whitelist 24/01/2025
+sm.dell.com | Added from Query Log - whitelist 24/01/2025
+smallseotools.com | Added from Query Log - whitelist 24/01/2025
+smetrics.darty.com | Added from Query Log - whitelist 24/01/2025
+sosh.cdn.woopic.com | Added from Query Log - whitelist 24/01/2025
+sothebys-com.brightspotcdn.com | Added from Query Log - whitelist 24/01/2025
+sp.itunes.apple.com | from adguard whitelist
+spiral.20mn.io | Added from Query Log - whitelist 24/01/2025
+sprcdn-assets.sprinklr.com | Added from Query Log - whitelist 24/01/2025
+sr.studiostack.com | Added from Query Log - whitelist 24/01/2025
+ssl.gstatic.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+sso.eu.edenred.io | from adguard whitelist
+star.c10r.facebook.com | Added from Query Log - whitelist 24/01/2025
+static.20mn.fr | Added from Query Log - whitelist 24/01/2025
+static.afcdn.com | Added from Query Log - whitelist 24/01/2025
+static.airtransat.com | Added from Query Log - whitelist 24/01/2025
+static.aujardin.info | Added from Query Log - whitelist 24/01/2025
+static.axept.io | Added from Query Log - whitelist 24/01/2025
+static.bose.com | Added from Query Log - whitelist 24/01/2025
+static.canva.com | Added from Query Log - whitelist 24/01/2025
+static.captcha-delivery.com | Added from Query Log - whitelist 24/01/2025
+static.cdn-website.com | Added from Query Log - whitelist 24/01/2025
+static.cloudflareinsights.com | Added from Query Log - whitelist 24/01/2025
+static.djicdn.com | Added from Query Log - whitelist 24/01/2025
+static.flashscore.com | Added from Query Log - whitelist 24/01/2025
+static.fnac-static.com | Added from Query Log - whitelist 24/01/2025
+static.fotor.com | Added from Query Log - whitelist 24/01/2025
+static.fram.fr | Added from Query Log - whitelist 24/01/2025
+static.gitbook.com | Added from Query Log - whitelist 24/01/2025
+static.hotjar.com | Added from Query Log - whitelist 24/01/2025
+static.intercomassets.com | Added from Query Log - whitelist 24/01/2025
+static.jvc.gg | whitelist jeuxvideo.com
+static.m6tech.net | Added from Query Log - whitelist 24/01/2025
+static.ocecdn.oraclecloud.com | Added from Query Log - whitelist 24/01/2025
+static.tacdn.com | Added from Query Log - whitelist 24/01/2025
+static.target2sell.com | Added from Query Log - whitelist 24/01/2025
+static.tp-link.com | Added from Query Log - whitelist 24/01/2025
+static.vente-privee.com | Added from Query Log - whitelist 24/01/2025
+static.xx.fbcdn.net | from adguard whitelist
+static1.purepeople.com | Added from Query Log - whitelist 24/01/2025
+static1.purepeople.com.cdn.cloudflare.net | Added from Query Log - whitelist 24/01/2025
+static-cdn.arte.tv | Added from Query Log - whitelist 24/01/2025
+statics.wibilong.com | Added from Query Log - whitelist 24/01/2025
+stk.protechts.net | Added from Query Log - whitelist 24/01/2025
+stormsend1.djicdn.com | Added from Query Log - whitelist 24/01/2025
+strapi-sub.tranxactor.com | Added from Query Log - whitelist 24/01/2025
+support.hp.com | Added from Query Log - whitelist 24/01/2025
+support.microsoft.com | Added from Query Log - whitelist 24/01/2025
+swan.prod.merch.vpsvc.com | VistaPrint images
+t.plnspttrs.net | Plane spotters pictures
+tag.aticdn.net | Added from Query Log - whitelist 24/01/2025
+tags.tiqcdn.com | Added from Query Log - whitelist 24/01/2025
+taschen.makaira.io | Added from Query Log - whitelist 24/01/2025
+taschen.makaira.media | Added from Query Log - whitelist 24/01/2025
+tdn.r42tag.com | Added from Query Log - whitelist 24/01/2025
+thesqual.000webhostapp.com | adlist
+time.windows.com | Added from Query Log - whitelist 24/01/2025
+time-ios.apple.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+tk.frenchbee.com | Added from Query Log - whitelist 24/01/2025
+tk-frenchbee-com.wizaly.com | Added from Query Log - whitelist 24/01/2025
+tlu.dl.delivery.mp.microsoft.com | Added from Query Log - whitelist 24/01/2025
+tp8.free.fr | Adguard blacklist (perso)
+tracker.torrent.eu.org | Added from Query Log - whitelist 24/01/2025
+translations.glass.3stripes.net | Added from Query Log - whitelist 24/01/2025
+twitter.com | from adguard whitelist
+uconnect.tealiumiq.com | Added from Query Log - whitelist 24/01/2025
+udc.yahoo.com | Added from Query Log - whitelist 24/01/2025
+udc-ats.media.g03.yahoodns.net | Added from Query Log - whitelist 24/01/2025
+unagi-na.amazon.com | Added from Query Log - whitelist 24/01/2025
+updates-http.cdn-apple.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+url7374.thingbits.net | Added from Query Log - whitelist 24/01/2025
+use.fontawesome.com | Added from Query Log - whitelist 24/01/2025
+use1.fptls.com | Added from Query Log - whitelist 24/01/2025
+vector.hereapi.com | For GLS tracking map
+verification.repocket.com | Added from Query Log - whitelist 24/01/2025
+vip0x0a5.ssl.rncdn5.com | Added from Query Log - whitelist 24/01/2025
+vols.frenchbee.com | Added from Query Log - whitelist 24/01/2025
+vp-eu.scene7.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+watson.telemetry.microsoft.com | Added from Query Log - whitelist 24/01/2025
+wchat.freshchat.com | Added from Query Log - whitelist 24/01/2025
+web.facebook.com | Added from Query Log - whitelist 24/01/2025
+webapi.burgerking.fr | Added from Query Log - whitelist 24/01/2025
+web-assets.waze.com | Needed for Waze web
+widgets.pinterest.com | 
+ws.batch.com | Added from Query Log - whitelist 24/01/2025
+ws.withings.net | Added from Query Log - whitelist 24/01/2025
+www.20minutes.fr | Added from Query Log - whitelist 24/01/2025
+www.ad.fr | Added from Query Log - whitelist 24/01/2025
+www.airbnb.com | Added from Query Log - whitelist 24/01/2025
+www.airbnb.fr | Added from Query Log - whitelist 24/01/2025
+www.altays-progiciels.com | Added from Query Log - whitelist 24/01/2025
+www.amazon.fr | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+www.apple.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+www.asos.com | Added from Query Log - whitelist 24/01/2025
+www.bilibili.com | Added from Query Log - whitelist 24/01/2025
+www.bing.com | Added from Query Log - whitelist 24/01/2025
+www.boulanger.com | Added from Query Log - whitelist 24/01/2025
+www.burgerking.fr | Added from Query Log - whitelist 24/01/2025
+www.cuisineaz.com | Added from Query Log - whitelist 24/01/2025
+www.ebay.fr | Added from Query Log - whitelist 24/01/2025
+www.electrodepot.fr | Added from Query Log - whitelist 24/01/2025
+www.eurosport.fr | Added from Query Log - whitelist 24/01/2025
+www.facebook.com | Added from Query Log - whitelist 24/01/2025
+www.fdj.fr | Added from Query Log - whitelist 24/01/2025
+www.fram.fr | Added from Query Log - whitelist 24/01/2025
+www.giorgio-restaurant-nantes.fr | 
+www.google.com | from adguard whitelist
+www.google.fr | from adguard whitelist
+www.googleadservices.com | Added from Query Log - whitelist 24/01/2025
+www.googleapis.com | Added from Query Log - whitelist 24/01/2025
+www.googletagmanager.com | Added from Query Log - whitelist 24/01/2025
+www.gstatic.com | Added from Query Log - whitelist 24/01/2025
+www.icloud.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+www.lamontagne.fr | Added from Query Log - whitelist 24/01/2025
+www.mac4ever.com | Added from Query Log - whitelist 24/01/2025
+www.maxizoo.fr | Added from Query Log - whitelist 24/01/2025
+www.mczbf.com | Added from Query Log - whitelist 24/01/2025
+www.mmtro.com | from adguard whitelist
+www.octobre-editions.com | Added from Query Log - whitelist 24/01/2025
+www.pappers.fr | Added from Query Log - whitelist 24/01/2025
+www.passeportsante.net | Added from Query Log - whitelist 24/01/2025
+www.placedestendances.com | Added from Query Log - whitelist 24/01/2025
+www.promovacances.com | Added from Query Log - whitelist 24/01/2025
+www.service-public.fr | Added from Query Log - whitelist 24/01/2025
+www.sncf-connect.com | Added from Query Log - whitelist 24/01/2025
+www.yahoo.com | Added from Query Log - whitelist 24/01/2025
+www.youtube.com | Added from Query Log - whitelist 24/01/2025
+www3.l.google.com |  from adguard whitelist
+x1.c.lencr.org | Added from Query Log - whitelist 24/01/2025
+xp.apple.com | Imported from pi-hole-teleporter_2020-05-10_06-00-38.tar.gz/whitelist.txt
+youtubei.googleapis.com | Added from Query Log - whitelist 24/01/2025
+youtube-ui.l.google.com | Added from Query Log - whitelist 24/01/2025
+zephyr-ui.eurosport.com | Added from Query Log - whitelist 24/01/2025
