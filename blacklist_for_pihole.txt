@@ -1,7 +1,7 @@
 #! Checksum: 
-#! Version: 20250126
+#! Version: 2025012
 #! Title: The Squal's list
-#! Last modified: 26 Janurary 2025 19:45 UTC
+#! Last modified: 27 Janurary 2025 14:05 UTC
 #! Expires: 1 days (update frequency)
 #! Homepage: https://thesqual1.000webhostapp.com/
 #!
@@ -13,600 +13,566 @@
 #! Licence : 
 #
 #!----------------------- Filtres génériques ----------------------!
-0byv9mgbn0.com	# Checked on 26/01/2025	!20200101 - default date
-0eabe743bef7376bdd8a48691ed0592f.clo.footprintdns.com	# Checked on 26/01/2025	!20211027
-1169634-34.chat.api.drift.com	# Checked on 26/01/2025	!20211027
-360yield.com	# Checked on 26/01/2025	Adguard
-4ur.click	# Checked on 26/01/2025	!20211027
-7img.net	# Checked on 26/01/2025	Adguard
-a.e-webtrack.net	# Checked on 26/01/2025 !20220427 !1591095290 !1651045342   !20220427 !1591095290 !1651045342  
-a.mailmunch.co	# Checked on 26/01/2025 !20220427 !1636013431 !1651045343  !20220427 !1636013431 !1651045343 
-a.pwspace.com	# Checked on 26/01/2025 !20210723 ! !20210723 !
-a1.awin1.com	# Checked on 26/01/2025	!20211027
-a15853140465.cdn-pci.optimizely.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-a1838.dscb.akamai.net	# Checked on 26/01/2025 !20220427 !1625650442 !1651045343 !AUDIT  !20220427 !1625650442 !1651045343 !AUDIT 
-a1928.dscd.akamai.net	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-a2d.io	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-a387.b.akamai.net	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-a4.applovin.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-aa.google.com	# Checked on 26/01/2025 !20220427 !1636800984 !1651045343  !20220427 !1636800984 !1651045343 
-aax.amazon-adsystem.com	# Checked on 26/01/2025 Export 08-11-2023 
-aax-eu.amazon-adsystem.com	# Checked on 26/01/2025 Export 08-11-2023 
-abtasty.com	# Checked on 26/01/2025	Adguard
-accengage.com	# Checked on 26/01/2025	Adguard
-ad.360yield.com	# Checked on 26/01/2025 Export 08-11-2023 
-ad.missena.io	# Checked on 26/01/2025	Adguard
-adclick.g.doubleclick.net	# Checked on 26/01/2025 !20220427 ! !20220427 !
-ads.avocet.io	# Checked on 26/01/2025	!20200101 - default date
-ads.dugwood.com	# Checked on 26/01/2025	Adguard
-ads.trafficjunky.net	# Checked on 26/01/2025	!20200101 - default date
-adsassets.waze.com	# Checked on 26/01/2025	Adguard
-adservice.google.com	# Checked on 26/01/2025	!20200101 - default date
-adservice.google.fr	# Checked on 26/01/2025	!20200101 - default date
-ads-resources.waze.com	# Checked on 26/01/2025	Adguard
-adultarcade.securequickaccess.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-aefd.nelreports.net	# Checked on 26/01/2025	!20200101 - default date
-ahoymybay.club	# Checked on 26/01/2025	Adguard
-airdrop.bt.co	# Checked on 26/01/2025	!20200101 - default date
-alcroconawa.com	# Checked on 26/01/2025	!20200101 - default date
-alpha-news.org	# Checked on 26/01/2025 !20220427 !1641633076 !1651045343  !20220427 !1641633076 !1651045343 
-amazon.ae	# Checked on 26/01/2025	Adguard
-amazon.com.au	# Checked on 26/01/2025	Adguard
-amazon.sa	# Checked on 26/01/2025	Adguard
-amazon-adsystem.com	# Checked on 26/01/2025	Adguard
-amplitude.com	# Checked on 26/01/2025	Adguard
-ams3-ib.adnxs.com	# Checked on 26/01/2025 Export 08-11-2023 
-ams-mvp.trafficmanager.net	# Checked on 26/01/2025	!20211027
-analisyshb.moneytag.tech	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-analytics.ff.avast.com	# Checked on 26/01/2025 Export 08-11-2023 
-analytics.honeygain.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-analytics.twitter.com	# Checked on 26/01/2025 Export 08-11-2023 
-antvoice.com	# Checked on 26/01/2025	Adguard
-anz.audiencemanager.de	# Checked on 26/01/2025 !20220427 !1591095290 !1651045342   !20220427 !1591095290 !1651045342  
-api.360.audion.fm	# Checked on 26/01/2025 Export 08-11-2023 
-api.ad.intl.xiaomi.com	# Checked on 26/01/2025	!20200101 - default date
-api.amazon.com	# Checked on 26/01/2025	!20200101 - default date
-api.dohop.com	# Checked on 26/01/2025	Adguard
-api.instabug.com	# Checked on 26/01/2025	!20200101 - default date
-api.ketchappgames.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-api.lever.co	# Checked on 26/01/2025	Adguard
-api.prismaconnect.fr	# Checked on 26/01/2025 !20220427 !1636638201 !1651045343  !20220427 !1636638201 !1651045343 
-api.privacy-center.org	# Checked on 26/01/2025	!20211027
-api.purchasely.io	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-api.rbtdigital.com	# Checked on 26/01/2025	Adguard
-api.realtimely.io	# Checked on 26/01/2025 
-api.swiftybeaver.com	# Checked on 26/01/2025	Adguard
-api.target2sell.com	# Checked on 26/01/2025 Export 08-11-2023 
-api.weibo.com	# Checked on 26/01/2025	Adguard
-api-eu.bidmachine.io	# Checked on 26/01/2025	!20200101 - default date
-app.adjust.com	# Checked on 26/01/2025	Adguard
-app.qualified.com	# Checked on 26/01/2025 Export 08-11-2023 
-app1.vsc.doyoudreamup.com	# Checked on 26/01/2025	Adguard
-apple-finance.query.yahoo.com	# Checked on 26/01/2025	Adguard
-app-measurement.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-appsflyer.com	# Checked on 26/01/2025	Adguard
-arcus-uswest.amazon.com	# Checked on 26/01/2025	!20200101 - default date
-asset.email-match.com	# Checked on 26/01/2025	Adguard
-assets.adobedtm.com	# Checked on 26/01/2025	Adguard
-assets.msn.com	# Checked on 26/01/2025	!20200101 - default date
-assets.queue-it.net	# Checked on 26/01/2025 !20220427 !1635531951 !1651045343  !20220427 !1635531951 !1651045343 
-assets-tracking.crazyegg.com	# Checked on 26/01/2025 Export 08-11-2023 
-a-ssl.ligatus.com	# Checked on 26/01/2025	Adguard
-athena.helpshift.com	# Checked on 26/01/2025	!20200101 - default date
-au.ff.avast.sec.miui.com	# Checked on 26/01/2025	!20200101 - default date
-audiences.free.fr	# Checked on 26/01/2025	!20200101 - default date
-autodiscover.proservia.fr	# Checked on 26/01/2025 !20220427 !1591095290 !1651045342   !20220427 !1591095290 !1651045342  
-avads.net	# Checked on 26/01/2025	Adguard
-avs-alexa-18-eu.amazon.com	# Checked on 26/01/2025	!20200101 - default date
-avthelkp.net	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-b1-eudc1.zemanta.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-b1t-eudc1.zemanta.com	# Checked on 26/01/2025 Export 08-11-2023 
-bam.nr-data.net	# Checked on 26/01/2025	Adguard
-beacons3.gvt2.com	# Checked on 26/01/2025 !20220427 !1636013392 !1651045343 !!20220427 !1636013392 !1651045343 
-beam.hubvisor.io	# Checked on 26/01/2025 !20220427 !1645608462 !1651045343 !!20220427 !1645608462 !1651045343 
-bestaryua.com	# Checked on 26/01/2025 !20200101 - default date
-bid2.videostep.com	# Checked on 26/01/2025 
-bmad.xyz	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-book-gratuit.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-books-analytics-events.apple.com	# Checked on 26/01/2025 !20200101 - default date
-bootstrap.api.drift.com	# Checked on 26/01/2025 !20211027
-browser-quotes.com	# Checked on 26/01/2025 !20200101 - default date
-btinstall-artifacts.bittorrent.com	# Checked on 26/01/2025 !20211027
-buy.itunes-apple.com.akadns.net	# Checked on 26/01/2025 !20200101 - default date
-c.contentsquare.net	# Checked on 26/01/2025 !20200101 - default date
-c.media-dl.co	# Checked on 26/01/2025 !20200101 - default date
-c21lg-d.media.net	# Checked on 26/01/2025 !20220427
-c2shb.ssp.yahoo.com	# Checked on 26/01/2025 !20200101 - default date
-c5.patreon.com	# Checked on 26/01/2025 !20200101 - default date
-carapax.net	# Checked on 26/01/2025 !20200101 - default date
-carrefourfr.queue-it.net	# Checked on 26/01/2025 !20220427 !1635531838 !1651045343 !added to TP8 -2022-04-27
-carrefourlink.page.link	# Checked on 26/01/2025	Adguard
-cd-down.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-cdn.adgtw.orangeads.fr	# Checked on 26/01/2025 Export 08-11-2023 
-cdn.adjesty.com	# Checked on 26/01/2025	Adguard
-cdn.exitbee.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-cdn.js7k.com	# Checked on 26/01/2025 !20211027
-cdn.jwplayer.com	# Checked on 26/01/2025 !20200101 - default date
-cdn.liftoff.io	# Checked on 26/01/2025 !20200101 - default date
-cdn.samsungcloudsolution.com	# Checked on 26/01/2025 !20220427 
-cdn.syndication.twimg.com	# Checked on 26/01/2025	Adguard
-cdn3.doubleverify.com	# Checked on 26/01/2025 !!20220427 !!20220427
-ced-ns.sascdn.com	# Checked on 26/01/2025 !20200101 - default date
-cf.iadsdk.apple.com	# Checked on 26/01/2025	Adguard
-cf.shopee.fr	# Checked on 26/01/2025 !20220427 !1639852906 !1651045343 !!20220427 !1639852906 !1651045343 
-chat-e2ee-mini.c10r.facebook.com	# Checked on 26/01/2025 Export 08-11-2023 
-chat-pa.clients6.google.com	# Checked on 26/01/2025 !20211027
-chaturbate.com	# Checked on 26/01/2025 
-choices.consentframework.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-cl5.apple.com	# Checked on 26/01/2025 !20220427 !1643644233 !1651045343 !!20220427 !1643644233 !1651045343 
-clevertap-prod.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-client.wns.windows.com	# Checked on 26/01/2025 !20200101 - default date
-clients4.google.com	# Checked on 26/01/2025 !20211027
-clientservices.googleapis.com	# Checked on 26/01/2025 !20220427 !1636013396 !1651045343 !!20220427 !1636013396 !1651045343 
-cloystercdn.com	# Checked on 26/01/2025 !20200101 - default date
-cm.ctnsnet.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-cm.idealmedia.io	# Checked on 26/01/2025 !20200101 - default date
-collector.appconsent.io	# Checked on 26/01/2025 
-commander1.com	# Checked on 26/01/2025	Adguard
-config.edge.skype.com	# Checked on 26/01/2025 !20211027
-config.stream-access.net	# Checked on 26/01/2025 Export 08-11-2023 
-configv2.unityads.unity3d.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-content.bt.co	# Checked on 26/01/2025 !20211027
-content.mql5.com	# Checked on 26/01/2025	Adguard
-contile.services.mozilla.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-conversions.appsflyer.com	# Checked on 26/01/2025 !20220427 ! " !20220427 ! "
-cookie-matching.mediarithmics.com	# Checked on 26/01/2025 !!20220427 !!20220427
-cookie-sync.api.soundcast.fm	# Checked on 26/01/2025 !20211027
-coppersurfer.tk	# Checked on 26/01/2025 !20220427 !1597046115 !1651045342 !!20220427 !1597046115 !1651045342 
-core.dxpapi.com	# Checked on 26/01/2025 !20200101 - default date
-costaction.com	# Checked on 26/01/2025 !20200101 - default date
-counter.yadro.ru	# Checked on 26/01/2025 !20200101 - default date
-crashlytics.com	# Checked on 26/01/2025	Adguard
-crazyapks.com	# Checked on 26/01/2025 
-creatives.sascdn.com	# Checked on 26/01/2025 !20200101 - default date
-crl.comodoca.com	# Checked on 26/01/2025 !20200101 - default date
-crmtt.livejasmin.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-ctrlaltdel99.com	# Checked on 26/01/2025 !20200101 - default date
-customerevents.netflix.com	# Checked on 26/01/2025 !20200101 - default date
-d3q33rbmdkxzj.cloudfront.net	# Checked on 26/01/2025 !20200101 - default date
-da11e6c4f63ae3aac8af67075b7b1290.safeframe.googlesyndication.com	# Checked on 26/01/2025 !20211027
-data.mistat.india.xiaomi.com	# Checked on 26/01/2025 !20200101 - default date
-data.mistat.intl.xiaomi.com	# Checked on 26/01/2025 !20200101 - default date
-data.mistat.rus.xiaomi.com	# Checked on 26/01/2025 !20200101 - default date
-data.mistat.xiaomi.com	# Checked on 26/01/2025 !20200101 - default date
-data.photorank.me	# Checked on 26/01/2025 !20200101 - default date
-data.pubplus.com	# Checked on 26/01/2025	Adguard
-data.qiota.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-de.bongacams.com	# Checked on 26/01/2025 !20220427 !1641633069 !1651045343 !!20220427 !1641633069 !1651045343 
-desktop-assistant-sub.osp.opera.software	# Checked on 26/01/2025 !20200101 - default date
-dev.visualwebsiteoptimizer.com	# Checked on 26/01/2025	Adguard
-device-metrics-us.amazon.com	# Checked on 26/01/2025 !20200101 - default date
-device-metrics-us-2.amazon.com	# Checked on 26/01/2025 !20200101 - default date
-df.infra.shopee.sg	# Checked on 26/01/2025 !20220427 !1639852902 !1651045343 !!20220427 !1639852902 !1651045343 
-dispatcher.mng-ads.com	# Checked on 26/01/2025 !20211027
-displayvertising.com	# Checked on 26/01/2025 !20220427 !1641633007 !1651045343 !!20220427 !1641633007 !1651045343 
-ditu.google.cn	# Checked on 26/01/2025 !20211027
-dmp.adotmob.com	# Checked on 26/01/2025	Adguard
-dns.google	# Checked on 26/01/2025 !20220427 !1636800724 !1651045343 !!20220427 !1636800724 !1651045343 
-dns.opendns.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-dns.quad9.net	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-dns.umbrella.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-doh.dns.apple.com	# Checked on 26/01/2025 !20220427 !1643644216 !1651045343 !!20220427 !1643644216 !1651045343 
-download.cyberghostvpn.com	# Checked on 26/01/2025 !20200101 - default date
-dpm.demdex.net	# Checked on 26/01/2025	Adguard
-drnnv.takemehere.net	# Checked on 26/01/2025 !20200101 - default date
-e.viously.com	# Checked on 26/01/2025 
-e11942.api1.akamaiedge.net	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-e1329.g.akamaiedge.net	# Checked on 26/01/2025 !20220427 ! " !20220427 ! "
-e14868.dsce9.akamaiedge.net	# Checked on 26/01/2025 !20211027
-e17437.dscb.akamaiedge.net	# Checked on 26/01/2025 !20200101 - default date
-e25689.dscb.akamaiedge.net	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-e2c4.gcp.gvt2.com	# Checked on 26/01/2025 !20220427 !1636638324 !1651045343 !!20220427 !1636638324 !1651045343 
-e3925.dscx.akamaiedge.net	# Checked on 26/01/2025 !20200101 - default date
-e4478.a.akamaiedge.net	# Checked on 26/01/2025 !20200101 - default date
-e69896.dscapi6.akamaiedge.net	# Checked on 26/01/2025 !20211027
-easytomessage.com	# Checked on 26/01/2025	Adguard
-eatcells.com	# Checked on 26/01/2025 !20200101 - default date
-ebooks4me.online	# Checked on 26/01/2025 !20200101 - default date
-ecommerce.iap.unity3d.com	# Checked on 26/01/2025	Adguard
-eddie4.nl	# Checked on 26/01/2025 !20200101 - default date
-edge.api.brightcove.com	# Checked on 26/01/2025 !20220427 !1636801006 !1651045343 !!20220427 !1636801006 !1651045343 
-ejp.rlcdn.com	# Checked on 26/01/2025	Adguard
-email-reflex.com	# Checked on 26/01/2025	Adguard
-encrypted-tbn0.gstatic.com	# Checked on 26/01/2025 !20200101 - default date
-engine.bliink.io	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-engine.phn.doublepimp.com	# Checked on 26/01/2025 !20200101 - default date
-epdg.epc.mnc010.mcc208.pub.3gppnetwork.org	# Checked on 26/01/2025 !20211027
-etahub.com	# Checked on 26/01/2025 Export 08-11-2023 
-eth1.lava.build	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-eu.fastcmp.com	# Checked on 26/01/2025 Export 08-11-2023 
-eur-bid-hubvisor.adsrvr.org	# Checked on 26/01/2025 !20211027
-evtubescms.phncdn.com.lds.rncdn7.com	# Checked on 26/01/2025 
-ew3.io	# Checked on 26/01/2025	Adguard
-f.gm.mob.com	# Checked on 26/01/2025 
-factory.reworldmedia.com	# Checked on 26/01/2025 Export 08-11-2023 
-family-simulator.io	# Checked on 26/01/2025 
-familysimulatorgame.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-fast.nexx360.io	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-firebaseinappmessaging.googleapis.com	# Checked on 26/01/2025	Adguard
-firebaselogging.googleapis.com	# Checked on 26/01/2025	Adguard
-firebaselogging-pa.googleapis.com	# Checked on 26/01/2025 !20200101 - default date
-firebaseremoteconfig.googleapis.com	# Checked on 26/01/2025	Adguard
-firebase-settings.crashlytics.com	# Checked on 26/01/2025 Export 08-11-2023 
-firefox.settings.services.mozilla.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-firestore.googleapis.com	# Checked on 26/01/2025	Adguard
-fls-eu.amazon.com	# Checked on 26/01/2025	Adguard
-fls-eu.amazon.fr	# Checked on 26/01/2025 !20200101 - default date
-flurry.com	# Checked on 26/01/2025	Adguard
-forms.mailmunch.co	# Checked on 26/01/2025 !20211027
-fr.app.chat.global.xiaomi.net	# Checked on 26/01/2025 !20200101 - default date
-fr.stripchat.com	# Checked on 26/01/2025 
-fr.surveymonkey.com	# Checked on 26/01/2025	Adguard
-fr.usenet.nl	# Checked on 26/01/2025 !20210822 ! " !20210822 ! "
-fr.web.img2.acsta.net	# Checked on 26/01/2025	Adguard
-free.mymapsexpress.com	# Checked on 26/01/2025 !20211027
-freegeoip.net	# Checked on 26/01/2025	Adguard
-freelocalmatures.com	# Checked on 26/01/2025 
-freexxxjoin.com	# Checked on 26/01/2025 
-fullstory.com	# Checked on 26/01/2025 !20200101 - default date
-funpros.net	# Checked on 26/01/2025	Adguard
-g.live.com	# Checked on 26/01/2025	Adguard
-gas.geev.fr	# Checked on 26/01/2025 !20200101 - default date
-gdmf.apple.com	# Checked on 26/01/2025	Adguard
-gdpr-tcfv2.sp-prod.net	# Checked on 26/01/2025 !20220427 !1636638219 !1651045343 !!20220427 !1636638219 !1651045343 
-geoip.tnt-ea.com	# Checked on 26/01/2025	Adguard
-get.fileconvertersearches.com	# Checked on 26/01/2025 !20200101 - default date
-get.freestreamsearch.com	# Checked on 26/01/2025 !20200101 - default date
-getnord.net	# Checked on 26/01/2025 !20200101 - default date
-ginger.ad	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-global.appnext.com	# Checked on 26/01/2025	Adguard
-global.market.xiaomi.com	# Checked on 26/01/2025 !20200101 - default date
-go.xlviiirdr.com	# Checked on 26/01/2025 
-google.cn	# Checked on 26/01/2025 !20200101 - default date
-googleads.g.doubleclick.net	# Checked on 26/01/2025 !20200427 ! " !20200427 ! "
-googleadservices.com	# Checked on 26/01/2025	Adguard
-google-analytics.com	# Checked on 26/01/2025 !20211027
-gosca.ea.com	# Checked on 26/01/2025	Adguard
-got-a-message.com	# Checked on 26/01/2025 !20211027
-graph.facebook.com	# Checked on 26/01/2025 !20200101 - default date
-graph.instagram.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-graph.m-freeway.com	# Checked on 26/01/2025	Adguard
-gum.criteo.com	# Checked on 26/01/2025 !20200101 - default date
-guzzoni.apple.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-guzzoni-apple-com.v.aaplimg.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-h.ocsp-certum.com	# Checked on 26/01/2025 !20200101 - default date
-hajoopteg.com	# Checked on 26/01/2025 !20211027
-hangouts.google.com	# Checked on 26/01/2025 !20220427 !1636013402 !1651045343 !!20220427 !1636013402 !1651045343 
-hawk.bricks-co.com	# Checked on 26/01/2025 
-healthierpatriot.com	# Checked on 26/01/2025 !20211027
-hotjar.com	# Checked on 26/01/2025 !20200101 - default date
-hotsimulator.com	# Checked on 26/01/2025 
-ht.youporn.com	# Checked on 26/01/2025 !20200101 - default date
-ht-cdn.trafficjunky.net	# Checked on 26/01/2025 Export 08-11-2023 
-hv.viewsurf.com	# Checked on 26/01/2025 !20220427 !1594567522 !1651045342 !Webcam  " !20220427 !1594567522 !1651045342 !Webcam  "
-hv-contents.adpaths.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-i.ytimg.com	# Checked on 26/01/2025 !20200101 - default date
-i1.wp.com	# Checked on 26/01/2025	Adguard
-i-1006.b-0.ad.bench.utorrent.com	# Checked on 26/01/2025 !!20220427 !!20220427
-i-29.b-45449.ut.bench.utorrent.com	# Checked on 26/01/2025 !!20220427 !!20220427
-i-38.b-45449.ut.bench.utorrent.com	# Checked on 26/01/2025 !!20220427 !!20220427
-i-43.b-45449.ut.bench.utorrent.com	# Checked on 26/01/2025 !!20220427 !!20220427
-i-5600.b-294.helper.bench.utorrent.com	# Checked on 26/01/2025 !!20220427 !!20220427
-i-64.b-46846.ut.bench.utorrent.com	# Checked on 26/01/2025 Export 08-11-2023 
-i-666.b-0.ad.bench.utorrent.com	# Checked on 26/01/2025 !!20220427 !!20220427
-iadsdk.apple.com	# Checked on 26/01/2025	Adguard
-ib.adnxs.com	# Checked on 26/01/2025 !20200101 - default date
-ib.anycast.adnxs.com	# Checked on 26/01/2025 Export 08-11-2023 
-ice.360yield.com	# Checked on 26/01/2025 !20200101 - default date
-idrs.adtelligent.com	# Checked on 26/01/2025 
-image6.pubmatic.com	# Checked on 26/01/2025 !20200101 - default date
-images.outbrainimg.com	# Checked on 26/01/2025 !20200101 - default date
-imgur.com	# Checked on 26/01/2025 !20200101 - default date
-in.appcenter.ms	# Checked on 26/01/2025	Adguard
-inappcheck.itunes.apple.com.edgekey.net	# Checked on 26/01/2025 !20200101 - default date
-init.supersonicads.com	# Checked on 26/01/2025	Adguard
-install.convertmysearch.com	# Checked on 26/01/2025 !20200101 - default date
-intake.pbstck.com	# Checked on 26/01/2025 !20200101 - default date
-iosads4-9.adcolony.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-ip-api.com	# Checked on 26/01/2025	Adguard
-ipe.capital-news.fr	# Checked on 26/01/2025	Adguard
-ir.ebaystatic.com	# Checked on 26/01/2025	Adguard
-is4-ssl.mzstatic.com	# Checked on 26/01/2025 !!20220427 !!20220427
-itx4.smartadserver.com	# Checked on 26/01/2025 Export 08-11-2023 
-jpush.cn	# Checked on 26/01/2025	Adguard
-js.cookieless-data.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-js.hs-banner.com	# Checked on 26/01/2025 !20211027
-js-agent.newrelic.com	# Checked on 26/01/2025	Adguard
-kairosfire.com	# Checked on 26/01/2025	Adguard
-kapublicapiprod.azurewebsites.net	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-kinstruments-measurements.s3-external-1.amazonaws.com	# Checked on 26/01/2025 !20200101 - default date
-kube-rr.sirdata.fr	# Checked on 26/01/2025 2023-03-22 2023-03-22
-l.gm.mob.com	# Checked on 26/01/2025 
-laplacemedia.b-cdn.net	# Checked on 26/01/2025 !20200101 - default date
-launches.appsflyer.com	# Checked on 26/01/2025 !20220427 ! " !20220427 ! "
-lblutrw18aqx.s4.adsco.re	# Checked on 26/01/2025 !20220427 !1641633020 !1651045343 !!20220427 !1641633020 !1651045343 
-lbqiota.tbsfrance.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-ledger.bt.co	# Checked on 26/01/2025 !20200101 - default date
-lgin.msa.trafficmanager.net	# Checked on 26/01/2025 !!20220427 !!20220427
-lh5.googleusercontent.com	# Checked on 26/01/2025 !20200101 - default date
-license.piriform.com	# Checked on 26/01/2025 !20210723 ! " !20210723 ! "
-live.shopee.tw	# Checked on 26/01/2025 !20220427 !1639852734 !1651045343 !!20220427 !1639852734 !1651045343 
-livehdcams.com	# Checked on 26/01/2025 !20200101 - default date
-liveramp.com	# Checked on 26/01/2025	Adguard
-loadeu.exelator.com	# Checked on 26/01/2025 !20211027
-log.outbrainimg.com	# Checked on 26/01/2025 Export 08-11-2023 
-logs128.xiti.com	# Checked on 26/01/2025 Export 08-11-2023 
-logs1409.xiti.com	# Checked on 26/01/2025 !20200101 - default date
-logs1410.xiti.com	# Checked on 26/01/2025 !20220427 !1637821923 !1651045343 !!20220427 !1637821923 !1651045343 
-lookpic.com	# Checked on 26/01/2025 !20220427 !1641632899 !1651045343 !!20220427 !1641632899 !1651045343 
-lpgengine.net	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-m.chaturbate.com	# Checked on 26/01/2025 
-m.csqtrk.net	# Checked on 26/01/2025	Adguard
-maintws.withings.net	# Checked on 26/01/2025	Adguard
-marketgameland.com	# Checked on 26/01/2025 !20211027
-mask.apple-dns.net	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-masturmate.com	# Checked on 26/01/2025 
-mate.zone	# Checked on 26/01/2025 !20200101 - default date
-matures.com	# Checked on 26/01/2025 
-mb-signup.shevy.net	# Checked on 26/01/2025 !20211027
-mc.yandex.com	# Checked on 26/01/2025 Export 08-11-2023 
-mc.yandex.ru	# Checked on 26/01/2025 !20200101 - default date
-me.apple-dns.net	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-measurements-api.wonderpush.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-media.adaware.com	# Checked on 26/01/2025 !20200101 - default date
-media.batch.com	# Checked on 26/01/2025 !20200101 - default date
-mediarithmics.com	# Checked on 26/01/2025	Adguard
-mem.gfx.ms	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-member.allscreen.media	# Checked on 26/01/2025 !20211027
-member.naiadsystems.com	# Checked on 26/01/2025 !20211027
-mesure.streaming.estat.com	# Checked on 26/01/2025 Export 08-11-2023 
-metrics.icloud.com	# Checked on 26/01/2025 !20200101 - default date
-mh.abja.xyz	# Checked on 26/01/2025 !20200101 - default date
-milenica.info	# Checked on 26/01/2025	Adguard
-minneapolis.craigslist.org	# Checked on 26/01/2025 !20220427 !1639748338 !1651045343 !!20220427 !1639748338 !1651045343 
-mixpanel.com	# Checked on 26/01/2025	Adguard
-moatads.com	# Checked on 26/01/2025	Adguard
-mob1ledev1ces.com	# Checked on 26/01/2025 !20211027
-mobile.mng-ads.com	# Checked on 26/01/2025	Adguard
-mobile-145.api.privacy-center.org	# Checked on 26/01/2025	Adguard
-mobileconfig.sascdn.com	# Checked on 26/01/2025 !20200101 - default date
-mobilemessaging.engagement.dimelo.com	# Checked on 26/01/2025	Adguard
-mobile-production.content-square.net	# Checked on 26/01/2025 !20200101 - default date
-mp-feedback.cyberghostvpn.com	# Checked on 26/01/2025 !20200101 - default date
-mqtt.c10r.facebook.com	# Checked on 26/01/2025 !20220427 !1620983120 !1651045343 !!20220427 !1620983120 !1651045343 
-ms.applovin.com	# Checked on 26/01/2025 !20200101 - default date
-ms-bidder-bid.prod.cloud.ogury.io	# Checked on 26/01/2025 Export 08-11-2023 
-msh.amazon.co.uk	# Checked on 26/01/2025 !20211027
-mwtw.presage.io	# Checked on 26/01/2025 Export 08-11-2023 
-my.rtmark.net	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-nbcnews.com.ssl.sc.omtrdc.net	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-network-eu.bazaarvoice.com	# Checked on 26/01/2025 !20220427 !1640685163 !1651045343 !!20220427 !1640685163 !1651045343 
-network-eu-stg.bazaarvoice.com	# Checked on 26/01/2025 !20220427 !1640684050 !1651045343 !!20220427 !1640684050 !1651045343 
-notify.adleadevent.com	# Checked on 26/01/2025	Adguard
-ntf.capital-mail.fr	# Checked on 26/01/2025	Adguard
-nthrezctmsfjlm.numericable.fr	# Checked on 26/01/2025	Adguard
-nydc1.outbrain.org	# Checked on 26/01/2025 Export 08-11-2023 
-ocsp.comodoca.com	# Checked on 26/01/2025	Adguard
-ocsp.izenpe.com	# Checked on 26/01/2025	Adguard
-ocsp.sca1b.amazontrust.com	# Checked on 26/01/2025	Adguard
-onesignal.com	# Checked on 26/01/2025	Adguard
-onstunkyr.com	# Checked on 26/01/2025 !20211027
-ota.lokalise.co	# Checked on 26/01/2025 !20200101 - default date
-outbrain.map.fastly.net	# Checked on 26/01/2025 Export 08-11-2023 
-outcome-ssp.supersonicads.com	# Checked on 26/01/2025	Adguard
-p.npcad.com	# Checked on 26/01/2025 !20220427 !1642598383 !1651045343  " !20220427 !1642598383 !1651045343  "
-p1.parsely.com	# Checked on 26/01/2025 !20211027
-p131675.clksite.com	# Checked on 26/01/2025 !20200101 - default date
-p20-buy.itunes.apple.com	# Checked on 26/01/2025 !20220427 !1591120539 !1651045342 !Apple - pub ?  " !20220427 !1591120539 !1651045342 !Apple - pub ?  "
-p49-keyvalueservice.icloud.com	# Checked on 26/01/2025 !20200101 - default date
-p71-buy.itunes.apple.com	# Checked on 26/01/2025 !20200101 - default date
-pagead.l.doubleclick.net	# Checked on 26/01/2025 !20200427 ! " !20200427 ! "
-pagestates-tracking.crazyegg.com	# Checked on 26/01/2025 Export 08-11-2023 
-paid.outbrain.com	# Checked on 26/01/2025 !20200101 - default date
-parowleronter.pro	# Checked on 26/01/2025 !20200101 - default date
-partenaire.bemove.fr	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-passback.free.fr	# Checked on 26/01/2025	Adguard
-pbs.nextmillmedia.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-pbs.nexx360.io	# Checked on 26/01/2025 2023-03-22 2023-03-22
-peaceful-sands-6439.hidden-inlet-1980.herokuspace.com	# Checked on 26/01/2025 Export 08-11-2023 
-people-pa.googleapis.com	# Checked on 26/01/2025 !20200101 - default date
-perso-api-tracking.front.vpgrp.net	# Checked on 26/01/2025	Adguard
-pharmacy.amazon.com	# Checked on 26/01/2025	Adguard
-phoceis.com	# Checked on 26/01/2025	Adguard
-photorankstatics-a.akamaihd.net	# Checked on 26/01/2025 !20200101 - default date
-photos-ugc.l.googleusercontent.com	# Checked on 26/01/2025 !20200101 - default date
-pi.pardot.com	# Checked on 26/01/2025 Export 08-11-2023 
-playable.dspunion.com	# Checked on 26/01/2025 !20200101 - default date
-playable-stats.mindworks-creative.com	# Checked on 26/01/2025 !20211027
-players.brightcove.net	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-pok.mintegral.net	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-porngamesverse.com	# Checked on 26/01/2025 
-prg.smartadserver.com	# Checked on 26/01/2025 Export 08-11-2023 
-prismaconnect.fr	# Checked on 26/01/2025	Adguard
-prisma-tr.prismamedia.com	# Checked on 26/01/2025	Adguard
-privatestats.whatsapp.net	# Checked on 26/01/2025 !20200101 - default date
-prod.balrog.prod.cloudops.mozgcp.net	# Checked on 26/01/2025 2023-03-22 2023-03-22
-profile.gc.apple.com	# Checked on 26/01/2025	Adguard
-pro-rating.carboatservices.fr	# Checked on 26/01/2025	Adguard
-proxyjs.brdtnet.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-public-prod-dspcookiematching.dmxleo.com	# Checked on 26/01/2025 !20200101 - default date
-push.aarth.net	# Checked on 26/01/2025 !20200101 - default date
-pv.viewsurf.com	# Checked on 26/01/2025 !20220427 !1594567590 !1651045342  " !20220427 !1594567590 !1651045342  "
-pwspace.com	# Checked on 26/01/2025 !20200101 - default date
-r2.sn-25ge7nsd.googlevideo.com	# Checked on 26/01/2025 !20211027
-r3.o.lencr.org	# Checked on 26/01/2025 !20211027
-r4.sn-25glene6.googlevideo.com	# Checked on 26/01/2025 !20220427 !1595854882 !1651045342 !!20220427 !1595854882 !1651045342 
-r4---sn-25ge7nsd.googlevideo.com	# Checked on 26/01/2025 !20220427 !1595854321 !1651045342 !Pub - dans Youtube Music
-r4---sn-25glenes.googlevideo.com	# Checked on 26/01/2025 !20220427 !1595855215 !1651045342 !!20220427 !1595855215 !1651045342 
-r4---sn-25glenez.c.2mdn.net	# Checked on 26/01/2025 !20200101 - default date
-r4---sn-5hneknee.c.2mdn.net	# Checked on 26/01/2025 !20200101 - default date
-radio-activity.itunes.apple.com	# Checked on 26/01/2025 Export 08-11-2023 
-redtubelive.com	# Checked on 26/01/2025 !20211027
-region1.analytics.google.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-region1.app-measurement.com	# Checked on 26/01/2025 Export 08-11-2023 
-region1.google-analytics.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-register.rainbow-art.net	# Checked on 26/01/2025 Export 08-11-2023 
-resolver.msg.global.xiaomi.net	# Checked on 26/01/2025 !20211027
-r-eu.tsyndicate.com	# Checked on 26/01/2025 !20200101 - default date
-river-mobile.data.ea.com	# Checked on 26/01/2025	Adguard
-rotumal.com	# Checked on 26/01/2025 !20211027
-router.utorrent.com	# Checked on 26/01/2025 !20200101 - default date
-rt.applvn.com	# Checked on 26/01/2025	Adguard
-r-target.com	# Checked on 26/01/2025	Adguard
-rtarget-lb-1296128806.eu-west-1.elb.amazonaws.com	# Checked on 26/01/2025	Adguard
-rum.netvigie.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-s.mzstatic.com	# Checked on 26/01/2025 !20220427 !1591171019 !1651045342  " !20220427 !1591171019 !1651045342  "
-s.youtube.com	# Checked on 26/01/2025 !20211027
-s0.2mdn.net	# Checked on 26/01/2025 !20211027
-s2.symcb.com	# Checked on 26/01/2025 Export 08-11-2023 
-s2s.singular.net	# Checked on 26/01/2025	Adguard
-safebrowsing.google.com	# Checked on 26/01/2025 !20220427 !1643644199 !1651045343 !!20220427 !1643644199 !1651045343 
-safebrowsing.googleapis.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-safebrowsing-proxy.g.aaplimg.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-sb.scorecardresearch.com	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-sc.affilizz.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-sc.lfeeder.com	# Checked on 26/01/2025 !20200101 - default date
-scontent.cdninstagram.com	# Checked on 26/01/2025	Adguard
-script.crazyegg.com	# Checked on 26/01/2025 Export 08-11-2023 
-sc-static.net	# Checked on 26/01/2025	Adguard
-sdk.kairosfire.com	# Checked on 26/01/2025 !20200101 - default date
-sdk.out.usbla.net	# Checked on 26/01/2025	Adguard
-sdk.privacy-center.org	# Checked on 26/01/2025 !20211027
-secure.gravatar.com	# Checked on 26/01/2025	Adguard
-secure.stat.canal-plus.net	# Checked on 26/01/2025	Adguard
-secure.uk.vente-privee.com	# Checked on 26/01/2025	Adguard
-secure1.eurosback.com	# Checked on 26/01/2025 !20200101 - default date
-securemetrics.apple.com	# Checked on 26/01/2025 !20200101 - default date
-securepubads.g.doubleclick.net	# Checked on 26/01/2025 !20200427 ! " !20200427 ! "
-sendgrid.net	# Checked on 26/01/2025	Adguard
-sentry.io	# Checked on 26/01/2025	Adguard
-serv-api.target2sell.com	# Checked on 26/01/2025 Export 08-11-2023 
-serverside3967.tagcommander.com	# Checked on 26/01/2025 !20211027
-service.piriform.com	# Checked on 26/01/2025 !20200101 - default date
-shftr.adnxs.net	# Checked on 26/01/2025 Export 08-11-2023 
-signup.basilplay.com	# Checked on 26/01/2025 !20200101 - default date
-singlespot.com	# Checked on 26/01/2025	Adguard
-sns.eu-west-1.amazonaws.com	# Checked on 26/01/2025	Adguard
-social-row.waze.com	# Checked on 26/01/2025	Adguard
-ssb-euw1.smartadserver.com	# Checked on 26/01/2025 Export 08-11-2023 
-sstats.oui.sncf	# Checked on 26/01/2025	Adguard
-static.btloader.com	# Checked on 26/01/2025 !20220427 !1650609731 !1651045343 !pub 2022
-static.chartbeat.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-static.fnac-static.com	# Checked on 26/01/2025 !20211027
-static.passeportsante.net	# Checked on 26/01/2025 !20200101 - default date
-static-cms.carrefour.fr	# Checked on 26/01/2025 !20220427 !1635531973 !1651045343 !!20220427 !1635531973 !1651045343 
-static-doubleclick-net.l.google.com	# Checked on 26/01/2025 !!20220427 !!20220427
-staticxx.facebook.com	# Checked on 26/01/2025	Adguard
-stats.gc-apple.com.akadns.net	# Checked on 26/01/2025	Adguard
-stats.pusher.com	# Checked on 26/01/2025	Adguard
-stk.protechts.net	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-stocks-analytics-events.apple.com	# Checked on 26/01/2025 !20200101 - default date
-stream-access.net	# Checked on 26/01/2025 Export 08-11-2023 
-stream-unlimited.com	# Checked on 26/01/2025 !20200101 - default date
-sync.alphonso.tv	# Checked on 26/01/2025 !20200101 - default date
-sync.hgrtb.com	# Checked on 26/01/2025 !20220427 !1636638300 !1651045343 !!20220427 !1636638300 !1651045343 
-syndication.optimizesrv.com	# Checked on 26/01/2025 !20200101 - default date
-syndication.realsrv.com	# Checked on 26/01/2025 !20220427 !1641633102 !1651045343 !!20220427 !1641633102 !1651045343 
-syndication.twitter.com	# Checked on 26/01/2025	Adguard
-syn-dir.sn.eamobile.com	# Checked on 26/01/2025	Adguard
-synergy.eamobile.com	# Checked on 26/01/2025	Adguard
-t.360.audion.fm	# Checked on 26/01/2025 Export 08-11-2023 
-t.fastcmp.com	# Checked on 26/01/2025 Export 08-11-2023 
-tag.analytics-helper.com	# Checked on 26/01/2025 Export 08-11-2023 
-tag.aticdn.net	# Checked on 26/01/2025	Adguard
-tag.bliink.io	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-tagcommander.com	# Checked on 26/01/2025	Adguard
-tb.turbocap.net	# Checked on 26/01/2025 !20200101 - default date
-the-best-prizes.life	# Checked on 26/01/2025 2023-03-22 2023-03-22
-thevpntrustzone.xyz	# Checked on 26/01/2025 !20200101 - default date
-torrindex.net	# Checked on 26/01/2025 !20200101 - default date
-tp8.free.fr	# Checked on 26/01/2025 !20220427 !1635342139 !1651045343 !adguard perso file
-tpc.googlesyndication.com	# Checked on 26/01/2025 !20211027
-tr.cloud-media.fr	# Checked on 26/01/2025 imported in TP8 2022-10-13 imported in TP8 2022-10-13
-track.analytics-data.io	# Checked on 26/01/2025 
-track.effiliation.com	# Checked on 26/01/2025 !20200101 - default date
-tracker.coppersurfer.tk	# Checked on 26/01/2025 !!20220427 !!20220427
-tracker.data-vp.com	# Checked on 26/01/2025	Adguard
-tracker.internetwarriors.net	# Checked on 26/01/2025 !!20220427 !!20220427
-tracker.leechers-paradise.org	# Checked on 26/01/2025 !20220427 !1597046000 !1651045342 !!20220427 !1597046000 !1651045342 
-tracker.moeking.me	# Checked on 26/01/2025 !20220427 !1597046024 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1597046024 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
-tracker.nmp1.com	# Checked on 26/01/2025	Adguard
-tracker.novg.net	# Checked on 26/01/2025 !20220427 !1597045943 !1651045342 !!20220427 !1597045943 !1651045342 
-tracker.opentrackr.org	# Checked on 26/01/2025 !!20220427 !!20220427
-tracker.p2pconnect.net	# Checked on 26/01/2025 !20211027
-tracker.tiny-vps.com	# Checked on 26/01/2025 !20220427 !1597046089 !1651045342 !!20220427 !1597046089 !1651045342 
-tracker.torrent.eu.org	# Checked on 26/01/2025 !20220427 !1597045950 !1651045342 !!20220427 !1597045950 !1651045342 
-tracking.aatkit.com	# Checked on 26/01/2025 Export 08-11-2023 
-tracking.eu.miui.com	# Checked on 26/01/2025 Export 08-11-2023 
-tracking.g2crowd.com	# Checked on 26/01/2025 Export 08-11-2023 
-tracking.india.miui.com	# Checked on 26/01/2025 !20200101 - default date
-tracking.intl.miui.com	# Checked on 26/01/2025 !20210822 ! " !20210822 ! "
-tracking.miui.com	# Checked on 26/01/2025 !20200101 - default date
-tracking.oui.sncf	# Checked on 26/01/2025	Adguard
-tracking.prmtracking3.com	# Checked on 26/01/2025 !20220427 !1641632754 !1651045343 !!20220427 !1641632754 !1651045343 
-tracking.purchasely.io	# Checked on 26/01/2025 2023-03-22 2023-03-22
-tracking.rus.miui.com	# Checked on 26/01/2025 !20200101 - default date
-tracking-api-4lasu2nlcq-ew.a.run.app	# Checked on 26/01/2025 Export 08-11-2023 
-trc.audiencemanager.de	# Checked on 26/01/2025 !!20220427 !!20220427
-trc.taboola.com	# Checked on 26/01/2025 !20200101 - default date
-trk.ipaddress.com	# Checked on 26/01/2025 !20200101 - default date
-ttf.trmobc.com	# Checked on 26/01/2025 !20200101 - default date
-u-ams03.e-planning.net	# Checked on 26/01/2025 
-u-blox.com	# Checked on 26/01/2025 
-ui2.awin.com	# Checked on 26/01/2025 !20211027
-update.bittorrent.com	# Checked on 26/01/2025 !20200101 - default date
-update.utorrent.com	# Checked on 26/01/2025 !20211027
-upgulpinon.com	# Checked on 26/01/2025 !20200101 - default date
-use.fontawesome.com	# Checked on 26/01/2025 !20220427 !1645120472 !1651045343 !!20220427 !1645120472 !1651045343 
-user.jpush.cn	# Checked on 26/01/2025	Adguard
-user.sn.eamobile.com	# Checked on 26/01/2025	Adguard
-utclient.utorrent.com	# Checked on 26/01/2025 !20211027
-v.clarity.ms	# Checked on 26/01/2025 2023-03-22 2023-03-22
-v7.stats.avast.com	# Checked on 26/01/2025 !20200101 - default date
-vid.pubmatic.com	# Checked on 26/01/2025 !20211027
-visit.polar-track.com	# Checked on 26/01/2025 !20200101 - default date
-visitor.fiftyt.com	# Checked on 26/01/2025 !20200101 - default date
-vivom.pro	# Checked on 26/01/2025 !20200101 - default date
-voici.assistpub.com	# Checked on 26/01/2025 !20220427 ( !pub
-wamfactory.solution.weborama.fr	# Checked on 26/01/2025 !20200101 - default date
-weather-analytics-events.apple.com	# Checked on 26/01/2025 Export 08-11-2023 
-web.ssp.yahoo.com	# Checked on 26/01/2025 !20200101 - default date
-weborama.fr	# Checked on 26/01/2025	Adguard
-widgets.trustedshops.com	# Checked on 26/01/2025	Adguard
-wl.hpyrdr.com	# Checked on 26/01/2025 
-ws.batch.com	# Checked on 26/01/2025 !20220427 ! " !20220427 ! "
-ws.qualified.com	# Checked on 26/01/2025 Export 08-11-2023 
-wscustomercare.nctvservices.fr	# Checked on 26/01/2025	Adguard
-www.adskeeper.co.uk	# Checked on 26/01/2025 !20200101 - default date
-www.adtilt.com	# Checked on 26/01/2025 !20211027
-www.adwstats.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-www.afternic.com	# Checked on 26/01/2025 !20200101 - default date
-www.amazon.sa	# Checked on 26/01/2025 !20200101 - default date
-www.audiotoaudio.com	# Checked on 26/01/2025 !!20220427 !!20220427
-www.baidu.com	# Checked on 26/01/2025	Adguard
-www.beetle-clicks.biz	# Checked on 26/01/2025 !20200101 - default date
-www.bidswitch.com	# Checked on 26/01/2025 !20200101 - default date
-www.bridgewell.com.tw	# Checked on 26/01/2025 !20220427 !1639852823 !1651045343 !!20220427 !1639852823 !1651045343 
-www.cloudbet.com	# Checked on 26/01/2025 !20220427 !1646208550 !1651045343  " !20220427 !1646208550 !1651045343  "
-www.fitint.ro	# Checked on 26/01/2025 !20210822 ! " !20210822 ! "
-www.flashb.id	# Checked on 26/01/2025 
-www.fly-unicorn.com	# Checked on 26/01/2025 !20220427 !1632128929 !1651045343 !faux torrent 
-www.get-express-vpn.com	# Checked on 26/01/2025 !20200101 - default date
-www.google.com.br	# Checked on 26/01/2025 !20220427 !1639748978 !1651045343 !!20220427 !1639748978 !1651045343 
-www.google.it	# Checked on 26/01/2025	Adguard
-www.googleadservices.com	# Checked on 26/01/2025 !20200101 - default date
-www.google-analytics.com	# Checked on 26/01/2025 2023-03-22 2023-03-22
-www.googleoptimize.com	# Checked on 26/01/2025 !20200101 - default date
-www.googletagservices.com	# Checked on 26/01/2025 !20200101 - default date
-www.hentaiheroes.com	# Checked on 26/01/2025 !20200101 - default date
-www.jeux-gratuits.com	# Checked on 26/01/2025 !20200101 - default date
-www.kameleoon.com	# Checked on 26/01/2025 !20220427 !1595176457 !1651045342  !20220427 !1595176457 !1651045342 
-www.lightboxcdn.com	# Checked on 26/01/2025	2024-07-12 Pihole blacklist
-www.livehdcams.com	# Checked on 26/01/2025 !20200101 - default date
-www.mate.zone	# Checked on 26/01/2025 !20200101 - default date
-www.nutaku.net	# Checked on 26/01/2025 !20211027
-www.patreon.com	# Checked on 26/01/2025 !20211027
-www.phywe.com	# Checked on 26/01/2025 !20200101 - default date
+0byv9mgbn0.com # DNS checked on 26/01/2025 !20200101 - default date
+0eabe743bef7376bdd8a48691ed0592f.clo.footprintdns.com # DNS checked on 26/01/2025 !20211027
+1169634-34.chat.api.drift.com # DNS checked on 26/01/2025 !20211027
+360yield.com # DNS checked on 26/01/2025 Adguard
+4ur.click # DNS checked on 26/01/2025 !20211027
+7img.net # DNS checked on 26/01/2025 Adguard
+a.e-webtrack.net # DNS checked on 26/01/2025  !20220427 !1591095290 !1651045342   !20220427 !1591095290 !1651045342  
+a.mailmunch.co # DNS checked on 26/01/2025  !20220427 !1636013431 !1651045343  !20220427 !1636013431 !1651045343 
+a.pwspace.com # DNS checked on 26/01/2025  !20210723 ! !20210723 !
+a1.awin1.com # DNS checked on 26/01/2025 !20211027
+a15853140465.cdn-pci.optimizely.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+a1838.dscb.akamai.net # DNS checked on 26/01/2025  !20220427 !1625650442 !1651045343 !AUDIT  !20220427 !1625650442 !1651045343 !AUDIT 
+a1928.dscd.akamai.net # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+a2d.io # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+a387.b.akamai.net # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+a4.applovin.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+aa.google.com # DNS checked on 26/01/2025  !20220427 !1636800984 !1651045343  !20220427 !1636800984 !1651045343 
+aax.amazon-adsystem.com # DNS checked on 26/01/2025  Export 08-11-2023 
+aax-eu.amazon-adsystem.com # DNS checked on 26/01/2025  Export 08-11-2023 
+abtasty.com # DNS checked on 26/01/2025 Adguard
+accengage.com # DNS checked on 26/01/2025 Adguard
+ad.360yield.com # DNS checked on 26/01/2025  Export 08-11-2023 
+ad.missena.io # DNS checked on 26/01/2025 Adguard
+adclick.g.doubleclick.net # DNS checked on 26/01/2025  !20220427 ! !20220427 !
+ads.avocet.io # DNS checked on 26/01/2025 !20200101 - default date
+ads.dugwood.com # DNS checked on 26/01/2025 Adguard
+ads.trafficjunky.net # DNS checked on 26/01/2025 !20200101 - default date
+adsassets.waze.com # DNS checked on 26/01/2025 Adguard
+adservice.google.com # DNS checked on 26/01/2025 !20200101 - default date
+adservice.google.fr # DNS checked on 26/01/2025 !20200101 - default date
+ads-resources.waze.com # DNS checked on 26/01/2025 Adguard
+adultarcade.securequickaccess.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+aefd.nelreports.net # DNS checked on 26/01/2025 !20200101 - default date
+ahoymybay.club # DNS checked on 26/01/2025 Adguard
+airdrop.bt.co # DNS checked on 26/01/2025 !20200101 - default date
+ak.hauchiwu.com # DNS checked on - Ads 2025
+alcroconawa.com # DNS checked on 26/01/2025 !20200101 - default date
+alpha-news.org # DNS checked on 26/01/2025  !20220427 !1641633076 !1651045343  !20220427 !1641633076 !1651045343 
+amazon.ae # DNS checked on 26/01/2025 Adguard
+amazon.com.au # DNS checked on 26/01/2025 Adguard
+amazon.sa # DNS checked on 26/01/2025 Adguard
+amazon-adsystem.com # DNS checked on 26/01/2025 Adguard
+amplitude.com # DNS checked on 26/01/2025 Adguard
+ams3-ib.adnxs.com # DNS checked on 26/01/2025  Export 08-11-2023 
+ams-mvp.trafficmanager.net # DNS checked on 26/01/2025 !20211027
+analisyshb.moneytag.tech # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+analytics.ff.avast.com # DNS checked on 26/01/2025  Export 08-11-2023 
+analytics.honeygain.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+analytics.twitter.com # DNS checked on 26/01/2025  Export 08-11-2023 
+antvoice.com # DNS checked on 26/01/2025 Adguard
+anz.audiencemanager.de # DNS checked on 26/01/2025  !20220427 !1591095290 !1651045342   !20220427 !1591095290 !1651045342  
+api.360.audion.fm # DNS checked on 26/01/2025  Export 08-11-2023 
+api.ad.intl.xiaomi.com # DNS checked on 26/01/2025 !20200101 - default date
+api.dohop.com # DNS checked on 26/01/2025 Adguard
+api.instabug.com # DNS checked on 26/01/2025 !20200101 - default date
+api.ketchappgames.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+api.lever.co # DNS checked on 26/01/2025 Adguard
+api.prismaconnect.fr # DNS checked on 26/01/2025  !20220427 !1636638201 !1651045343  !20220427 !1636638201 !1651045343 
+api.purchasely.io # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+api.rbtdigital.com # DNS checked on 26/01/2025 Adguard
+api.realtimely.io # DNS checked on 26/01/2025  
+api.swiftybeaver.com # DNS checked on 26/01/2025 Adguard
+api.target2sell.com # DNS checked on 26/01/2025  Export 08-11-2023 
+api.weibo.com # DNS checked on 26/01/2025 Adguard
+api-eu.bidmachine.io # DNS checked on 26/01/2025 !20200101 - default date
+app.adjust.com # DNS checked on 26/01/2025 Adguard
+app.qualified.com # DNS checked on 26/01/2025  Export 08-11-2023 
+app1.vsc.doyoudreamup.com # DNS checked on 26/01/2025 Adguard
+apple-finance.query.yahoo.com # DNS checked on 26/01/2025 Adguard
+app-measurement.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+appsflyer.com # DNS checked on 26/01/2025 Adguard
+arcus-uswest.amazon.com # DNS checked on 26/01/2025 !20200101 - default date
+asset.email-match.com # DNS checked on 26/01/2025 Adguard
+assets.queue-it.net # DNS checked on 26/01/2025  !20220427 !1635531951 !1651045343  !20220427 !1635531951 !1651045343 
+assets-tracking.crazyegg.com # DNS checked on 26/01/2025  Export 08-11-2023 
+a-ssl.ligatus.com # DNS checked on 26/01/2025 Adguard
+athena.helpshift.com # DNS checked on 26/01/2025 !20200101 - default date
+au.ff.avast.sec.miui.com # DNS checked on 26/01/2025 !20200101 - default date
+audiences.free.fr # DNS checked on 26/01/2025 !20200101 - default date
+autodiscover.proservia.fr # DNS checked on 26/01/2025  !20220427 !1591095290 !1651045342   !20220427 !1591095290 !1651045342  
+avads.net # DNS checked on 26/01/2025 Adguard
+avs-alexa-18-eu.amazon.com # DNS checked on 26/01/2025 !20200101 - default date
+avthelkp.net # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+b1-eudc1.zemanta.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+b1t-eudc1.zemanta.com # DNS checked on 26/01/2025  Export 08-11-2023 
+bam.nr-data.net # DNS checked on 26/01/2025 Adguard
+beacons3.gvt2.com # DNS checked on 26/01/2025  !20220427 !1636013392 !1651045343 !!20220427 !1636013392 !1651045343 
+beam.hubvisor.io # DNS checked on 26/01/2025  !20220427 !1645608462 !1651045343 !!20220427 !1645608462 !1651045343 
+bestaryua.com # DNS checked on 26/01/2025  !20200101 - default date
+bid2.videostep.com # DNS checked on 26/01/2025  
+bmad.xyz # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+book-gratuit.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+books-analytics-events.apple.com # DNS checked on 26/01/2025  !20200101 - default date
+bootstrap.api.drift.com # DNS checked on 26/01/2025  !20211027
+browser-quotes.com # DNS checked on 26/01/2025  !20200101 - default date
+btinstall-artifacts.bittorrent.com # DNS checked on 26/01/2025  !20211027
+c.contentsquare.net # DNS checked on 26/01/2025  !20200101 - default date
+c.media-dl.co # DNS checked on 26/01/2025  !20200101 - default date
+c21lg-d.media.net # DNS checked on 26/01/2025  !20220427
+c2shb.ssp.yahoo.com # DNS checked on 26/01/2025  !20200101 - default date
+c5.patreon.com # DNS checked on 26/01/2025  !20200101 - default date
+carapax.net # DNS checked on 26/01/2025  !20200101 - default date
+carrefourfr.queue-it.net # DNS checked on 26/01/2025  !20220427 !1635531838 !1651045343 !added to TP8 -2022-04-27
+carrefourlink.page.link # DNS checked on 26/01/2025 Adguard
+cd-down.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+cdn.adgtw.orangeads.fr # DNS checked on 26/01/2025  Export 08-11-2023 
+cdn.adjesty.com # DNS checked on 26/01/2025 Adguard
+cdn.exitbee.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+cdn.js7k.com # DNS checked on 26/01/2025  !20211027
+cdn.liftoff.io # DNS checked on 26/01/2025  !20200101 - default date
+cdn.samsungcloudsolution.com # DNS checked on 26/01/2025  !20220427 
+cdn3.doubleverify.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+ced-ns.sascdn.com # DNS checked on 26/01/2025  !20200101 - default date
+cf.iadsdk.apple.com # DNS checked on 26/01/2025 Adguard
+cf.shopee.fr # DNS checked on 26/01/2025  !20220427 !1639852906 !1651045343 !!20220427 !1639852906 !1651045343 
+chat-e2ee-mini.c10r.facebook.com # DNS checked on 26/01/2025  Export 08-11-2023 
+chat-pa.clients6.google.com # DNS checked on 26/01/2025  !20211027
+chaturbate.com # DNS checked on 26/01/2025  
+cl5.apple.com # DNS checked on 26/01/2025  !20220427 !1643644233 !1651045343 !!20220427 !1643644233 !1651045343 
+clevertap-prod.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+clientservices.googleapis.com # DNS checked on 26/01/2025  !20220427 !1636013396 !1651045343 !!20220427 !1636013396 !1651045343 
+cloystercdn.com # DNS checked on 26/01/2025  !20200101 - default date
+cm.ctnsnet.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+cm.idealmedia.io # DNS checked on 26/01/2025  !20200101 - default date
+commander1.com # DNS checked on 26/01/2025 Adguard
+config.edge.skype.com # DNS checked on 26/01/2025  !20211027
+config.stream-access.net # DNS checked on 26/01/2025  Export 08-11-2023 
+configv2.unityads.unity3d.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+content.bt.co # DNS checked on 26/01/2025  !20211027
+content.mql5.com # DNS checked on 26/01/2025 Adguard
+contile.services.mozilla.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+conversions.appsflyer.com # DNS checked on 26/01/2025  !20220427 ! " !20220427 ! "
+cookie-matching.mediarithmics.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+cookie-sync.api.soundcast.fm # DNS checked on 26/01/2025  !20211027
+coppersurfer.tk # DNS checked on 26/01/2025  !20220427 !1597046115 !1651045342 !!20220427 !1597046115 !1651045342 
+core.dxpapi.com # DNS checked on 26/01/2025  !20200101 - default date
+costaction.com # DNS checked on 26/01/2025  !20200101 - default date
+counter.yadro.ru # DNS checked on 26/01/2025  !20200101 - default date
+crashlytics.com # DNS checked on 26/01/2025 Adguard
+crazyapks.com # DNS checked on 26/01/2025  
+creatives.sascdn.com # DNS checked on 26/01/2025  !20200101 - default date
+crmtt.livejasmin.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+ctrlaltdel99.com # DNS checked on 26/01/2025  !20200101 - default date
+customerevents.netflix.com # DNS checked on 26/01/2025  !20200101 - default date
+d3q33rbmdkxzj.cloudfront.net # DNS checked on 26/01/2025  !20200101 - default date
+da11e6c4f63ae3aac8af67075b7b1290.safeframe.googlesyndication.com # DNS checked on 26/01/2025  !20211027
+data.mistat.india.xiaomi.com # DNS checked on 26/01/2025  !20200101 - default date
+data.mistat.intl.xiaomi.com # DNS checked on 26/01/2025  !20200101 - default date
+data.mistat.rus.xiaomi.com # DNS checked on 26/01/2025  !20200101 - default date
+data.mistat.xiaomi.com # DNS checked on 26/01/2025  !20200101 - default date
+data.photorank.me # DNS checked on 26/01/2025  !20200101 - default date
+data.pubplus.com # DNS checked on 26/01/2025 Adguard
+data.qiota.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+de.bongacams.com # DNS checked on 26/01/2025  !20220427 !1641633069 !1651045343 !!20220427 !1641633069 !1651045343 
+desktop-assistant-sub.osp.opera.software # DNS checked on 26/01/2025  !20200101 - default date
+dev.visualwebsiteoptimizer.com # DNS checked on 26/01/2025 Adguard
+device-metrics-us.amazon.com # DNS checked on 26/01/2025  !20200101 - default date
+device-metrics-us-2.amazon.com # DNS checked on 26/01/2025  !20200101 - default date
+df.infra.shopee.sg # DNS checked on 26/01/2025  !20220427 !1639852902 !1651045343 !!20220427 !1639852902 !1651045343 
+dispatcher.mng-ads.com # DNS checked on 26/01/2025  !20211027
+displayvertising.com # DNS checked on 26/01/2025  !20220427 !1641633007 !1651045343 !!20220427 !1641633007 !1651045343 
+ditu.google.cn # DNS checked on 26/01/2025  !20211027
+dmp.adotmob.com # DNS checked on 26/01/2025 Adguard
+dns.google # DNS checked on 26/01/2025  !20220427 !1636800724 !1651045343 !!20220427 !1636800724 !1651045343 
+dns.opendns.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+dns.quad9.net # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+dns.umbrella.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+doh.dns.apple.com # DNS checked on 26/01/2025  !20220427 !1643644216 !1651045343 !!20220427 !1643644216 !1651045343 
+drnnv.takemehere.net # DNS checked on 26/01/2025  !20200101 - default date
+e11942.api1.akamaiedge.net # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+e1329.g.akamaiedge.net # DNS checked on 26/01/2025  !20220427 ! " !20220427 ! "
+e14868.dsce9.akamaiedge.net # DNS checked on 26/01/2025  !20211027
+e25689.dscb.akamaiedge.net # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+e2c4.gcp.gvt2.com # DNS checked on 26/01/2025  !20220427 !1636638324 !1651045343 !!20220427 !1636638324 !1651045343 
+e69896.dscapi6.akamaiedge.net # DNS checked on 26/01/2025  !20211027
+easytomessage.com # DNS checked on 26/01/2025 Adguard
+eatcells.com # DNS checked on 26/01/2025  !20200101 - default date
+ebooks4me.online # DNS checked on 26/01/2025  !20200101 - default date
+ecommerce.iap.unity3d.com # DNS checked on 26/01/2025 Adguard
+eddie4.nl # DNS checked on 26/01/2025  !20200101 - default date
+edge.api.brightcove.com # DNS checked on 26/01/2025  !20220427 !1636801006 !1651045343 !!20220427 !1636801006 !1651045343 
+ejp.rlcdn.com # DNS checked on 26/01/2025 Adguard
+email-reflex.com # DNS checked on 26/01/2025 Adguard
+engine.bliink.io # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+engine.phn.doublepimp.com # DNS checked on 26/01/2025  !20200101 - default date
+etahub.com # DNS checked on 26/01/2025  Export 08-11-2023 
+eth1.lava.build # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+eu.fastcmp.com # DNS checked on 26/01/2025  Export 08-11-2023 
+eur-bid-hubvisor.adsrvr.org # DNS checked on 26/01/2025  !20211027
+evtubescms.phncdn.com.lds.rncdn7.com # DNS checked on 26/01/2025  
+ew3.io # DNS checked on 26/01/2025 Adguard
+f.gm.mob.com # DNS checked on 26/01/2025  
+factory.reworldmedia.com # DNS checked on 26/01/2025  Export 08-11-2023 
+family-simulator.io # DNS checked on 26/01/2025  
+familysimulatorgame.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+fast.nexx360.io # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+firebaseinappmessaging.googleapis.com # DNS checked on 26/01/2025 Adguard
+firebaselogging.googleapis.com # DNS checked on 26/01/2025 Adguard
+firefox.settings.services.mozilla.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+fls-eu.amazon.com # DNS checked on 26/01/2025 Adguard
+fls-eu.amazon.fr # DNS checked on 26/01/2025  !20200101 - default date
+flurry.com # DNS checked on 26/01/2025 Adguard
+forms.mailmunch.co # DNS checked on 26/01/2025  !20211027
+fr.app.chat.global.xiaomi.net # DNS checked on 26/01/2025  !20200101 - default date
+fr.stripchat.com # DNS checked on 26/01/2025  
+fr.surveymonkey.com # DNS checked on 26/01/2025 Adguard
+fr.usenet.nl # DNS checked on 26/01/2025  !20210822 ! " !20210822 ! "
+fr.web.img2.acsta.net # DNS checked on 26/01/2025 Adguard
+free.mymapsexpress.com # DNS checked on 26/01/2025  !20211027
+freegeoip.net # DNS checked on 26/01/2025 Adguard
+freelocalmatures.com # DNS checked on 26/01/2025  
+freexxxjoin.com # DNS checked on 26/01/2025  
+fullstory.com # DNS checked on 26/01/2025  !20200101 - default date
+funpros.net # DNS checked on 26/01/2025 Adguard
+gas.geev.fr # DNS checked on 26/01/2025  !20200101 - default date
+gdpr-tcfv2.sp-prod.net # DNS checked on 26/01/2025  !20220427 !1636638219 !1651045343 !!20220427 !1636638219 !1651045343 
+geoip.tnt-ea.com # DNS checked on 26/01/2025 Adguard
+get.fileconvertersearches.com # DNS checked on 26/01/2025  !20200101 - default date
+get.freestreamsearch.com # DNS checked on 26/01/2025  !20200101 - default date
+getnord.net # DNS checked on 26/01/2025  !20200101 - default date
+ginger.ad # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+global.appnext.com # DNS checked on 26/01/2025 Adguard
+global.market.xiaomi.com # DNS checked on 26/01/2025  !20200101 - default date
+go.xlviiirdr.com # DNS checked on 26/01/2025  
+google.cn # DNS checked on 26/01/2025  !20200101 - default date
+googleads.g.doubleclick.net # DNS checked on 26/01/2025  !20200427 ! " !20200427 ! "
+googleadservices.com # DNS checked on 26/01/2025 Adguard
+google-analytics.com # DNS checked on 26/01/2025  !20211027
+gosca.ea.com # DNS checked on 26/01/2025 Adguard
+got-a-message.com # DNS checked on 26/01/2025  !20211027
+graph.instagram.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+graph.m-freeway.com # DNS checked on 26/01/2025 Adguard
+gum.criteo.com # DNS checked on 26/01/2025  !20200101 - default date
+guzzoni.apple.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+guzzoni-apple-com.v.aaplimg.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+h.ocsp-certum.com # DNS checked on 26/01/2025  !20200101 - default date
+hajoopteg.com # DNS checked on 26/01/2025  !20211027
+hangouts.google.com # DNS checked on 26/01/2025  !20220427 !1636013402 !1651045343 !!20220427 !1636013402 !1651045343 
+hawk.bricks-co.com # DNS checked on 26/01/2025  
+healthierpatriot.com # DNS checked on 26/01/2025  !20211027
+hotjar.com # DNS checked on 26/01/2025  !20200101 - default date
+hotsimulator.com # DNS checked on 26/01/2025  
+ht-cdn.trafficjunky.net # DNS checked on 26/01/2025  Export 08-11-2023 
+hv.viewsurf.com # DNS checked on 26/01/2025  !20220427 !1594567522 !1651045342 !Webcam  " !20220427 !1594567522 !1651045342 !Webcam  "
+hv-contents.adpaths.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+i1.wp.com # DNS checked on 26/01/2025 Adguard
+i-1006.b-0.ad.bench.utorrent.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+i-29.b-45449.ut.bench.utorrent.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+i-38.b-45449.ut.bench.utorrent.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+i-43.b-45449.ut.bench.utorrent.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+i-5600.b-294.helper.bench.utorrent.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+i-64.b-46846.ut.bench.utorrent.com # DNS checked on 26/01/2025  Export 08-11-2023 
+i-666.b-0.ad.bench.utorrent.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+iadsdk.apple.com # DNS checked on 26/01/2025 Adguard
+ib.adnxs.com # DNS checked on 26/01/2025  !20200101 - default date
+ib.anycast.adnxs.com # DNS checked on 26/01/2025  Export 08-11-2023 
+ice.360yield.com # DNS checked on 26/01/2025  !20200101 - default date
+idrs.adtelligent.com # DNS checked on 26/01/2025  
+image6.pubmatic.com # DNS checked on 26/01/2025  !20200101 - default date
+images.outbrainimg.com # DNS checked on 26/01/2025  !20200101 - default date
+inappcheck.itunes.apple.com.edgekey.net # DNS checked on 26/01/2025  !20200101 - default date
+init.supersonicads.com # DNS checked on 26/01/2025 Adguard
+install.convertmysearch.com # DNS checked on 26/01/2025  !20200101 - default date
+intake.pbstck.com # DNS checked on 26/01/2025  !20200101 - default date
+iosads4-9.adcolony.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+ipe.capital-news.fr # DNS checked on 26/01/2025 Adguard
+itx4.smartadserver.com # DNS checked on 26/01/2025  Export 08-11-2023 
+jpush.cn # DNS checked on 26/01/2025 Adguard
+js.cookieless-data.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+js.hs-banner.com # DNS checked on 26/01/2025  !20211027
+kairosfire.com # DNS checked on 26/01/2025 Adguard
+kapublicapiprod.azurewebsites.net # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+kinstruments-measurements.s3-external-1.amazonaws.com # DNS checked on 26/01/2025  !20200101 - default date
+kube-rr.sirdata.fr # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+l.gm.mob.com # DNS checked on 26/01/2025  
+laplacemedia.b-cdn.net # DNS checked on 26/01/2025  !20200101 - default date
+launches.appsflyer.com # DNS checked on 26/01/2025  !20220427 ! " !20220427 ! "
+lblutrw18aqx.s4.adsco.re # DNS checked on 26/01/2025  !20220427 !1641633020 !1651045343 !!20220427 !1641633020 !1651045343 
+lbqiota.tbsfrance.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+ledger.bt.co # DNS checked on 26/01/2025  !20200101 - default date
+lgin.msa.trafficmanager.net # DNS checked on 26/01/2025  !!20220427 !!20220427
+license.piriform.com # DNS checked on 26/01/2025  !20210723 ! " !20210723 ! "
+live.shopee.tw # DNS checked on 26/01/2025  !20220427 !1639852734 !1651045343 !!20220427 !1639852734 !1651045343 
+livehdcams.com # DNS checked on 26/01/2025  !20200101 - default date
+liveramp.com # DNS checked on 26/01/2025 Adguard
+loadeu.exelator.com # DNS checked on 26/01/2025  !20211027
+log.outbrainimg.com # DNS checked on 26/01/2025  Export 08-11-2023 
+logs128.xiti.com # DNS checked on 26/01/2025  Export 08-11-2023 
+logs1409.xiti.com # DNS checked on 26/01/2025  !20200101 - default date
+logs1410.xiti.com # DNS checked on 26/01/2025  !20220427 !1637821923 !1651045343 !!20220427 !1637821923 !1651045343 
+lookpic.com # DNS checked on 26/01/2025  !20220427 !1641632899 !1651045343 !!20220427 !1641632899 !1651045343 
+lpgengine.net # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+m.chaturbate.com # DNS checked on 26/01/2025  
+m.csqtrk.net # DNS checked on 26/01/2025 Adguard
+marketgameland.com # DNS checked on 26/01/2025  !20211027
+mask.apple-dns.net # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+masturmate.com # DNS checked on 26/01/2025  
+mate.zone # DNS checked on 26/01/2025  !20200101 - default date
+matures.com # DNS checked on 26/01/2025  
+mb-signup.shevy.net # DNS checked on 26/01/2025  !20211027
+mc.yandex.com # DNS checked on 26/01/2025  Export 08-11-2023 
+mc.yandex.ru # DNS checked on 26/01/2025  !20200101 - default date
+me.apple-dns.net # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+measurements-api.wonderpush.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+media.adaware.com # DNS checked on 26/01/2025  !20200101 - default date
+media.batch.com # DNS checked on 26/01/2025  !20200101 - default date
+mediarithmics.com # DNS checked on 26/01/2025 Adguard
+mem.gfx.ms # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+member.allscreen.media # DNS checked on 26/01/2025  !20211027
+member.naiadsystems.com # DNS checked on 26/01/2025  !20211027
+mesure.streaming.estat.com # DNS checked on 26/01/2025  Export 08-11-2023 
+metrics.icloud.com # DNS checked on 26/01/2025  !20200101 - default date
+mh.abja.xyz # DNS checked on 26/01/2025  !20200101 - default date
+milenica.info # DNS checked on 26/01/2025 Adguard
+minneapolis.craigslist.org # DNS checked on 26/01/2025  !20220427 !1639748338 !1651045343 !!20220427 !1639748338 !1651045343 
+mixpanel.com # DNS checked on 26/01/2025 Adguard
+moatads.com # DNS checked on 26/01/2025 Adguard
+mob1ledev1ces.com # DNS checked on 26/01/2025  !20211027
+mobile.mng-ads.com # DNS checked on 26/01/2025 Adguard
+mobile-145.api.privacy-center.org # DNS checked on 26/01/2025 Adguard
+mobileconfig.sascdn.com # DNS checked on 26/01/2025  !20200101 - default date
+mobilemessaging.engagement.dimelo.com # DNS checked on 26/01/2025 Adguard
+mp-feedback.cyberghostvpn.com # DNS checked on 26/01/2025  !20200101 - default date
+ms.applovin.com # DNS checked on 26/01/2025  !20200101 - default date
+ms-bidder-bid.prod.cloud.ogury.io # DNS checked on 26/01/2025  Export 08-11-2023 
+mwtw.presage.io # DNS checked on 26/01/2025  Export 08-11-2023 
+my.rtmark.net # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+nbcnews.com.ssl.sc.omtrdc.net # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+network-eu.bazaarvoice.com # DNS checked on 26/01/2025  !20220427 !1640685163 !1651045343 !!20220427 !1640685163 !1651045343 
+network-eu-stg.bazaarvoice.com # DNS checked on 26/01/2025  !20220427 !1640684050 !1651045343 !!20220427 !1640684050 !1651045343 
+notify.adleadevent.com # DNS checked on 26/01/2025 Adguard
+ntf.capital-mail.fr # DNS checked on 26/01/2025 Adguard
+nthrezctmsfjlm.numericable.fr # DNS checked on 26/01/2025 Adguard
+nydc1.outbrain.org # DNS checked on 26/01/2025  Export 08-11-2023 
+ocsp.comodoca.com # DNS checked on 26/01/2025 Adguard
+ocsp.izenpe.com # DNS checked on 26/01/2025 Adguard
+ocsp.sca1b.amazontrust.com # DNS checked on 26/01/2025 Adguard
+onesignal.com # DNS checked on 26/01/2025 Adguard
+onstunkyr.com # DNS checked on 26/01/2025  !20211027
+outbrain.map.fastly.net # DNS checked on 26/01/2025  Export 08-11-2023 
+outcome-ssp.supersonicads.com # DNS checked on 26/01/2025 Adguard
+p.npcad.com # DNS checked on 26/01/2025  !20220427 !1642598383 !1651045343  " !20220427 !1642598383 !1651045343  "
+p1.parsely.com # DNS checked on 26/01/2025  !20211027
+p131675.clksite.com # DNS checked on 26/01/2025  !20200101 - default date
+p49-keyvalueservice.icloud.com # DNS checked on 26/01/2025  !20200101 - default date
+p71-buy.itunes.apple.com # DNS checked on 26/01/2025  !20200101 - default date
+pagead.l.doubleclick.net # DNS checked on 26/01/2025  !20200427 ! " !20200427 ! "
+pagestates-tracking.crazyegg.com # DNS checked on 26/01/2025  Export 08-11-2023 
+paid.outbrain.com # DNS checked on 26/01/2025  !20200101 - default date
+parowleronter.pro # DNS checked on 26/01/2025  !20200101 - default date
+partenaire.bemove.fr # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+passback.free.fr # DNS checked on 26/01/2025 Adguard
+pbs.nextmillmedia.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+pbs.nexx360.io # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+peaceful-sands-6439.hidden-inlet-1980.herokuspace.com # DNS checked on 26/01/2025  Export 08-11-2023 
+perso-api-tracking.front.vpgrp.net # DNS checked on 26/01/2025 Adguard
+pharmacy.amazon.com # DNS checked on 26/01/2025 Adguard
+phoceis.com # DNS checked on 26/01/2025 Adguard
+photorankstatics-a.akamaihd.net # DNS checked on 26/01/2025  !20200101 - default date
+pi.pardot.com # DNS checked on 26/01/2025  Export 08-11-2023 
+playable.dspunion.com # DNS checked on 26/01/2025  !20200101 - default date
+playable-stats.mindworks-creative.com # DNS checked on 26/01/2025  !20211027
+players.brightcove.net # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+pok.mintegral.net # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+porngamesverse.com # DNS checked on 26/01/2025  
+prg.smartadserver.com # DNS checked on 26/01/2025  Export 08-11-2023 
+prismaconnect.fr # DNS checked on 26/01/2025 Adguard
+prisma-tr.prismamedia.com # DNS checked on 26/01/2025 Adguard
+privatestats.whatsapp.net # DNS checked on 26/01/2025  !20200101 - default date
+prod.balrog.prod.cloudops.mozgcp.net # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+profile.gc.apple.com # DNS checked on 26/01/2025 Adguard
+pro-rating.carboatservices.fr # DNS checked on 26/01/2025 Adguard
+public-prod-dspcookiematching.dmxleo.com # DNS checked on 26/01/2025  !20200101 - default date
+push.aarth.net # DNS checked on 26/01/2025  !20200101 - default date
+pv.viewsurf.com # DNS checked on 26/01/2025  !20220427 !1594567590 !1651045342  " !20220427 !1594567590 !1651045342  "
+pwspace.com # DNS checked on 26/01/2025  !20200101 - default date
+r2.sn-25ge7nsd.googlevideo.com # DNS checked on 26/01/2025  !20211027
+r4.sn-25glene6.googlevideo.com # DNS checked on 26/01/2025  !20220427 !1595854882 !1651045342 !!20220427 !1595854882 !1651045342 
+r4---sn-25ge7nsd.googlevideo.com # DNS checked on 26/01/2025  !20220427 !1595854321 !1651045342 !Pub - dans Youtube Music
+r4---sn-25glenes.googlevideo.com # DNS checked on 26/01/2025  !20220427 !1595855215 !1651045342 !!20220427 !1595855215 !1651045342 
+r4---sn-25glenez.c.2mdn.net # DNS checked on 26/01/2025  !20200101 - default date
+r4---sn-5hneknee.c.2mdn.net # DNS checked on 26/01/2025  !20200101 - default date
+radio-activity.itunes.apple.com # DNS checked on 26/01/2025  Export 08-11-2023 
+redtubelive.com # DNS checked on 26/01/2025  !20211027
+region1.analytics.google.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+region1.app-measurement.com # DNS checked on 26/01/2025  Export 08-11-2023 
+region1.google-analytics.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+register.rainbow-art.net # DNS checked on 26/01/2025  Export 08-11-2023 
+resolver.msg.global.xiaomi.net # DNS checked on 26/01/2025  !20211027
+r-eu.tsyndicate.com # DNS checked on 26/01/2025  !20200101 - default date
+river-mobile.data.ea.com # DNS checked on 26/01/2025 Adguard
+roots.baby # DNS checked on - Ads 2025
+rotumal.com # DNS checked on 26/01/2025  !20211027
+router.utorrent.com # DNS checked on 26/01/2025  !20200101 - default date
+rt.applvn.com # DNS checked on 26/01/2025 Adguard
+r-target.com # DNS checked on 26/01/2025 Adguard
+rtarget-lb-1296128806.eu-west-1.elb.amazonaws.com # DNS checked on 26/01/2025 Adguard
+rum.netvigie.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+s0.2mdn.net # DNS checked on 26/01/2025  !20211027
+s2.symcb.com # DNS checked on 26/01/2025  Export 08-11-2023 
+s2s.singular.net # DNS checked on 26/01/2025 Adguard
+safebrowsing.google.com # DNS checked on 26/01/2025  !20220427 !1643644199 !1651045343 !!20220427 !1643644199 !1651045343 
+safebrowsing.googleapis.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+safebrowsing-proxy.g.aaplimg.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+sb.scorecardresearch.com # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+sc.affilizz.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+sc.lfeeder.com # DNS checked on 26/01/2025  !20200101 - default date
+script.crazyegg.com # DNS checked on 26/01/2025  Export 08-11-2023 
+sc-static.net # DNS checked on 26/01/2025 Adguard
+sdk.kairosfire.com # DNS checked on 26/01/2025  !20200101 - default date
+sdk.out.usbla.net # DNS checked on 26/01/2025 Adguard
+secure.gravatar.com # DNS checked on 26/01/2025 Adguard
+secure.stat.canal-plus.net # DNS checked on 26/01/2025 Adguard
+secure.uk.vente-privee.com # DNS checked on 26/01/2025 Adguard
+securemetrics.apple.com # DNS checked on 26/01/2025  !20200101 - default date
+securepubads.g.doubleclick.net # DNS checked on 26/01/2025  !20200427 ! " !20200427 ! "
+sendgrid.net # DNS checked on 26/01/2025 Adguard
+sentry.io # DNS checked on 26/01/2025 Adguard
+serv-api.target2sell.com # DNS checked on 26/01/2025  Export 08-11-2023 
+serverside3967.tagcommander.com # DNS checked on 26/01/2025  !20211027
+service.piriform.com # DNS checked on 26/01/2025  !20200101 - default date
+shftr.adnxs.net # DNS checked on 26/01/2025  Export 08-11-2023 
+signup.basilplay.com # DNS checked on 26/01/2025  !20200101 - default date
+singlespot.com # DNS checked on 26/01/2025 Adguard
+sns.eu-west-1.amazonaws.com # DNS checked on 26/01/2025 Adguard
+social-row.waze.com # DNS checked on 26/01/2025 Adguard
+ssb-euw1.smartadserver.com # DNS checked on 26/01/2025  Export 08-11-2023 
+sstats.oui.sncf # DNS checked on 26/01/2025 Adguard
+static.btloader.com # DNS checked on 26/01/2025  !20220427 !1650609731 !1651045343 !pub 2022
+static.chartbeat.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+static.passeportsante.net # DNS checked on 26/01/2025  !20200101 - default date
+static-cms.carrefour.fr # DNS checked on 26/01/2025  !20220427 !1635531973 !1651045343 !!20220427 !1635531973 !1651045343 
+static-doubleclick-net.l.google.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+staticxx.facebook.com # DNS checked on 26/01/2025 Adguard
+stats.gc-apple.com.akadns.net # DNS checked on 26/01/2025 Adguard
+stats.pusher.com # DNS checked on 26/01/2025 Adguard
+stocks-analytics-events.apple.com # DNS checked on 26/01/2025  !20200101 - default date
+stream-access.net # DNS checked on 26/01/2025  Export 08-11-2023 
+stream-unlimited.com # DNS checked on 26/01/2025  !20200101 - default date
+sync.alphonso.tv # DNS checked on 26/01/2025  !20200101 - default date
+sync.hgrtb.com # DNS checked on 26/01/2025  !20220427 !1636638300 !1651045343 !!20220427 !1636638300 !1651045343 
+syndication.optimizesrv.com # DNS checked on 26/01/2025  !20200101 - default date
+syndication.realsrv.com # DNS checked on 26/01/2025  !20220427 !1641633102 !1651045343 !!20220427 !1641633102 !1651045343 
+syndication.twitter.com # DNS checked on 26/01/2025 Adguard
+syn-dir.sn.eamobile.com # DNS checked on 26/01/2025 Adguard
+synergy.eamobile.com # DNS checked on 26/01/2025 Adguard
+t.360.audion.fm # DNS checked on 26/01/2025  Export 08-11-2023 
+t.fastcmp.com # DNS checked on 26/01/2025  Export 08-11-2023 
+tag.analytics-helper.com # DNS checked on 26/01/2025  Export 08-11-2023 
+tag.bliink.io # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+tagcommander.com # DNS checked on 26/01/2025 Adguard
+tb.turbocap.net # DNS checked on 26/01/2025  !20200101 - default date
+the-best-prizes.life # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+thevpntrustzone.xyz # DNS checked on 26/01/2025  !20200101 - default date
+torrindex.net # DNS checked on 26/01/2025  !20200101 - default date
+tpc.googlesyndication.com # DNS checked on 26/01/2025  !20211027
+tr.cloud-media.fr # DNS checked on 26/01/2025  imported in TP8 2022-10-13 imported in TP8 2022-10-13
+track.analytics-data.io # DNS checked on 26/01/2025  
+track.effiliation.com # DNS checked on 26/01/2025  !20200101 - default date
+tracker.coppersurfer.tk # DNS checked on 26/01/2025  !!20220427 !!20220427
+tracker.data-vp.com # DNS checked on 26/01/2025 Adguard
+tracker.internetwarriors.net # DNS checked on 26/01/2025  !!20220427 !!20220427
+tracker.leechers-paradise.org # DNS checked on 26/01/2025  !20220427 !1597046000 !1651045342 !!20220427 !1597046000 !1651045342 
+tracker.moeking.me # DNS checked on 26/01/2025  !20220427 !1597046024 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT " !20220427 !1597046024 !1651045342 !Added from Query Log !TO BE UPDATED IN TELEPORT "
+tracker.nmp1.com # DNS checked on 26/01/2025 Adguard
+tracker.novg.net # DNS checked on 26/01/2025  !20220427 !1597045943 !1651045342 !!20220427 !1597045943 !1651045342 
+tracker.opentrackr.org # DNS checked on 26/01/2025  !!20220427 !!20220427
+tracker.p2pconnect.net # DNS checked on 26/01/2025  !20211027
+tracker.tiny-vps.com # DNS checked on 26/01/2025  !20220427 !1597046089 !1651045342 !!20220427 !1597046089 !1651045342 
+tracking.aatkit.com # DNS checked on 26/01/2025  Export 08-11-2023 
+tracking.eu.miui.com # DNS checked on 26/01/2025  Export 08-11-2023 
+tracking.g2crowd.com # DNS checked on 26/01/2025  Export 08-11-2023 
+tracking.india.miui.com # DNS checked on 26/01/2025  !20200101 - default date
+tracking.intl.miui.com # DNS checked on 26/01/2025  !20210822 ! " !20210822 ! "
+tracking.miui.com # DNS checked on 26/01/2025  !20200101 - default date
+tracking.oui.sncf # DNS checked on 26/01/2025 Adguard
+tracking.prmtracking3.com # DNS checked on 26/01/2025  !20220427 !1641632754 !1651045343 !!20220427 !1641632754 !1651045343 
+tracking.purchasely.io # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+tracking.rus.miui.com # DNS checked on 26/01/2025  !20200101 - default date
+tracking-api-4lasu2nlcq-ew.a.run.app # DNS checked on 26/01/2025  Export 08-11-2023 
+trc.audiencemanager.de # DNS checked on 26/01/2025  !!20220427 !!20220427
+trc.taboola.com # DNS checked on 26/01/2025  !20200101 - default date
+trk.ipaddress.com # DNS checked on 26/01/2025  !20200101 - default date
+ttf.trmobc.com # DNS checked on 26/01/2025  !20200101 - default date
+u-ams03.e-planning.net # DNS checked on 26/01/2025  
+u-blox.com # DNS checked on 26/01/2025  
+ui2.awin.com # DNS checked on 26/01/2025  !20211027
+update.bittorrent.com # DNS checked on 26/01/2025  !20200101 - default date
+update.utorrent.com # DNS checked on 26/01/2025  !20211027
+upgulpinon.com # DNS checked on 26/01/2025  !20200101 - default date
+user.jpush.cn # DNS checked on 26/01/2025 Adguard
+user.sn.eamobile.com # DNS checked on 26/01/2025 Adguard
+utclient.utorrent.com # DNS checked on 26/01/2025  !20211027
+v.clarity.ms # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+v7.stats.avast.com # DNS checked on 26/01/2025  !20200101 - default date
+vid.pubmatic.com # DNS checked on 26/01/2025  !20211027
+visit.polar-track.com # DNS checked on 26/01/2025  !20200101 - default date
+visitor.fiftyt.com # DNS checked on 26/01/2025  !20200101 - default date
+vivom.pro # DNS checked on 26/01/2025  !20200101 - default date
+voici.assistpub.com # DNS checked on 26/01/2025  !20220427 ( !pub
+vpnconnect-manager.info # DNS checked on - Ads 2025
+wamfactory.solution.weborama.fr # DNS checked on 26/01/2025  !20200101 - default date
+weather-analytics-events.apple.com # DNS checked on 26/01/2025  Export 08-11-2023 
+web.ssp.yahoo.com # DNS checked on 26/01/2025  !20200101 - default date
+weborama.fr # DNS checked on 26/01/2025 Adguard
+widgets.trustedshops.com # DNS checked on 26/01/2025 Adguard
+wl.hpyrdr.com # DNS checked on 26/01/2025  
+ws.batch.com # DNS checked on 26/01/2025  !20220427 ! " !20220427 ! "
+ws.qualified.com # DNS checked on 26/01/2025  Export 08-11-2023 
+wscustomercare.nctvservices.fr # DNS checked on 26/01/2025 Adguard
+www.adskeeper.co.uk # DNS checked on 26/01/2025  !20200101 - default date
+www.adtilt.com # DNS checked on 26/01/2025  !20211027
+www.adwstats.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+www.afternic.com # DNS checked on 26/01/2025  !20200101 - default date
+www.amazon.sa # DNS checked on 26/01/2025  !20200101 - default date
+www.audiotoaudio.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+www.baidu.com # DNS checked on 26/01/2025 Adguard
+www.beetle-clicks.biz # DNS checked on 26/01/2025  !20200101 - default date
+www.bidswitch.com # DNS checked on 26/01/2025  !20200101 - default date
+www.bridgewell.com.tw # DNS checked on 26/01/2025  !20220427 !1639852823 !1651045343 !!20220427 !1639852823 !1651045343 
+www.cloudbet.com # DNS checked on 26/01/2025  !20220427 !1646208550 !1651045343  " !20220427 !1646208550 !1651045343  "
+www.fitint.ro # DNS checked on 26/01/2025  !20210822 ! " !20210822 ! "
+www.flashb.id # DNS checked on 26/01/2025  
+www.fly-unicorn.com # DNS checked on 26/01/2025  !20220427 !1632128929 !1651045343 !faux torrent 
+www.get-express-vpn.com # DNS checked on 26/01/2025  !20200101 - default date
+www.google.com.br # DNS checked on 26/01/2025  !20220427 !1639748978 !1651045343 !!20220427 !1639748978 !1651045343 
+www.google.it # DNS checked on 26/01/2025 Adguard
+www.googleadservices.com # DNS checked on 26/01/2025  !20200101 - default date
+www.google-analytics.com # DNS checked on 26/01/2025  2023-03-22 2023-03-22
+www.googleoptimize.com # DNS checked on 26/01/2025  !20200101 - default date
+www.googletagservices.com # DNS checked on 26/01/2025  !20200101 - default date
+www.hentaiheroes.com # DNS checked on 26/01/2025  !20200101 - default date
+www.jeux-gratuits.com # DNS checked on 26/01/2025  !20200101 - default date
+www.kameleoon.com # DNS checked on 26/01/2025  !20220427 !1595176457 !1651045342  !20220427 !1595176457 !1651045342 
+www.lightboxcdn.com # DNS checked on 26/01/2025 2024-07-12 Pihole blacklist
+www.livehdcams.com # DNS checked on 26/01/2025  !20200101 - default date
+www.mate.zone # DNS checked on 26/01/2025  !20200101 - default date
+www.my-ony.com # DNS checked on - Ads 2025
+www.nutaku.net # DNS checked on 26/01/2025  !20211027
+www.patreon.com # DNS checked on 26/01/2025  !20211027
+www.phywe.com # DNS checked on 26/01/2025  !20200101 - default date
+www.scupio.com # DNS checked on 26/01/2025  !20220427 !1639852821 !1651045343 !!20220427 !1639852821 !1651045343 
+www.sfi4.com # DNS checked on 26/01/2025  !20200101 - default date
+www.telechargement-ebook.com # DNS checked on 26/01/2025  !20220427 !1636803587 !1651045343 !!20220427 !1636803587 !1651045343 
+www.tripleclicks.com # DNS checked on 26/01/2025  !!20220427 !!20220427
+www.vreaubagaj.ro # DNS checked on 26/01/2025  !20200101 - default date
+www.wshifen.com # DNS checked on 26/01/2025 Adguard
+www-alv.google-analytics.com # DNS checked on 26/01/2025  Export 08-11-2023 
+xml.realtime-bid.com # DNS checked on 26/01/2025  !20200101 - default date
+xmpp.messaging.advgo.net # DNS checked on 26/01/2025  !20200101 - default date
+yadro.ru # DNS checked on 26/01/2025  !20200101 - default date
+yandex.ru # DNS checked on 26/01/2025  !20211027
+yt4.ggpht.com # DNS checked on 26/01/2025  !20200101 - default date
+z2q1s7jvfw.s.ad6media.fr # DNS checked on 26/01/2025  !20200101 - default date
+zem.outbrainimg.com # DNS checked on 26/01/2025  Export 08-11-2023 
+
+
+12 - !20200101 - default date
+z2q1s7jvfw.s.ad6media.fr # Checked 2024-07-12 - !20200101 - default date
+zem.outbrainimg.com # Checked 2024-07-12 - Export 08-11-2023 default date
 www.scupio.com	# Checked on 26/01/2025 !20220427 !1639852821 !1651045343 !!20220427 !1639852821 !1651045343 
 www.sfi4.com	# Checked on 26/01/2025 !20200101 - default date
 www.telechargement-ebook.com	# Checked on 26/01/2025 !20220427 !1636803587 !1651045343 !!20220427 !1636803587 !1651045343 
