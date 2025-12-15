@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
 ! Checksum: 
-! Version: 202405171
-! Title: The Squal's list 2024/2025
-! Last modified: 17 May 2024 08:40 UTC
+! Version: 20251215A
+! Title: The Squal's list 2025/2026
+! Last modified: 15 December 2025 08:40 UTC
 ! Expires: 1 days (update frequency)
-! Homepage: https://thesqual.000webhostapp.com/blacklist/adblock_personnal.txt
-! Filter URL : https://thesqual.000webhostapp.com/blacklist/adblock_personnal.txt
+! Homepage: https://github.com/thesqual92/pihole-list/
+! Filter URL : https://github.com/thesqual92/pihole-list/
 !
 ! *** thesqual:thesqual.txt ***
 ! Description: Filtres Thesqual
@@ -26,6 +26,9 @@
 ||media.sudouest.fr/assets/img/pages/billetterie/billetterie-660-130.jpg
 ||uxt-cf-images.mediazs.com/ptmn2o3bpcps/1GDrSr0CZy9J44OZm4gqCQ/cf8329299d81332fab6691a53f75018a/2022_09_Applaws_Offer_Right_290x500_CHfr.jpg?fm=jpg&fl=progressive&w=290&q=85
 ||uxt-cf-images.mediazs.com/ptmn2o3bpcps/4SThhzZPdU8tFLwlhcCVql/a1ae8d173996a40f6aed4e2d7c6c9b11/2022_09_Applaws_Offer_Left_290x500_CHfr.jpg?fm=jpg&fl=progressive&w=290&q=85
+*.aliexpress.com
+*.fleamx.com
+*.wyylde.com
 1001ebooks.net##.box.download.aligncenter
 1001ebooks.net##.box-inner-block
 20minutes.fr##.lt-endor-aside-stickywrap
@@ -119,6 +122,7 @@ download-is-ready.com###continue-button
 download-is-ready.com##.extension-modal-trigger.extension-checkbox.button
 ecranlarge.com###cg_skin
 ecranlarge.com##.cgIncontentSlot
+elysiumskins.com
 enerzine.com##.thr_adsense_wrapper
 europe1.fr###controls
 europe1.fr###e1_v2_frl_1
@@ -490,6 +494,7 @@ sciencesetavenir.fr###moneytag-INARTICLE1
 sciencesetavenir.fr###moneytag-INARTICLE-ATF
 sciencesetavenir.fr##.inarticle.placeholder
 sciencesetavenir.fr##.pub-container-inarticle
+serallagnolotte.co.in
 simplified.guide###ez-cookie-dialog
 simplified.guide##.ez_twentytwentytwo_corners.ez_banner
 sitegeek.fr###Dwa7yjbgfD
@@ -527,6 +532,7 @@ tecmint.com##.inside-right-sidebar
 tecmint.com##iframe[src="https://ec586871f1fb7ce8340c0512cbfcdd00.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?upapi=true"]
 thewalkingdead.fandom.com###google_ads_iframe_\/22060069514\,5441\/fandom\.com\/fandom\.com_incontent_boxad_1-top_0
 thewalkingdead.fandom.com##iframe[src="https://f5f1c2e23b0955f13c83fa3559911f79.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html?upapi=true"]
+to.trakzon.com
 tomsguide.fr###rbox-t2m
 tomsguide.fr###trc_wrapper_84196
 tomsguide.fr##.trc_rbox.ab_thumbnails-a_abp-mode.trc-content-sponsored
