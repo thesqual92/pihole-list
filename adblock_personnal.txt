@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: 
-! Version: 20251215A
+! Version: 20251222A
 ! Title: The Squal's list 2025/2026
-! Last modified: 15 December 2025 08:40 UTC
+! Last modified: 22 December 2025 09:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/thesqual92/pihole-list/
 ! Filter URL : https://github.com/thesqual92/pihole-list/
@@ -12,8 +12,19 @@
 ! Licence : 
 !
 !----------------------- Filtres génériques ----------------------!
+*,aivanta.uk
+*,julastudios.com
+*,neweternia.co.uk
+*,paynoom.com
+*.aliexpress.com
 *.assistpub.com
+*.dhgate.com
+*.fleamx.com
+*.julianoalvaroz12.com
 *.outbrain.com
+*.playlg.com
+*.skinmart.io
+*.wyylde.com
 ||aax-related.sourceforge.net
 ||dailymotion.com/embed?api=postMessage&autoplay=false&controls=true&id=video-player-1&mute=true&origin=https%3A%2F%2Fwww.europe1.fr&queue-autoplay-next=false&queue-enable=false
 ||entretien-auto.com/templates/assets/img/banners/B.png
@@ -26,9 +37,6 @@
 ||media.sudouest.fr/assets/img/pages/billetterie/billetterie-660-130.jpg
 ||uxt-cf-images.mediazs.com/ptmn2o3bpcps/1GDrSr0CZy9J44OZm4gqCQ/cf8329299d81332fab6691a53f75018a/2022_09_Applaws_Offer_Right_290x500_CHfr.jpg?fm=jpg&fl=progressive&w=290&q=85
 ||uxt-cf-images.mediazs.com/ptmn2o3bpcps/4SThhzZPdU8tFLwlhcCVql/a1ae8d173996a40f6aed4e2d7c6c9b11/2022_09_Applaws_Offer_Left_290x500_CHfr.jpg?fm=jpg&fl=progressive&w=290&q=85
-*.aliexpress.com
-*.fleamx.com
-*.wyylde.com
 1001ebooks.net##.box.download.aligncenter
 1001ebooks.net##.box-inner-block
 20minutes.fr##.lt-endor-aside-stickywrap
