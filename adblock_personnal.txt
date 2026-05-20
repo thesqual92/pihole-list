@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Checksum: 
-! Version: 20251222A
-! Title: The Squal's list 2025/2026
-! Last modified: 22 December 2025 09:40 UTC
+! Version: 20260520A
+! Title: The Squal's list 2026
+! Last modified: 20 Mai 2026 12:08 UTC+2
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/thesqual92/pihole-list/
 ! Filter URL : https://github.com/thesqual92/pihole-list/
@@ -89,9 +89,12 @@ bfmtv.com##.OUTBRAIN
 blob:https://www.bfmtv.com/7fdff157-401c-45bc-bcb2-f7e23a2b0102
 caminteresse.fr###ads-1093883816-1543974263
 caminteresse.fr##.ads.ads-Banniere-Haute.onlyDesktop
+capital.fr###img_ybfqurd9b9ei66ux5595utut
 capital.fr###outbrain_widget_0
 capital.fr###pmd-ads*
 capital.fr##.article-source
+capital.fr##.forced.img_ybfqurd9bcuj9iu9u7uhol9i
+capital.fr##.img_ybfqu8u7uj9iurcujou9gd9r.img_ybfqurd9buluruqo9xurq9i69qo9r929iu7ul.adLoaded
 capital.fr##.ob-widget-items-container
 capital.fr##.OUTBRAIN
 capital.fr##.outbrain-ads
@@ -577,6 +580,12 @@ universfreebox.com##.ub-c.with-label
 universfreebox.com##iframe[src="about:blank?unblockia=true"]
 universfreebox.com##iframe[src="https://www.universfreebox.com/ads.txt?unblockia=true"]
 universfreebox.com##p[style="margin-bottom: 5px; font-size: 0.7rem"]
+usinenouvelle.com###infeed_1
+usinenouvelle.com###inread_1
+usinenouvelle.com##.b-ad-banner.b-ad-banner__infeed
+usinenouvelle.com##.b-ad-banner.b-ad-banner__inread
+usinenouvelle.com##.b-ad-banner__wrap.infeed
+usinenouvelle.com##.b-ad-banner__wrap.pave.sticky.hideMobile
 visa-algerie.com###rbox-t2v
 visa-algerie.com###taboola-below-article-thumbnails
 visa-algerie.com##.ad__tag
@@ -609,3 +618,4 @@ zinfos974.com###taboola-below-article-thumbnails
 zinfos974.com##.tbl-feed-header.tbl-logo-right-position
 zinfos974.com##.trc_rbox_div.trc_rbox_border_elm
 zinfos974.com##.trc_related_container.trc_spotlight_widget.tbl-feed-container.tbl-feed-frame-DIVIDER.tbl-feed-abp.render-late-effect
+
